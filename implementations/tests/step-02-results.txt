@@ -1,0 +1,8 @@
+test_jsom_bootstrap_seed_and_nondestructive_repair (__main__.SchemaMigrations) ... ok
+test_syllabus_fresh_and_repeat (__main__.SchemaMigrations) ... ok
+test_syllabus_incompatible_vectors_preserved (__main__.SchemaMigrations) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 2.001s
+
+OK

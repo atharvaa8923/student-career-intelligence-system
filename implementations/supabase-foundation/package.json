@@ -1,0 +1,14 @@
+{
+  "name": "shared-supabase-foundation",
+  "private": true,
+  "scripts": {
+    "supabase:start": "supabase start",
+    "supabase:stop": "supabase stop",
+    "db:reset": "supabase db reset --local",
+    "db:test": "supabase test db",
+    "db:lint": "supabase db lint --local"
+  },
+  "devDependencies": {
+    "supabase": "^2.54.11"
+  }
+}

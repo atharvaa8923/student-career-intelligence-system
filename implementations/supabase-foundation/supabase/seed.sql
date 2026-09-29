@@ -1,0 +1,2 @@
+-- Intentionally empty. Create local Auth users through the Auth API or Studio.
+-- Do not seed administrator roles or real student information.

@@ -1,0 +1,44 @@
+# Local credentials and environment overrides
+.env
+.env.*
+!.env.example
+
+# Dependencies and Python environments
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Build, test, and framework output
+dist/
+build/
+.next/
+coverage/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.log
+
+# Local databases and runtime state
+postgres_data/
+*.sqlite
+*.sqlite3
+celerybeat-schedule
+supabase/.temp/
+supabase/.branches/
+
+# Generated report previews; keep the final DOCX report
+implementations/reports/qa/
+implementations/reports/qa-final/
+
+# OS and editor files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Local backup and export files
+backup.sql
+backup_clean.sql
+Receipt*.pdf

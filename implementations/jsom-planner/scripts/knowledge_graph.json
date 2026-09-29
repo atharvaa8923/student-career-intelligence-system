@@ -1,0 +1,4936 @@
+{
+  "courses": {
+    "ACCT 6330": {
+      "code": "ACCT 6330",
+      "subject": "ACCT",
+      "number": "6330",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics",
+        "Master of Science in Finance"
+      ],
+      "is_core_in": [
+        "Master of Science in Accounting and Analytics",
+        "Master of Science in Finance"
+      ],
+      "is_elective_in": []
+    },
+    "ACCT 6331": {
+      "code": "ACCT 6331",
+      "subject": "ACCT",
+      "number": "6331",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics"
+      ],
+      "is_core_in": [
+        "Master of Science in Accounting and Analytics"
+      ],
+      "is_elective_in": []
+    },
+    "ACCT 6332": {
+      "code": "ACCT 6332",
+      "subject": "ACCT",
+      "number": "6332",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics",
+        "Master of Science in Finance"
+      ],
+      "is_core_in": [
+        "Master of Science in Accounting and Analytics"
+      ],
+      "is_elective_in": [
+        "Master of Science in Finance - Corporate Finance"
+      ]
+    },
+    "ACCT 6374": {
+      "code": "ACCT 6374",
+      "subject": "ACCT",
+      "number": "6374",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics",
+        "Graduate Certificate in Research Foundations in Accounting"
+      ],
+      "is_core_in": [
+        "Master of Science in Accounting and Analytics",
+        "Graduate Certificate in Research Foundations in Accounting"
+      ],
+      "is_elective_in": []
+    },
+    "ACCT 6335": {
+      "code": "ACCT 6335",
+      "subject": "ACCT",
+      "number": "6335",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 1: Advanced Professional Accounting",
+        "Master of Science in Accounting and Analytics - Track 2: Professional Accounting"
+      ]
+    },
+    "ACCT 6344": {
+      "code": "ACCT 6344",
+      "subject": "ACCT",
+      "number": "6344",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics",
+        "Master of Science in Finance"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 1: Advanced Professional Accounting",
+        "Master of Science in Accounting and Analytics - Track 2: Professional Accounting",
+        "Master of Science in Accounting and Analytics - Track 4: Accounting Analytics",
+        "Master of Science in Finance - Financial Analyst"
+      ]
+    },
+    "ACCT 6353": {
+      "code": "ACCT 6353",
+      "subject": "ACCT",
+      "number": "6353",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 1: Advanced Professional Accounting",
+        "Master of Science in Accounting and Analytics - Track 2: Professional Accounting"
+      ]
+    },
+    "ACCT 6392": {
+      "code": "ACCT 6392",
+      "subject": "ACCT",
+      "number": "6392",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 1: Advanced Professional Accounting",
+        "Master of Science in Accounting and Analytics - Track 2: Professional Accounting",
+        "Master of Science in Accounting and Analytics - Track 3: Risk Assurance/Internal Auditing"
+      ]
+    },
+    "ACCT 6291": {
+      "code": "ACCT 6291",
+      "subject": "ACCT",
+      "number": "6291",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 1: Advanced Professional Accounting"
+      ]
+    },
+    "ACCT 6292": {
+      "code": "ACCT 6292",
+      "subject": "ACCT",
+      "number": "6292",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 1: Advanced Professional Accounting"
+      ]
+    },
+    "ACCT 6293": {
+      "code": "ACCT 6293",
+      "subject": "ACCT",
+      "number": "6293",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 1: Advanced Professional Accounting"
+      ]
+    },
+    "ACCT 6333": {
+      "code": "ACCT 6333",
+      "subject": "ACCT",
+      "number": "6333",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 1: Advanced Professional Accounting",
+        "Master of Science in Accounting and Analytics - Track 4: Accounting Analytics"
+      ]
+    },
+    "ACCT 6341": {
+      "code": "ACCT 6341",
+      "subject": "ACCT",
+      "number": "6341",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 1: Advanced Professional Accounting",
+        "Master of Science in Accounting and Analytics - Track 4: Accounting Analytics"
+      ]
+    },
+    "ACCT 6345": {
+      "code": "ACCT 6345",
+      "subject": "ACCT",
+      "number": "6345",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 1: Advanced Professional Accounting",
+        "Master of Science in Accounting and Analytics - Track 4: Accounting Analytics"
+      ]
+    },
+    "ACCT 6365": {
+      "code": "ACCT 6365",
+      "subject": "ACCT",
+      "number": "6365",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 1: Advanced Professional Accounting"
+      ]
+    },
+    "ACCT 6384": {
+      "code": "ACCT 6384",
+      "subject": "ACCT",
+      "number": "6384",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics",
+        "Graduate Certificate in Cybersecurity Risk Management"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Cybersecurity Risk Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 1: Advanced Professional Accounting",
+        "Master of Science in Accounting and Analytics - Track 3: Risk Assurance/Internal Auditing",
+        "Master of Science in Accounting and Analytics - Track 4: Accounting Analytics"
+      ]
+    },
+    "ACCT 6313": {
+      "code": "ACCT 6313",
+      "subject": "ACCT",
+      "number": "6313",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 1: Advanced Professional Accounting"
+      ]
+    },
+    "ACCT 6320": {
+      "code": "ACCT 6320",
+      "subject": "ACCT",
+      "number": "6320",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 1: Advanced Professional Accounting",
+        "Master of Science in Accounting and Analytics - Track 2: Professional Accounting",
+        "Master of Science in Accounting and Analytics - Track 4: Accounting Analytics"
+      ]
+    },
+    "ACCT 6336": {
+      "code": "ACCT 6336",
+      "subject": "ACCT",
+      "number": "6336",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics",
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 1: Advanced Professional Accounting",
+        "Master of Science in Accounting and Analytics - Track 2: Professional Accounting",
+        "Master of Science in Accounting and Analytics - Track 3: Risk Assurance/Internal Auditing",
+        "Master of Science in Accounting and Analytics - Track 4: Accounting Analytics",
+        "Master of Science in International Management Studies - Information Technology for Management"
+      ]
+    },
+    "ACCT 6380": {
+      "code": "ACCT 6380",
+      "subject": "ACCT",
+      "number": "6380",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics",
+        "Graduate Certificate in Cybersecurity Systems (CCSS)",
+        "Graduate Certificate in Cybersecurity Risk Management"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Cybersecurity Systems (CCSS)",
+        "Graduate Certificate in Cybersecurity Risk Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 1: Advanced Professional Accounting",
+        "Master of Science in Accounting and Analytics - Track 3: Risk Assurance/Internal Auditing"
+      ]
+    },
+    "ACCT 6386": {
+      "code": "ACCT 6386",
+      "subject": "ACCT",
+      "number": "6386",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics",
+        "Graduate Certificate in Cybersecurity Risk Management",
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Cybersecurity Risk Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 1: Advanced Professional Accounting",
+        "Master of Science in Accounting and Analytics - Track 3: Risk Assurance/Internal Auditing",
+        "Master of Science in International Management Studies - Finance",
+        "Master of Science in International Management Studies - Information Technology for Management"
+      ]
+    },
+    "ACCT 6354": {
+      "code": "ACCT 6354",
+      "subject": "ACCT",
+      "number": "6354",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 1: Advanced Professional Accounting"
+      ]
+    },
+    "ACCT 6356": {
+      "code": "ACCT 6356",
+      "subject": "ACCT",
+      "number": "6356",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 1: Advanced Professional Accounting"
+      ]
+    },
+    "ACCT 6367": {
+      "code": "ACCT 6367",
+      "subject": "ACCT",
+      "number": "6367",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 1: Advanced Professional Accounting"
+      ]
+    },
+    "ACCT 6334": {
+      "code": "ACCT 6334",
+      "subject": "ACCT",
+      "number": "6334",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics",
+        "Graduate Certificate in Cybersecurity Risk Management"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Cybersecurity Risk Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 2: Professional Accounting"
+      ]
+    },
+    "ACCT 6350": {
+      "code": "ACCT 6350",
+      "subject": "ACCT",
+      "number": "6350",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 2: Professional Accounting"
+      ]
+    },
+    "ACCT 6321": {
+      "code": "ACCT 6321",
+      "subject": "ACCT",
+      "number": "6321",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 2: Professional Accounting",
+        "Master of Science in Accounting and Analytics - Track 4: Accounting Analytics"
+      ]
+    },
+    "ACCT 6338": {
+      "code": "ACCT 6338",
+      "subject": "ACCT",
+      "number": "6338",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 2: Professional Accounting",
+        "Master of Science in Accounting and Analytics - Track 4: Accounting Analytics"
+      ]
+    },
+    "ACCT 6343": {
+      "code": "ACCT 6343",
+      "subject": "ACCT",
+      "number": "6343",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 2: Professional Accounting",
+        "Master of Science in Accounting and Analytics - Track 4: Accounting Analytics"
+      ]
+    },
+    "ACCT 6383": {
+      "code": "ACCT 6383",
+      "subject": "ACCT",
+      "number": "6383",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics",
+        "Graduate Certificate in Cybersecurity Risk Management"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Cybersecurity Risk Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 3: Risk Assurance/Internal Auditing"
+      ]
+    },
+    "BUAN 6324": {
+      "code": "BUAN 6324",
+      "subject": "BUAN",
+      "number": "6324",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics",
+        "Master of Science in Business Analytics and Artificial Intelligence"
+      ],
+      "is_core_in": [
+        "Master of Science in Business Analytics and Artificial Intelligence"
+      ],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 4: Accounting Analytics"
+      ]
+    },
+    "BUAN 6356": {
+      "code": "BUAN 6356",
+      "subject": "BUAN",
+      "number": "6356",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics",
+        "Master of Science in Business Analytics and Artificial Intelligence",
+        "Graduate Certificate in Applied Machine Learning",
+        "Graduate Certificate in Analytics for Managers",
+        "Graduate Certificate in Business Decision Analytics"
+      ],
+      "is_core_in": [
+        "Master of Science in Business Analytics and Artificial Intelligence",
+        "Graduate Certificate in Applied Machine Learning",
+        "Graduate Certificate in Analytics for Managers",
+        "Graduate Certificate in Business Decision Analytics"
+      ],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 4: Accounting Analytics"
+      ]
+    },
+    "FIN 6301": {
+      "code": "FIN 6301",
+      "subject": "FIN",
+      "number": "6301",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics",
+        "Master of Business Administration",
+        "Master of Science in Finance",
+        "Master of Science in Information Technology and Management",
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing",
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_core_in": [
+        "Master of Business Administration",
+        "Master of Science in Finance",
+        "Master of Science in Information Technology and Management",
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 4: Accounting Analytics",
+        "Master of Science in International Management Studies - Finance",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "OPRE 6332": {
+      "code": "OPRE 6332",
+      "subject": "OPRE",
+      "number": "6332",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics",
+        "Master of Science in Healthcare Leadership and Management",
+        "Master of Science in International Management Studies",
+        "Master of Science in Management Science",
+        "Master of Science in Marketing",
+        "Master of Science in Supply Chain Management",
+        "Graduate Certificate in Procurement in Supply Chain Management"
+      ],
+      "is_core_in": [
+        "Master of Science in Management Science",
+        "Graduate Certificate in Procurement in Supply Chain Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 4: Accounting Analytics",
+        "Master of Science in Healthcare Leadership and Management - Quality Improvement",
+        "Master of Science in Healthcare Leadership and Management - Supply Chain Management",
+        "Master of Science in International Management Studies - Business Analytics",
+        "Master of Science in International Management Studies - Supply Chain Management",
+        "Master of Science in Marketing - Consumer and Shopper Insights",
+        "Master of Science in Marketing - Marketing Analytics",
+        "Master of Science in Marketing - Marketing Management",
+        "Master of Science in Supply Chain Management - Analytics"
+      ]
+    },
+    "OPRE 6359": {
+      "code": "OPRE 6359",
+      "subject": "OPRE",
+      "number": "6359",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics",
+        "Graduate Certificate in Research Foundations in Accounting",
+        "Master of Science in Information Technology and Management",
+        "Graduate Certificate in Business Analytics and Data Mining",
+        "Master of Science in Management Science",
+        "Master of Science in Marketing",
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Research Foundations in Accounting",
+        "Master of Science in Information Technology and Management",
+        "Graduate Certificate in Business Analytics and Data Mining",
+        "Master of Science in Management Science",
+        "Master of Science in Marketing",
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 5: Research Foundations in Accounting",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "ACCT 7323": {
+      "code": "ACCT 7323",
+      "subject": "ACCT",
+      "number": "7323",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics",
+        "Graduate Certificate in Research Foundations in Accounting"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Research Foundations in Accounting"
+      ],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 5: Research Foundations in Accounting"
+      ]
+    },
+    "BUAN 6312": {
+      "code": "BUAN 6312",
+      "subject": "BUAN",
+      "number": "6312",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics",
+        "Graduate Certificate in Research Foundations in Accounting",
+        "Master of Science in Business Analytics and Artificial Intelligence",
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Research Foundations in Accounting",
+        "Master of Science in Business Analytics and Artificial Intelligence"
+      ],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 5: Research Foundations in Accounting",
+        "Master of Science in International Management Studies - Business Analytics",
+        "Master of Science in Marketing - Marketing Analytics",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "FIN 6350": {
+      "code": "FIN 6350",
+      "subject": "FIN",
+      "number": "6350",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics",
+        "Graduate Certificate in Research Foundations in Accounting",
+        "Master of Science in Finance"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Research Foundations in Accounting"
+      ],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 5: Research Foundations in Accounting",
+        "Master of Science in Finance - Corporate Finance",
+        "Master of Science in Finance - Financial Management"
+      ]
+    },
+    "ACCT 7324": {
+      "code": "ACCT 7324",
+      "subject": "ACCT",
+      "number": "7324",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics",
+        "Graduate Certificate in Research Foundations in Accounting"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Research Foundations in Accounting"
+      ],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 5: Research Foundations in Accounting"
+      ]
+    },
+    "SCH 7000": {
+      "code": "SCH 7000",
+      "subject": "SCH",
+      "number": "7000",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 5: Research Foundations in Accounting"
+      ]
+    },
+    "ACCT 7314": {
+      "code": "ACCT 7314",
+      "subject": "ACCT",
+      "number": "7314",
+      "appears_in_programs": [
+        "Graduate Certificate in Research Foundations in Accounting"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Research Foundations in Accounting"
+      ],
+      "is_elective_in": []
+    },
+    "MECO 6303": {
+      "code": "MECO 6303",
+      "subject": "MECO",
+      "number": "6303",
+      "appears_in_programs": [
+        "Graduate Certificate in Research Foundations in Accounting",
+        "Master of Business Administration",
+        "Master of Science in Information Technology and Management",
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Research Foundations in Accounting",
+        "Master of Business Administration",
+        "Master of Science in Information Technology and Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Sustainable Business",
+        "Master of Science in Marketing - Consumer and Shopper Insights",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "MECO 6345": {
+      "code": "MECO 6345",
+      "subject": "MECO",
+      "number": "6345",
+      "appears_in_programs": [
+        "Graduate Certificate in Research Foundations in Accounting",
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Research Foundations in Accounting"
+      ],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Sustainable Business"
+      ]
+    },
+    "ACCT 6301": {
+      "code": "ACCT 6301",
+      "subject": "ACCT",
+      "number": "6301",
+      "appears_in_programs": [
+        "Master of Business Administration",
+        "Master of Science in Finance",
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing",
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_core_in": [
+        "Master of Business Administration",
+        "Master of Science in Finance",
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Finance",
+        "Master of Science in International Management Studies - Sustainable Business",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "ACCT 6202": {
+      "code": "ACCT 6202",
+      "subject": "ACCT",
+      "number": "6202",
+      "appears_in_programs": [
+        "Master of Business Administration"
+      ],
+      "is_core_in": [
+        "Master of Business Administration"
+      ],
+      "is_elective_in": []
+    },
+    "BPS 6310": {
+      "code": "BPS 6310",
+      "subject": "BPS",
+      "number": "6310",
+      "appears_in_programs": [
+        "Master of Business Administration",
+        "Master of Science in Information Technology and Management",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Master of Business Administration",
+        "Master of Science in Information Technology and Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in Marketing - Product Management",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "IMS 6304": {
+      "code": "IMS 6304",
+      "subject": "IMS",
+      "number": "6304",
+      "appears_in_programs": [
+        "Master of Business Administration",
+        "Master of Science in Information Technology and Management",
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [
+        "Master of Business Administration",
+        "Master of Science in Information Technology and Management",
+        "Master of Science in International Management Studies"
+      ],
+      "is_elective_in": []
+    },
+    "IMS 6310": {
+      "code": "IMS 6310",
+      "subject": "IMS",
+      "number": "6310",
+      "appears_in_programs": [
+        "Master of Business Administration",
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Master of Business Administration",
+        "Master of Science in International Management Studies"
+      ],
+      "is_elective_in": [
+        "Master of Science in Marketing - Product Management",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "IMS 6360": {
+      "code": "IMS 6360",
+      "subject": "IMS",
+      "number": "6360",
+      "appears_in_programs": [
+        "Master of Business Administration",
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Master of Business Administration",
+        "Master of Science in International Management Studies"
+      ],
+      "is_elective_in": [
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "IMS 6365": {
+      "code": "IMS 6365",
+      "subject": "IMS",
+      "number": "6365",
+      "appears_in_programs": [
+        "Master of Business Administration",
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [
+        "Master of Business Administration",
+        "Master of Science in International Management Studies"
+      ],
+      "is_elective_in": []
+    },
+    "MIS 6313": {
+      "code": "MIS 6313",
+      "subject": "MIS",
+      "number": "6313",
+      "appears_in_programs": [
+        "Master of Business Administration",
+        "Graduate Certificate in Product Management",
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [
+        "Master of Business Administration",
+        "Graduate Certificate in Product Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Information Technology for Management"
+      ]
+    },
+    "MKT 6301": {
+      "code": "MKT 6301",
+      "subject": "MKT",
+      "number": "6301",
+      "appears_in_programs": [
+        "Master of Business Administration",
+        "Master of Science in Information Technology and Management",
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Master of Business Administration",
+        "Master of Science in Information Technology and Management",
+        "Master of Science in Marketing"
+      ],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Global Leadership and Management",
+        "Master of Science in International Management Studies - Marketing Management"
+      ]
+    },
+    "OB 6301": {
+      "code": "OB 6301",
+      "subject": "OB",
+      "number": "6301",
+      "appears_in_programs": [
+        "Master of Business Administration",
+        "Master of Science in Information Technology and Management",
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Master of Business Administration",
+        "Master of Science in Information Technology and Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Global Leadership and Management",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "OPRE 6301": {
+      "code": "OPRE 6301",
+      "subject": "OPRE",
+      "number": "6301",
+      "appears_in_programs": [
+        "Master of Business Administration",
+        "Master of Science in Healthcare Leadership and Management",
+        "Master of Science in Information Technology and Management",
+        "Graduate Certificate in Business Analytics and Data Mining",
+        "Master of Science in International Management Studies",
+        "Master of Science in Management Science",
+        "Master of Science in Marketing",
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_core_in": [
+        "Master of Business Administration",
+        "Master of Science in Information Technology and Management",
+        "Graduate Certificate in Business Analytics and Data Mining",
+        "Master of Science in Management Science",
+        "Master of Science in Marketing",
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in Healthcare Leadership and Management - Healthcare Informatics",
+        "Master of Science in Healthcare Leadership and Management - Supply Chain Management",
+        "Master of Science in International Management Studies - Business Analytics",
+        "Master of Science in International Management Studies - Finance",
+        "Master of Science in International Management Studies - Global Leadership and Management",
+        "Master of Science in International Management Studies - Innovation and Entrepreneurship",
+        "Master of Science in International Management Studies - Marketing Management",
+        "Master of Science in International Management Studies - Supply Chain Management",
+        "Master of Science in International Management Studies - Sustainable Business"
+      ]
+    },
+    "OPRE 6302": {
+      "code": "OPRE 6302",
+      "subject": "OPRE",
+      "number": "6302",
+      "appears_in_programs": [
+        "Master of Business Administration",
+        "Master of Science in Information Technology and Management",
+        "Master of Science in International Management Studies",
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_core_in": [
+        "Master of Business Administration",
+        "Master of Science in Information Technology and Management",
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Business Analytics",
+        "Master of Science in International Management Studies - Supply Chain Management"
+      ]
+    },
+    "BUAN 6320": {
+      "code": "BUAN 6320",
+      "subject": "BUAN",
+      "number": "6320",
+      "appears_in_programs": [
+        "Master of Science in Business Analytics and Artificial Intelligence",
+        "Graduate Certificate in Applied Data Engineering for Managers",
+        "Graduate Certificate in Business Decision Analytics",
+        "Master of Science in Information Technology and Management",
+        "Master of Science in International Management Studies",
+        "Master of Science in Management Science",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Master of Science in Business Analytics and Artificial Intelligence",
+        "Graduate Certificate in Applied Data Engineering for Managers",
+        "Graduate Certificate in Business Decision Analytics",
+        "Master of Science in Information Technology and Management",
+        "Master of Science in Management Science"
+      ],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Business Analytics",
+        "Master of Science in International Management Studies - Global Leadership and Management",
+        "Master of Science in Marketing - Consumer and Shopper Insights",
+        "Master of Science in Marketing - Marketing Analytics",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "BUAN 6383": {
+      "code": "BUAN 6383",
+      "subject": "BUAN",
+      "number": "6383",
+      "appears_in_programs": [
+        "Master of Science in Business Analytics and Artificial Intelligence",
+        "Graduate Certificate in Applied Machine Learning",
+        "Graduate Certificate in Analytics for Managers",
+        "Graduate Certificate in Business Decision Analytics",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Master of Science in Business Analytics and Artificial Intelligence",
+        "Graduate Certificate in Applied Machine Learning",
+        "Graduate Certificate in Analytics for Managers",
+        "Graduate Certificate in Business Decision Analytics"
+      ],
+      "is_elective_in": [
+        "Master of Science in Marketing - Marketing Analytics",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "BUAN 6337": {
+      "code": "BUAN 6337",
+      "subject": "BUAN",
+      "number": "6337",
+      "appears_in_programs": [
+        "Master of Science in Business Analytics and Artificial Intelligence",
+        "Graduate Certificate in Business Decision Analytics"
+      ],
+      "is_core_in": [
+        "Master of Science in Business Analytics and Artificial Intelligence",
+        "Graduate Certificate in Business Decision Analytics"
+      ],
+      "is_elective_in": []
+    },
+    "BUAN 6398": {
+      "code": "BUAN 6398",
+      "subject": "BUAN",
+      "number": "6398",
+      "appears_in_programs": [
+        "Master of Science in Business Analytics and Artificial Intelligence",
+        "Graduate Certificate in Business Decision Analytics",
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Master of Science in Business Analytics and Artificial Intelligence",
+        "Graduate Certificate in Business Decision Analytics"
+      ],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Business Analytics",
+        "Master of Science in Marketing - Marketing Analytics",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "BUAN 6359": {
+      "code": "BUAN 6359",
+      "subject": "BUAN",
+      "number": "6359",
+      "appears_in_programs": [
+        "Master of Science in Business Analytics and Artificial Intelligence",
+        "Graduate Certificate in Applied Machine Learning",
+        "Graduate Certificate in Analytics for Managers"
+      ],
+      "is_core_in": [
+        "Master of Science in Business Analytics and Artificial Intelligence",
+        "Graduate Certificate in Applied Machine Learning",
+        "Graduate Certificate in Analytics for Managers"
+      ],
+      "is_elective_in": []
+    },
+    "BUAN 6341": {
+      "code": "BUAN 6341",
+      "subject": "BUAN",
+      "number": "6341",
+      "appears_in_programs": [
+        "Graduate Certificate in Applied Machine Learning",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Applied Machine Learning"
+      ],
+      "is_elective_in": [
+        "Master of Science in Marketing - Marketing Analytics",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "BUAN 6342": {
+      "code": "BUAN 6342",
+      "subject": "BUAN",
+      "number": "6342",
+      "appears_in_programs": [
+        "Graduate Certificate in Applied Machine Learning"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Applied Machine Learning"
+      ],
+      "is_elective_in": []
+    },
+    "BUAN 6382": {
+      "code": "BUAN 6382",
+      "subject": "BUAN",
+      "number": "6382",
+      "appears_in_programs": [
+        "Graduate Certificate in Applied Machine Learning",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Applied Machine Learning"
+      ],
+      "is_elective_in": [
+        "Master of Science in Marketing - Marketing Analytics",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "BUAN 6335": {
+      "code": "BUAN 6335",
+      "subject": "BUAN",
+      "number": "6335",
+      "appears_in_programs": [
+        "Graduate Certificate in Applied Data Engineering for Managers",
+        "Graduate Certificate in Analytics for Managers",
+        "Graduate Certificate in Business Analytics and Data Mining",
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Applied Data Engineering for Managers",
+        "Graduate Certificate in Analytics for Managers",
+        "Graduate Certificate in Business Analytics and Data Mining"
+      ],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Business Analytics",
+        "Master of Science in Marketing - Marketing Analytics",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "BUAN 6346": {
+      "code": "BUAN 6346",
+      "subject": "BUAN",
+      "number": "6346",
+      "appears_in_programs": [
+        "Graduate Certificate in Applied Data Engineering for Managers",
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Applied Data Engineering for Managers"
+      ],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Business Analytics",
+        "Master of Science in International Management Studies - Global Leadership and Management",
+        "Master of Science in Marketing - Marketing Analytics",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "BUAN 6347": {
+      "code": "BUAN 6347",
+      "subject": "BUAN",
+      "number": "6347",
+      "appears_in_programs": [
+        "Graduate Certificate in Applied Data Engineering for Managers",
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Applied Data Engineering for Managers"
+      ],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Business Analytics",
+        "Master of Science in Marketing - Marketing Analytics",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "MIS 6380": {
+      "code": "MIS 6380",
+      "subject": "MIS",
+      "number": "6380",
+      "appears_in_programs": [
+        "Graduate Certificate in Analytics for Managers",
+        "Graduate Certificate in Business Analytics and Data Mining",
+        "Graduate Certificate in Product Management",
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Analytics for Managers",
+        "Graduate Certificate in Business Analytics and Data Mining",
+        "Graduate Certificate in Product Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Business Analytics",
+        "Master of Science in International Management Studies - Information Technology for Management",
+        "Master of Science in Marketing - Advertising and Branding",
+        "Master of Science in Marketing - Consumer and Shopper Insights",
+        "Master of Science in Marketing - Marketing Analytics",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "ENGY 6330": {
+      "code": "ENGY 6330",
+      "subject": "ENGY",
+      "number": "6330",
+      "appears_in_programs": [
+        "Master of Science in Energy Management"
+      ],
+      "is_core_in": [
+        "Master of Science in Energy Management"
+      ],
+      "is_elective_in": []
+    },
+    "ENGY 6336": {
+      "code": "ENGY 6336",
+      "subject": "ENGY",
+      "number": "6336",
+      "appears_in_programs": [
+        "Master of Science in Energy Management"
+      ],
+      "is_core_in": [
+        "Master of Science in Energy Management"
+      ],
+      "is_elective_in": []
+    },
+    "MECO 6318": {
+      "code": "MECO 6318",
+      "subject": "MECO",
+      "number": "6318",
+      "appears_in_programs": [
+        "Master of Science in Energy Management",
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [
+        "Master of Science in Energy Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Sustainable Business"
+      ]
+    },
+    "OPRE 6389": {
+      "code": "OPRE 6389",
+      "subject": "OPRE",
+      "number": "6389",
+      "appears_in_programs": [
+        "Master of Science in Energy Management",
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_core_in": [
+        "Master of Science in Energy Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in Supply Chain Management - Risk and Strategy"
+      ]
+    },
+    "ACCT 6305": {
+      "code": "ACCT 6305",
+      "subject": "ACCT",
+      "number": "6305",
+      "appears_in_programs": [
+        "Master of Science in Finance",
+        "Master of Science in Information Technology and Management",
+        "Master of Science in Marketing",
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_core_in": [
+        "Master of Science in Finance",
+        "Master of Science in Information Technology and Management",
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "FIN 6307": {
+      "code": "FIN 6307",
+      "subject": "FIN",
+      "number": "6307",
+      "appears_in_programs": [
+        "Master of Science in Finance"
+      ],
+      "is_core_in": [
+        "Master of Science in Finance"
+      ],
+      "is_elective_in": []
+    },
+    "FIN 6318": {
+      "code": "FIN 6318",
+      "subject": "FIN",
+      "number": "6318",
+      "appears_in_programs": [
+        "Master of Science in Finance"
+      ],
+      "is_core_in": [
+        "Master of Science in Finance"
+      ],
+      "is_elective_in": []
+    },
+    "FIN 6352": {
+      "code": "FIN 6352",
+      "subject": "FIN",
+      "number": "6352",
+      "appears_in_programs": [
+        "Master of Science in Finance",
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [
+        "Master of Science in Finance"
+      ],
+      "is_elective_in": [
+        "Master of Science in Finance - Corporate Finance",
+        "Master of Science in Finance - Financial Management",
+        "Master of Science in International Management Studies - Finance"
+      ]
+    },
+    "FIN 6353": {
+      "code": "FIN 6353",
+      "subject": "FIN",
+      "number": "6353",
+      "appears_in_programs": [
+        "Master of Science in Finance"
+      ],
+      "is_core_in": [
+        "Master of Science in Finance"
+      ],
+      "is_elective_in": [
+        "Master of Science in Finance - Financial Analyst",
+        "Master of Science in Finance - Financial Management"
+      ]
+    },
+    "FIN 6360": {
+      "code": "FIN 6360",
+      "subject": "FIN",
+      "number": "6360",
+      "appears_in_programs": [
+        "Master of Science in Finance"
+      ],
+      "is_core_in": [
+        "Master of Science in Finance"
+      ],
+      "is_elective_in": []
+    },
+    "FIN 6308": {
+      "code": "FIN 6308",
+      "subject": "FIN",
+      "number": "6308",
+      "appears_in_programs": [
+        "Master of Science in Finance",
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Finance - Financial Analyst",
+        "Master of Science in Finance - Financial Management",
+        "Master of Science in International Management Studies - Finance"
+      ]
+    },
+    "FIN 6310": {
+      "code": "FIN 6310",
+      "subject": "FIN",
+      "number": "6310",
+      "appears_in_programs": [
+        "Master of Science in Finance",
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Finance - Financial Analyst",
+        "Master of Science in Finance - Financial Technology",
+        "Master of Science in Finance - Financial Management",
+        "Master of Science in International Management Studies - Finance"
+      ]
+    },
+    "FIN 6314": {
+      "code": "FIN 6314",
+      "subject": "FIN",
+      "number": "6314",
+      "appears_in_programs": [
+        "Master of Science in Finance"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Finance - Financial Analyst",
+        "Master of Science in Finance - Financial Management"
+      ]
+    },
+    "FIN 6325": {
+      "code": "FIN 6325",
+      "subject": "FIN",
+      "number": "6325",
+      "appears_in_programs": [
+        "Master of Science in Finance",
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Finance - Financial Analyst",
+        "Master of Science in Finance - Financial Management",
+        "Master of Science in International Management Studies - Finance"
+      ]
+    },
+    "FIN 6327": {
+      "code": "FIN 6327",
+      "subject": "FIN",
+      "number": "6327",
+      "appears_in_programs": [
+        "Master of Science in Finance"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Finance - Financial Analyst",
+        "Master of Science in Finance - Financial Technology",
+        "Master of Science in Finance - Financial Management"
+      ]
+    },
+    "FIN 6362": {
+      "code": "FIN 6362",
+      "subject": "FIN",
+      "number": "6362",
+      "appears_in_programs": [
+        "Master of Science in Finance"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Finance - Financial Analyst",
+        "Master of Science in Finance - Corporate Finance",
+        "Master of Science in Finance - Financial Technology",
+        "Master of Science in Finance - Risk Management",
+        "Master of Science in Finance - Financial Management"
+      ]
+    },
+    "FIN 6364": {
+      "code": "FIN 6364",
+      "subject": "FIN",
+      "number": "6364",
+      "appears_in_programs": [
+        "Master of Science in Finance",
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Finance - Financial Analyst",
+        "Master of Science in Finance - Financial Management",
+        "Master of Science in International Management Studies - Finance"
+      ]
+    },
+    "FIN 6368": {
+      "code": "FIN 6368",
+      "subject": "FIN",
+      "number": "6368",
+      "appears_in_programs": [
+        "Master of Science in Finance"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Finance - Financial Analyst",
+        "Master of Science in Finance - Financial Technology",
+        "Master of Science in Finance - Energy Financial Management",
+        "Master of Science in Finance - Financial Management"
+      ]
+    },
+    "FIN 6380": {
+      "code": "FIN 6380",
+      "subject": "FIN",
+      "number": "6380",
+      "appears_in_programs": [
+        "Master of Science in Finance",
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Finance - Financial Analyst",
+        "Master of Science in Finance - Financial Management",
+        "Master of Science in International Management Studies - Finance"
+      ]
+    },
+    "FIN 6392": {
+      "code": "FIN 6392",
+      "subject": "FIN",
+      "number": "6392",
+      "appears_in_programs": [
+        "Master of Science in Finance"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Finance - Financial Analyst",
+        "Master of Science in Finance - Financial Technology",
+        "Master of Science in Finance - Financial Management"
+      ]
+    },
+    "FIN 6315": {
+      "code": "FIN 6315",
+      "subject": "FIN",
+      "number": "6315",
+      "appears_in_programs": [
+        "Master of Science in Finance",
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Finance - Corporate Finance",
+        "Master of Science in Finance - Financial Management",
+        "Master of Science in International Management Studies - Finance"
+      ]
+    },
+    "FIN 6316": {
+      "code": "FIN 6316",
+      "subject": "FIN",
+      "number": "6316",
+      "appears_in_programs": [
+        "Master of Science in Finance",
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Finance - Corporate Finance",
+        "Master of Science in Finance - Financial Management",
+        "Master of Science in International Management Studies - Finance"
+      ]
+    },
+    "FIN 6335": {
+      "code": "FIN 6335",
+      "subject": "FIN",
+      "number": "6335",
+      "appears_in_programs": [
+        "Master of Science in Finance"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Finance - Corporate Finance",
+        "Master of Science in Finance - Energy Financial Management",
+        "Master of Science in Finance - Financial Management"
+      ]
+    },
+    "FIN 6356": {
+      "code": "FIN 6356",
+      "subject": "FIN",
+      "number": "6356",
+      "appears_in_programs": [
+        "Master of Science in Finance",
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Finance - Corporate Finance",
+        "Master of Science in Finance - Financial Management",
+        "Master of Science in International Management Studies - Finance"
+      ]
+    },
+    "FIN 6357": {
+      "code": "FIN 6357",
+      "subject": "FIN",
+      "number": "6357",
+      "appears_in_programs": [
+        "Master of Science in Finance",
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Finance - Corporate Finance",
+        "Master of Science in Finance - Financial Technology",
+        "Master of Science in Finance - Financial Management",
+        "Master of Science in International Management Studies - Finance"
+      ]
+    },
+    "FIN 6366": {
+      "code": "FIN 6366",
+      "subject": "FIN",
+      "number": "6366",
+      "appears_in_programs": [
+        "Master of Science in Finance",
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Finance - Corporate Finance",
+        "Master of Science in Finance - Financial Management",
+        "Master of Science in International Management Studies - Finance"
+      ]
+    },
+    "MECO 6352": {
+      "code": "MECO 6352",
+      "subject": "MECO",
+      "number": "6352",
+      "appears_in_programs": [
+        "Master of Science in Finance"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Finance - Corporate Finance"
+      ]
+    },
+    "FIN 6321": {
+      "code": "FIN 6321",
+      "subject": "FIN",
+      "number": "6321",
+      "appears_in_programs": [
+        "Master of Science in Finance",
+        "Graduate Certificate in Real Estate Investment Management",
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Real Estate Investment Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in Finance - Real Estate Investment Management",
+        "Master of Science in Finance - Financial Management",
+        "Master of Science in International Management Studies - Finance"
+      ]
+    },
+    "REAL 6321": {
+      "code": "REAL 6321",
+      "subject": "REAL",
+      "number": "6321",
+      "appears_in_programs": [
+        "Master of Science in Finance",
+        "Graduate Certificate in Real Estate Investment Management",
+        "Master of Science in Information Technology and Management",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Real Estate Investment Management",
+        "Master of Science in Information Technology and Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in Finance - Real Estate Investment Management",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "FIN 6322": {
+      "code": "FIN 6322",
+      "subject": "FIN",
+      "number": "6322",
+      "appears_in_programs": [
+        "Master of Science in Finance",
+        "Graduate Certificate in Real Estate Investment Management",
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Real Estate Investment Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in Finance - Real Estate Investment Management",
+        "Master of Science in Finance - Financial Management",
+        "Master of Science in International Management Studies - Finance"
+      ]
+    },
+    "REAL 6322": {
+      "code": "REAL 6322",
+      "subject": "REAL",
+      "number": "6322",
+      "appears_in_programs": [
+        "Master of Science in Finance",
+        "Graduate Certificate in Real Estate Investment Management"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Real Estate Investment Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in Finance - Real Estate Investment Management"
+      ]
+    },
+    "FIN 6323": {
+      "code": "FIN 6323",
+      "subject": "FIN",
+      "number": "6323",
+      "appears_in_programs": [
+        "Master of Science in Finance",
+        "Graduate Certificate in Real Estate Investment Management",
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Real Estate Investment Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in Finance - Real Estate Investment Management",
+        "Master of Science in Finance - Financial Management",
+        "Master of Science in International Management Studies - Finance"
+      ]
+    },
+    "REAL 6323": {
+      "code": "REAL 6323",
+      "subject": "REAL",
+      "number": "6323",
+      "appears_in_programs": [
+        "Master of Science in Finance",
+        "Graduate Certificate in Real Estate Investment Management"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Real Estate Investment Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in Finance - Real Estate Investment Management"
+      ]
+    },
+    "FIN 6326": {
+      "code": "FIN 6326",
+      "subject": "FIN",
+      "number": "6326",
+      "appears_in_programs": [
+        "Master of Science in Finance",
+        "Graduate Certificate in Real Estate Investment Management",
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Real Estate Investment Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in Finance - Real Estate Investment Management",
+        "Master of Science in Finance - Financial Management",
+        "Master of Science in International Management Studies - Finance"
+      ]
+    },
+    "REAL 6326": {
+      "code": "REAL 6326",
+      "subject": "REAL",
+      "number": "6326",
+      "appears_in_programs": [
+        "Master of Science in Finance",
+        "Graduate Certificate in Real Estate Investment Management"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Real Estate Investment Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in Finance - Real Estate Investment Management"
+      ]
+    },
+    "FIN 6329": {
+      "code": "FIN 6329",
+      "subject": "FIN",
+      "number": "6329",
+      "appears_in_programs": [
+        "Master of Science in Finance"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Finance - Financial Technology",
+        "Master of Science in Finance - Risk Management",
+        "Master of Science in Finance - Financial Management"
+      ]
+    },
+    "FIN 6336": {
+      "code": "FIN 6336",
+      "subject": "FIN",
+      "number": "6336",
+      "appears_in_programs": [
+        "Master of Science in Finance"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Finance - Financial Technology",
+        "Master of Science in Finance - Energy Financial Management",
+        "Master of Science in Finance - Financial Management"
+      ]
+    },
+    "FIN 6382": {
+      "code": "FIN 6382",
+      "subject": "FIN",
+      "number": "6382",
+      "appears_in_programs": [
+        "Master of Science in Finance"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Finance - Financial Technology",
+        "Master of Science in Finance - Financial Management"
+      ]
+    },
+    "FIN 6340": {
+      "code": "FIN 6340",
+      "subject": "FIN",
+      "number": "6340",
+      "appears_in_programs": [
+        "Master of Science in Finance"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Finance - Risk Management",
+        "Master of Science in Finance - Financial Management"
+      ]
+    },
+    "FIN 6341": {
+      "code": "FIN 6341",
+      "subject": "FIN",
+      "number": "6341",
+      "appears_in_programs": [
+        "Master of Science in Finance"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Finance - Risk Management",
+        "Master of Science in Finance - Energy Financial Management",
+        "Master of Science in Finance - Financial Management"
+      ]
+    },
+    "FIN 6342": {
+      "code": "FIN 6342",
+      "subject": "FIN",
+      "number": "6342",
+      "appears_in_programs": [
+        "Master of Science in Finance"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Finance - Risk Management",
+        "Master of Science in Finance - Financial Management"
+      ]
+    },
+    "FIN 6385": {
+      "code": "FIN 6385",
+      "subject": "FIN",
+      "number": "6385",
+      "appears_in_programs": [
+        "Master of Science in Finance"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Finance - Risk Management",
+        "Master of Science in Finance - Financial Management"
+      ]
+    },
+    "OPRE 6335": {
+      "code": "OPRE 6335",
+      "subject": "OPRE",
+      "number": "6335",
+      "appears_in_programs": [
+        "Master of Science in Finance",
+        "Master of Science in International Management Studies",
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Finance - Risk Management",
+        "Master of Science in International Management Studies - Business Analytics",
+        "Master of Science in International Management Studies - Global Leadership and Management",
+        "Master of Science in International Management Studies - Innovation and Entrepreneurship",
+        "Master of Science in International Management Studies - Sustainable Business",
+        "Master of Science in Supply Chain Management - Risk and Strategy"
+      ]
+    },
+    "FIN 6370": {
+      "code": "FIN 6370",
+      "subject": "FIN",
+      "number": "6370",
+      "appears_in_programs": [
+        "Master of Science in Finance",
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Finance - Financial Management",
+        "Master of Science in International Management Studies - Finance"
+      ]
+    },
+    "ENTP 6321": {
+      "code": "ENTP 6321",
+      "subject": "ENTP",
+      "number": "6321",
+      "appears_in_programs": [
+        "Graduate Certificate in Real Estate Investment Management"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Real Estate Investment Management"
+      ],
+      "is_elective_in": []
+    },
+    "FTEC 6002": {
+      "code": "FTEC 6002",
+      "subject": "FTEC",
+      "number": "6002",
+      "appears_in_programs": [
+        "Master of Science in Financial Technology and Analytics"
+      ],
+      "is_core_in": [
+        "Master of Science in Financial Technology and Analytics"
+      ],
+      "is_elective_in": []
+    },
+    "FTEC 6301": {
+      "code": "FTEC 6301",
+      "subject": "FTEC",
+      "number": "6301",
+      "appears_in_programs": [
+        "Master of Science in Financial Technology and Analytics"
+      ],
+      "is_core_in": [
+        "Master of Science in Financial Technology and Analytics"
+      ],
+      "is_elective_in": []
+    },
+    "FTEC 6302": {
+      "code": "FTEC 6302",
+      "subject": "FTEC",
+      "number": "6302",
+      "appears_in_programs": [
+        "Master of Science in Financial Technology and Analytics"
+      ],
+      "is_core_in": [
+        "Master of Science in Financial Technology and Analytics"
+      ],
+      "is_elective_in": []
+    },
+    "FTEC 6303": {
+      "code": "FTEC 6303",
+      "subject": "FTEC",
+      "number": "6303",
+      "appears_in_programs": [
+        "Master of Science in Financial Technology and Analytics"
+      ],
+      "is_core_in": [
+        "Master of Science in Financial Technology and Analytics"
+      ],
+      "is_elective_in": []
+    },
+    "FTEC 6305": {
+      "code": "FTEC 6305",
+      "subject": "FTEC",
+      "number": "6305",
+      "appears_in_programs": [
+        "Master of Science in Financial Technology and Analytics"
+      ],
+      "is_core_in": [
+        "Master of Science in Financial Technology and Analytics"
+      ],
+      "is_elective_in": []
+    },
+    "FTEC 6307": {
+      "code": "FTEC 6307",
+      "subject": "FTEC",
+      "number": "6307",
+      "appears_in_programs": [
+        "Master of Science in Financial Technology and Analytics",
+        "Graduate Certificate in Insurance Technology and Analytics"
+      ],
+      "is_core_in": [
+        "Master of Science in Financial Technology and Analytics",
+        "Graduate Certificate in Insurance Technology and Analytics"
+      ],
+      "is_elective_in": []
+    },
+    "FTEC 6310": {
+      "code": "FTEC 6310",
+      "subject": "FTEC",
+      "number": "6310",
+      "appears_in_programs": [
+        "Master of Science in Financial Technology and Analytics",
+        "Graduate Certificate in Fintech",
+        "Graduate Certificate in Financial Data Science",
+        "Graduate Certificate in Insurance Technology and Analytics"
+      ],
+      "is_core_in": [
+        "Master of Science in Financial Technology and Analytics",
+        "Graduate Certificate in Fintech",
+        "Graduate Certificate in Financial Data Science",
+        "Graduate Certificate in Insurance Technology and Analytics"
+      ],
+      "is_elective_in": []
+    },
+    "FTEC 6311": {
+      "code": "FTEC 6311",
+      "subject": "FTEC",
+      "number": "6311",
+      "appears_in_programs": [
+        "Master of Science in Financial Technology and Analytics",
+        "Graduate Certificate in Fintech"
+      ],
+      "is_core_in": [
+        "Master of Science in Financial Technology and Analytics",
+        "Graduate Certificate in Fintech"
+      ],
+      "is_elective_in": []
+    },
+    "FTEC 6312": {
+      "code": "FTEC 6312",
+      "subject": "FTEC",
+      "number": "6312",
+      "appears_in_programs": [
+        "Master of Science in Financial Technology and Analytics",
+        "Graduate Certificate in Fintech"
+      ],
+      "is_core_in": [
+        "Master of Science in Financial Technology and Analytics",
+        "Graduate Certificate in Fintech"
+      ],
+      "is_elective_in": []
+    },
+    "FTEC 6313": {
+      "code": "FTEC 6313",
+      "subject": "FTEC",
+      "number": "6313",
+      "appears_in_programs": [
+        "Master of Science in Financial Technology and Analytics",
+        "Graduate Certificate in Fintech"
+      ],
+      "is_core_in": [
+        "Master of Science in Financial Technology and Analytics",
+        "Graduate Certificate in Fintech"
+      ],
+      "is_elective_in": []
+    },
+    "FTEC 6314": {
+      "code": "FTEC 6314",
+      "subject": "FTEC",
+      "number": "6314",
+      "appears_in_programs": [
+        "Master of Science in Financial Technology and Analytics",
+        "Graduate Certificate in Fintech"
+      ],
+      "is_core_in": [
+        "Master of Science in Financial Technology and Analytics",
+        "Graduate Certificate in Fintech"
+      ],
+      "is_elective_in": []
+    },
+    "FTEC 6319": {
+      "code": "FTEC 6319",
+      "subject": "FTEC",
+      "number": "6319",
+      "appears_in_programs": [
+        "Master of Science in Financial Technology and Analytics",
+        "Graduate Certificate in Financial Data Science",
+        "Graduate Certificate in Insurance Technology and Analytics"
+      ],
+      "is_core_in": [
+        "Master of Science in Financial Technology and Analytics",
+        "Graduate Certificate in Financial Data Science",
+        "Graduate Certificate in Insurance Technology and Analytics"
+      ],
+      "is_elective_in": []
+    },
+    "FTEC 6320": {
+      "code": "FTEC 6320",
+      "subject": "FTEC",
+      "number": "6320",
+      "appears_in_programs": [
+        "Master of Science in Financial Technology and Analytics",
+        "Graduate Certificate in Financial Data Science"
+      ],
+      "is_core_in": [
+        "Master of Science in Financial Technology and Analytics",
+        "Graduate Certificate in Financial Data Science"
+      ],
+      "is_elective_in": []
+    },
+    "FTEC 6331": {
+      "code": "FTEC 6331",
+      "subject": "FTEC",
+      "number": "6331",
+      "appears_in_programs": [
+        "Master of Science in Financial Technology and Analytics"
+      ],
+      "is_core_in": [
+        "Master of Science in Financial Technology and Analytics"
+      ],
+      "is_elective_in": []
+    },
+    "FTEC 6334": {
+      "code": "FTEC 6334",
+      "subject": "FTEC",
+      "number": "6334",
+      "appears_in_programs": [
+        "Master of Science in Financial Technology and Analytics",
+        "Graduate Certificate in Financial Data Science"
+      ],
+      "is_core_in": [
+        "Master of Science in Financial Technology and Analytics",
+        "Graduate Certificate in Financial Data Science"
+      ],
+      "is_elective_in": []
+    },
+    "FTEC 6335": {
+      "code": "FTEC 6335",
+      "subject": "FTEC",
+      "number": "6335",
+      "appears_in_programs": [
+        "Master of Science in Financial Technology and Analytics",
+        "Graduate Certificate in Financial Data Science",
+        "Graduate Certificate in Insurance Technology and Analytics"
+      ],
+      "is_core_in": [
+        "Master of Science in Financial Technology and Analytics",
+        "Graduate Certificate in Financial Data Science",
+        "Graduate Certificate in Insurance Technology and Analytics"
+      ],
+      "is_elective_in": []
+    },
+    "FTEC 6340": {
+      "code": "FTEC 6340",
+      "subject": "FTEC",
+      "number": "6340",
+      "appears_in_programs": [
+        "Master of Science in Financial Technology and Analytics",
+        "Graduate Certificate in Fintech",
+        "Graduate Certificate in Insurance Technology and Analytics"
+      ],
+      "is_core_in": [
+        "Master of Science in Financial Technology and Analytics",
+        "Graduate Certificate in Fintech",
+        "Graduate Certificate in Insurance Technology and Analytics"
+      ],
+      "is_elective_in": []
+    },
+    "HMGT 6311": {
+      "code": "HMGT 6311",
+      "subject": "HMGT",
+      "number": "6311",
+      "appears_in_programs": [
+        "Master of Science in Healthcare Leadership and Management"
+      ],
+      "is_core_in": [
+        "Master of Science in Healthcare Leadership and Management"
+      ],
+      "is_elective_in": []
+    },
+    "HMGT 6320": {
+      "code": "HMGT 6320",
+      "subject": "HMGT",
+      "number": "6320",
+      "appears_in_programs": [
+        "Master of Science in Healthcare Leadership and Management",
+        "Lean Six Sigma Yellow Belt in Healthcare Quality Certificate",
+        "Master of Science in Information Technology and Management"
+      ],
+      "is_core_in": [
+        "Master of Science in Healthcare Leadership and Management",
+        "Lean Six Sigma Yellow Belt in Healthcare Quality Certificate",
+        "Master of Science in Information Technology and Management"
+      ],
+      "is_elective_in": []
+    },
+    "HMGT 6321": {
+      "code": "HMGT 6321",
+      "subject": "HMGT",
+      "number": "6321",
+      "appears_in_programs": [
+        "Master of Science in Healthcare Leadership and Management",
+        "Lean Six Sigma Yellow Belt in Healthcare Quality Certificate"
+      ],
+      "is_core_in": [
+        "Master of Science in Healthcare Leadership and Management",
+        "Lean Six Sigma Yellow Belt in Healthcare Quality Certificate"
+      ],
+      "is_elective_in": []
+    },
+    "HMGT 6323": {
+      "code": "HMGT 6323",
+      "subject": "HMGT",
+      "number": "6323",
+      "appears_in_programs": [
+        "Master of Science in Healthcare Leadership and Management",
+        "Lean Six Sigma Yellow Belt in Healthcare Quality Certificate",
+        "Graduate Certificate in Health Information Technology"
+      ],
+      "is_core_in": [
+        "Master of Science in Healthcare Leadership and Management",
+        "Lean Six Sigma Yellow Belt in Healthcare Quality Certificate",
+        "Graduate Certificate in Health Information Technology"
+      ],
+      "is_elective_in": []
+    },
+    "HMGT 6324": {
+      "code": "HMGT 6324",
+      "subject": "HMGT",
+      "number": "6324",
+      "appears_in_programs": [
+        "Master of Science in Healthcare Leadership and Management"
+      ],
+      "is_core_in": [
+        "Master of Science in Healthcare Leadership and Management"
+      ],
+      "is_elective_in": []
+    },
+    "HMGT 6325": {
+      "code": "HMGT 6325",
+      "subject": "HMGT",
+      "number": "6325",
+      "appears_in_programs": [
+        "Master of Science in Healthcare Leadership and Management"
+      ],
+      "is_core_in": [
+        "Master of Science in Healthcare Leadership and Management"
+      ],
+      "is_elective_in": []
+    },
+    "HMGT 6330": {
+      "code": "HMGT 6330",
+      "subject": "HMGT",
+      "number": "6330",
+      "appears_in_programs": [
+        "Master of Science in Healthcare Leadership and Management"
+      ],
+      "is_core_in": [
+        "Master of Science in Healthcare Leadership and Management"
+      ],
+      "is_elective_in": []
+    },
+    "HMGT 6331": {
+      "code": "HMGT 6331",
+      "subject": "HMGT",
+      "number": "6331",
+      "appears_in_programs": [
+        "Master of Science in Healthcare Leadership and Management"
+      ],
+      "is_core_in": [
+        "Master of Science in Healthcare Leadership and Management"
+      ],
+      "is_elective_in": []
+    },
+    "HMGT 6332": {
+      "code": "HMGT 6332",
+      "subject": "HMGT",
+      "number": "6332",
+      "appears_in_programs": [
+        "Master of Science in Healthcare Leadership and Management",
+        "Lean Six Sigma Yellow Belt in Healthcare Quality Certificate"
+      ],
+      "is_core_in": [
+        "Master of Science in Healthcare Leadership and Management",
+        "Lean Six Sigma Yellow Belt in Healthcare Quality Certificate"
+      ],
+      "is_elective_in": [
+        "Master of Science in Healthcare Leadership and Management - Quality Improvement"
+      ]
+    },
+    "HMGT 6327": {
+      "code": "HMGT 6327",
+      "subject": "HMGT",
+      "number": "6327",
+      "appears_in_programs": [
+        "Master of Science in Healthcare Leadership and Management",
+        "Graduate Certificate in Health Information Technology"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Health Information Technology"
+      ],
+      "is_elective_in": [
+        "Master of Science in Healthcare Leadership and Management - Healthcare Informatics"
+      ]
+    },
+    "HMGT 6334": {
+      "code": "HMGT 6334",
+      "subject": "HMGT",
+      "number": "6334",
+      "appears_in_programs": [
+        "Master of Science in Healthcare Leadership and Management",
+        "Graduate Certificate in Health Information Technology",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Health Information Technology"
+      ],
+      "is_elective_in": [
+        "Master of Science in Healthcare Leadership and Management - Healthcare Informatics",
+        "Master of Science in Marketing - Marketing Analytics",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "MIS 6324": {
+      "code": "MIS 6324",
+      "subject": "MIS",
+      "number": "6324",
+      "appears_in_programs": [
+        "Master of Science in Healthcare Leadership and Management",
+        "Graduate Certificate in Business Analytics and Data Mining",
+        "Master of Science in International Management Studies",
+        "Master of Science in Management Science"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Business Analytics and Data Mining",
+        "Master of Science in Management Science"
+      ],
+      "is_elective_in": [
+        "Master of Science in Healthcare Leadership and Management - Healthcare Informatics",
+        "Master of Science in International Management Studies - Information Technology for Management"
+      ]
+    },
+    "HMGT 6336": {
+      "code": "HMGT 6336",
+      "subject": "HMGT",
+      "number": "6336",
+      "appears_in_programs": [
+        "Master of Science in Healthcare Leadership and Management"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Healthcare Leadership and Management - Healthcare Internal Auditing"
+      ]
+    },
+    "HMGT 6380": {
+      "code": "HMGT 6380",
+      "subject": "HMGT",
+      "number": "6380",
+      "appears_in_programs": [
+        "Master of Science in Healthcare Leadership and Management"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Healthcare Leadership and Management - Healthcare Internal Auditing"
+      ]
+    },
+    "HMGT 6393": {
+      "code": "HMGT 6393",
+      "subject": "HMGT",
+      "number": "6393",
+      "appears_in_programs": [
+        "Master of Science in Healthcare Leadership and Management"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Healthcare Leadership and Management - Healthcare Internal Auditing"
+      ]
+    },
+    "OPRE 6362": {
+      "code": "OPRE 6362",
+      "subject": "OPRE",
+      "number": "6362",
+      "appears_in_programs": [
+        "Master of Science in Healthcare Leadership and Management",
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing",
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Healthcare Leadership and Management - Supply Chain Management",
+        "Master of Science in International Management Studies - Supply Chain Management",
+        "Master of Science in Marketing - Consumer and Shopper Insights",
+        "Master of Science in Marketing - Product Management",
+        "Master of Science in Marketing - Marketing Management",
+        "Master of Science in Supply Chain Management - Continuous Improvement"
+      ]
+    },
+    "OPRE 6371": {
+      "code": "OPRE 6371",
+      "subject": "OPRE",
+      "number": "6371",
+      "appears_in_programs": [
+        "Master of Science in Healthcare Leadership and Management",
+        "Master of Science in International Management Studies",
+        "Master of Science in Supply Chain Management",
+        "Graduate Certificate in Procurement in Supply Chain Management"
+      ],
+      "is_core_in": [
+        "Master of Science in Supply Chain Management",
+        "Graduate Certificate in Procurement in Supply Chain Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in Healthcare Leadership and Management - Supply Chain Management",
+        "Master of Science in International Management Studies - Supply Chain Management"
+      ]
+    },
+    "MIS 6382": {
+      "code": "MIS 6382",
+      "subject": "MIS",
+      "number": "6382",
+      "appears_in_programs": [
+        "Master of Science in Information Technology and Management"
+      ],
+      "is_core_in": [
+        "Master of Science in Information Technology and Management"
+      ],
+      "is_elective_in": []
+    },
+    "MIS 6326": {
+      "code": "MIS 6326",
+      "subject": "MIS",
+      "number": "6326",
+      "appears_in_programs": [
+        "Master of Science in Information Technology and Management"
+      ],
+      "is_core_in": [
+        "Master of Science in Information Technology and Management"
+      ],
+      "is_elective_in": []
+    },
+    "MIS 6308": {
+      "code": "MIS 6308",
+      "subject": "MIS",
+      "number": "6308",
+      "appears_in_programs": [
+        "Master of Science in Information Technology and Management",
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [
+        "Master of Science in Information Technology and Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Information Technology for Management"
+      ]
+    },
+    "ENTP 6370": {
+      "code": "ENTP 6370",
+      "subject": "ENTP",
+      "number": "6370",
+      "appears_in_programs": [
+        "Master of Science in Information Technology and Management",
+        "Master of Science in Innovation and Entrepreneurship",
+        "Graduate Certificate in New Venture Entrepreneurship",
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Master of Science in Information Technology and Management",
+        "Master of Science in Innovation and Entrepreneurship",
+        "Graduate Certificate in New Venture Entrepreneurship"
+      ],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Global Leadership and Management",
+        "Master of Science in International Management Studies - Innovation and Entrepreneurship",
+        "Master of Science in Marketing - Product Management",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "MIS 6317": {
+      "code": "MIS 6317",
+      "subject": "MIS",
+      "number": "6317",
+      "appears_in_programs": [
+        "Graduate Certificate in Healthcare Information Technology"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Healthcare Information Technology"
+      ],
+      "is_elective_in": []
+    },
+    "MIS 6305": {
+      "code": "MIS 6305",
+      "subject": "MIS",
+      "number": "6305",
+      "appears_in_programs": [
+        "Graduate Certificate in Healthcare Information Technology"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Healthcare Information Technology"
+      ],
+      "is_elective_in": []
+    },
+    "MIS 6381": {
+      "code": "MIS 6381",
+      "subject": "MIS",
+      "number": "6381",
+      "appears_in_programs": [
+        "Graduate Certificate in Healthcare Information Technology"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Healthcare Information Technology"
+      ],
+      "is_elective_in": []
+    },
+    "MIS 6319": {
+      "code": "MIS 6319",
+      "subject": "MIS",
+      "number": "6319",
+      "appears_in_programs": [
+        "Graduate Certificate in Intelligent Enterprise Systems",
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Intelligent Enterprise Systems"
+      ],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Business Analytics",
+        "Master of Science in International Management Studies - Information Technology for Management"
+      ]
+    },
+    "MIS 6332": {
+      "code": "MIS 6332",
+      "subject": "MIS",
+      "number": "6332",
+      "appears_in_programs": [
+        "Graduate Certificate in Intelligent Enterprise Systems",
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Intelligent Enterprise Systems"
+      ],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Business Analytics"
+      ]
+    },
+    "MIS 6309": {
+      "code": "MIS 6309",
+      "subject": "MIS",
+      "number": "6309",
+      "appears_in_programs": [
+        "Graduate Certificate in Intelligent Enterprise Systems",
+        "Graduate Certificate in Business Analytics and Data Mining",
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Intelligent Enterprise Systems",
+        "Graduate Certificate in Business Analytics and Data Mining"
+      ],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Business Analytics",
+        "Master of Science in International Management Studies - Information Technology for Management"
+      ]
+    },
+    "MIS 6338": {
+      "code": "MIS 6338",
+      "subject": "MIS",
+      "number": "6338",
+      "appears_in_programs": [
+        "Graduate Certificate in Intelligent Enterprise Systems"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Intelligent Enterprise Systems"
+      ],
+      "is_elective_in": []
+    },
+    "MIS 6369": {
+      "code": "MIS 6369",
+      "subject": "MIS",
+      "number": "6369",
+      "appears_in_programs": [
+        "Graduate Certificate in Intelligent Enterprise Systems"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Intelligent Enterprise Systems"
+      ],
+      "is_elective_in": []
+    },
+    "MIS 6371": {
+      "code": "MIS 6371",
+      "subject": "MIS",
+      "number": "6371",
+      "appears_in_programs": [
+        "Graduate Certificate in Intelligent Enterprise Systems",
+        "Graduate Certificate in Business Analytics and Data Mining"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Intelligent Enterprise Systems",
+        "Graduate Certificate in Business Analytics and Data Mining"
+      ],
+      "is_elective_in": []
+    },
+    "MIS 6346": {
+      "code": "MIS 6346",
+      "subject": "MIS",
+      "number": "6346",
+      "appears_in_programs": [
+        "Graduate Certificate in Business Analytics and Data Mining"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Business Analytics and Data Mining"
+      ],
+      "is_elective_in": []
+    },
+    "MIS 6356": {
+      "code": "MIS 6356",
+      "subject": "MIS",
+      "number": "6356",
+      "appears_in_programs": [
+        "Graduate Certificate in Business Analytics and Data Mining",
+        "Master of Science in Management Science",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Business Analytics and Data Mining",
+        "Master of Science in Management Science"
+      ],
+      "is_elective_in": [
+        "Master of Science in Marketing - Consumer and Shopper Insights",
+        "Master of Science in Marketing - Marketing Analytics",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "MIS 6386": {
+      "code": "MIS 6386",
+      "subject": "MIS",
+      "number": "6386",
+      "appears_in_programs": [
+        "Graduate Certificate in Business Analytics and Data Mining"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Business Analytics and Data Mining"
+      ],
+      "is_elective_in": []
+    },
+    "MIS 6334": {
+      "code": "MIS 6334",
+      "subject": "MIS",
+      "number": "6334",
+      "appears_in_programs": [
+        "Graduate Certificate in Business Analytics and Data Mining"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Business Analytics and Data Mining"
+      ],
+      "is_elective_in": []
+    },
+    "MIS 6357": {
+      "code": "MIS 6357",
+      "subject": "MIS",
+      "number": "6357",
+      "appears_in_programs": [
+        "Graduate Certificate in Business Analytics and Data Mining",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Business Analytics and Data Mining"
+      ],
+      "is_elective_in": [
+        "Master of Science in Marketing - Marketing Analytics",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "MIS 6341": {
+      "code": "MIS 6341",
+      "subject": "MIS",
+      "number": "6341",
+      "appears_in_programs": [
+        "Graduate Certificate in Business Analytics and Data Mining"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Business Analytics and Data Mining"
+      ],
+      "is_elective_in": []
+    },
+    "MIS 6344": {
+      "code": "MIS 6344",
+      "subject": "MIS",
+      "number": "6344",
+      "appears_in_programs": [
+        "Graduate Certificate in Business Analytics and Data Mining",
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Business Analytics and Data Mining"
+      ],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Information Technology for Management"
+      ]
+    },
+    "MIS 6373": {
+      "code": "MIS 6373",
+      "subject": "MIS",
+      "number": "6373",
+      "appears_in_programs": [
+        "Graduate Certificate in Business Analytics and Data Mining",
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Business Analytics and Data Mining"
+      ],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Business Analytics"
+      ]
+    },
+    "MIS 6385": {
+      "code": "MIS 6385",
+      "subject": "MIS",
+      "number": "6385",
+      "appears_in_programs": [
+        "Graduate Certificate in Business Analytics and Data Mining"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Business Analytics and Data Mining"
+      ],
+      "is_elective_in": []
+    },
+    "MIS 6392": {
+      "code": "MIS 6392",
+      "subject": "MIS",
+      "number": "6392",
+      "appears_in_programs": [
+        "Graduate Certificate in Business Analytics and Data Mining",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Business Analytics and Data Mining"
+      ],
+      "is_elective_in": [
+        "Master of Science in Marketing - Consumer and Shopper Insights",
+        "Master of Science in Marketing - Digital Advertising and Marketing",
+        "Master of Science in Marketing - Marketing Analytics",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "BUAN 6340": {
+      "code": "BUAN 6340",
+      "subject": "BUAN",
+      "number": "6340",
+      "appears_in_programs": [
+        "Graduate Certificate in Business Analytics and Data Mining",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Business Analytics and Data Mining"
+      ],
+      "is_elective_in": [
+        "Master of Science in Marketing - Marketing Analytics",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "MIS 6393": {
+      "code": "MIS 6393",
+      "subject": "MIS",
+      "number": "6393",
+      "appears_in_programs": [
+        "Graduate Certificate in Product Management",
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Product Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Global Leadership and Management",
+        "Master of Science in Marketing - Product Management",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "MIS 6360": {
+      "code": "MIS 6360",
+      "subject": "MIS",
+      "number": "6360",
+      "appears_in_programs": [
+        "Graduate Certificate in Product Management",
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Product Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Global Leadership and Management",
+        "Master of Science in International Management Studies - Information Technology for Management",
+        "Master of Science in Marketing - Product Management",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "MIS 6396": {
+      "code": "MIS 6396",
+      "subject": "MIS",
+      "number": "6396",
+      "appears_in_programs": [
+        "Graduate Certificate in Product Management",
+        "Graduate Certificate in Product Management",
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Product Management",
+        "Graduate Certificate in Product Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Information Technology for Management",
+        "Master of Science in Marketing - Digital Advertising and Marketing",
+        "Master of Science in Marketing - Product Management",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "MIS 6354": {
+      "code": "MIS 6354",
+      "subject": "MIS",
+      "number": "6354",
+      "appears_in_programs": [
+        "Graduate Certificate in Product Management",
+        "Graduate Certificate in Product Management"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Product Management",
+        "Graduate Certificate in Product Management"
+      ],
+      "is_elective_in": []
+    },
+    "MIS 6375": {
+      "code": "MIS 6375",
+      "subject": "MIS",
+      "number": "6375",
+      "appears_in_programs": [
+        "Graduate Certificate in Product Management"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Product Management"
+      ],
+      "is_elective_in": []
+    },
+    "MIS 6377": {
+      "code": "MIS 6377",
+      "subject": "MIS",
+      "number": "6377",
+      "appears_in_programs": [
+        "Graduate Certificate in Product Management"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Product Management"
+      ],
+      "is_elective_in": []
+    },
+    "MIS 6388": {
+      "code": "MIS 6388",
+      "subject": "MIS",
+      "number": "6388",
+      "appears_in_programs": [
+        "Graduate Certificate in Product Management"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Product Management"
+      ],
+      "is_elective_in": []
+    },
+    "MIS 6330": {
+      "code": "MIS 6330",
+      "subject": "MIS",
+      "number": "6330",
+      "appears_in_programs": [
+        "Graduate Certificate in Cybersecurity Systems (CCSS)",
+        "Graduate Certificate in Cybersecurity Risk Management",
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Cybersecurity Systems (CCSS)",
+        "Graduate Certificate in Cybersecurity Risk Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Information Technology for Management"
+      ]
+    },
+    "CS 6324": {
+      "code": "CS 6324",
+      "subject": "CS",
+      "number": "6324",
+      "appears_in_programs": [
+        "Graduate Certificate in Cybersecurity Systems (CCSS)"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Cybersecurity Systems (CCSS)"
+      ],
+      "is_elective_in": []
+    },
+    "CS 6348": {
+      "code": "CS 6348",
+      "subject": "CS",
+      "number": "6348",
+      "appears_in_programs": [
+        "Graduate Certificate in Cybersecurity Systems (CCSS)"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Cybersecurity Systems (CCSS)"
+      ],
+      "is_elective_in": []
+    },
+    "CS 6349": {
+      "code": "CS 6349",
+      "subject": "CS",
+      "number": "6349",
+      "appears_in_programs": [
+        "Graduate Certificate in Cybersecurity Systems (CCSS)"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Cybersecurity Systems (CCSS)"
+      ],
+      "is_elective_in": []
+    },
+    "MIS 6333": {
+      "code": "MIS 6333",
+      "subject": "MIS",
+      "number": "6333",
+      "appears_in_programs": [
+        "Graduate Certificate in Cybersecurity Systems (CCSS)"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Cybersecurity Systems (CCSS)"
+      ],
+      "is_elective_in": []
+    },
+    "MIS 6337": {
+      "code": "MIS 6337",
+      "subject": "MIS",
+      "number": "6337",
+      "appears_in_programs": [
+        "Graduate Certificate in Cybersecurity Systems (CCSS)",
+        "Graduate Certificate in Cybersecurity Risk Management"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Cybersecurity Systems (CCSS)",
+        "Graduate Certificate in Cybersecurity Risk Management"
+      ],
+      "is_elective_in": []
+    },
+    "MIS 6363": {
+      "code": "MIS 6363",
+      "subject": "MIS",
+      "number": "6363",
+      "appears_in_programs": [
+        "Graduate Certificate in Cybersecurity Systems (CCSS)"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Cybersecurity Systems (CCSS)"
+      ],
+      "is_elective_in": []
+    },
+    "MIS 6351": {
+      "code": "MIS 6351",
+      "subject": "MIS",
+      "number": "6351",
+      "appears_in_programs": [
+        "Graduate Certificate in Cybersecurity Risk Management"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Cybersecurity Risk Management"
+      ],
+      "is_elective_in": []
+    },
+    "MIS 6384": {
+      "code": "MIS 6384",
+      "subject": "MIS",
+      "number": "6384",
+      "appears_in_programs": [
+        "Graduate Certificate in Cybersecurity Risk Management"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Cybersecurity Risk Management"
+      ],
+      "is_elective_in": []
+    },
+    "BUAN 6368": {
+      "code": "BUAN 6368",
+      "subject": "BUAN",
+      "number": "6368",
+      "appears_in_programs": [
+        "Graduate Certificate in Cybersecurity Risk Management"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Cybersecurity Risk Management"
+      ],
+      "is_elective_in": []
+    },
+    "PPPE 6315": {
+      "code": "PPPE 6315",
+      "subject": "PPPE",
+      "number": "6315",
+      "appears_in_programs": [
+        "Graduate Certificate in Cybersecurity Risk Management"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Cybersecurity Risk Management"
+      ],
+      "is_elective_in": []
+    },
+    "ENTP 6315": {
+      "code": "ENTP 6315",
+      "subject": "ENTP",
+      "number": "6315",
+      "appears_in_programs": [
+        "Master of Science in Innovation and Entrepreneurship"
+      ],
+      "is_core_in": [
+        "Master of Science in Innovation and Entrepreneurship"
+      ],
+      "is_elective_in": []
+    },
+    "ENTP 6375": {
+      "code": "ENTP 6375",
+      "subject": "ENTP",
+      "number": "6375",
+      "appears_in_programs": [
+        "Master of Science in Innovation and Entrepreneurship",
+        "Graduate Certificate in Corporate Innovation",
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Master of Science in Innovation and Entrepreneurship",
+        "Graduate Certificate in Corporate Innovation"
+      ],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Innovation and Entrepreneurship",
+        "Master of Science in International Management Studies - Sustainable Business",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "ENTP 6380": {
+      "code": "ENTP 6380",
+      "subject": "ENTP",
+      "number": "6380",
+      "appears_in_programs": [
+        "Master of Science in Innovation and Entrepreneurship",
+        "Graduate Certificate in Corporate Innovation",
+        "Graduate Certificate in New Venture Entrepreneurship",
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Master of Science in Innovation and Entrepreneurship",
+        "Graduate Certificate in Corporate Innovation",
+        "Graduate Certificate in New Venture Entrepreneurship"
+      ],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Innovation and Entrepreneurship",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "ENTP 6360": {
+      "code": "ENTP 6360",
+      "subject": "ENTP",
+      "number": "6360",
+      "appears_in_programs": [
+        "Master of Science in Innovation and Entrepreneurship",
+        "Graduate Certificate in New Venture Entrepreneurship",
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Master of Science in Innovation and Entrepreneurship",
+        "Graduate Certificate in New Venture Entrepreneurship"
+      ],
+      "is_elective_in": [
+        "Master of Science in Innovation and Entrepreneurship - New Venture Concentration",
+        "Master of Science in International Management Studies - Innovation and Entrepreneurship",
+        "Master of Science in Marketing - Product Management",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "ENTP 6377": {
+      "code": "ENTP 6377",
+      "subject": "ENTP",
+      "number": "6377",
+      "appears_in_programs": [
+        "Master of Science in Innovation and Entrepreneurship",
+        "Graduate Certificate in New Venture Entrepreneurship"
+      ],
+      "is_core_in": [
+        "Master of Science in Innovation and Entrepreneurship",
+        "Graduate Certificate in New Venture Entrepreneurship"
+      ],
+      "is_elective_in": [
+        "Master of Science in Innovation and Entrepreneurship - New Venture Concentration"
+      ]
+    },
+    "ENTP 6378": {
+      "code": "ENTP 6378",
+      "subject": "ENTP",
+      "number": "6378",
+      "appears_in_programs": [
+        "Master of Science in Innovation and Entrepreneurship",
+        "Graduate Certificate in New Venture Entrepreneurship",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Master of Science in Innovation and Entrepreneurship",
+        "Graduate Certificate in New Venture Entrepreneurship"
+      ],
+      "is_elective_in": [
+        "Master of Science in Innovation and Entrepreneurship - New Venture Concentration",
+        "Master of Science in Marketing - Product Management",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "ENTP 6388": {
+      "code": "ENTP 6388",
+      "subject": "ENTP",
+      "number": "6388",
+      "appears_in_programs": [
+        "Master of Science in Innovation and Entrepreneurship",
+        "Graduate Certificate in Corporate Innovation",
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Master of Science in Innovation and Entrepreneurship",
+        "Graduate Certificate in Corporate Innovation"
+      ],
+      "is_elective_in": [
+        "Master of Science in Innovation and Entrepreneurship - Innovation within the Corporation Concentration",
+        "Master of Science in International Management Studies - Global Leadership and Management",
+        "Master of Science in International Management Studies - Innovation and Entrepreneurship",
+        "Master of Science in Marketing - Product Management",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "ENTP 6398": {
+      "code": "ENTP 6398",
+      "subject": "ENTP",
+      "number": "6398",
+      "appears_in_programs": [
+        "Master of Science in Innovation and Entrepreneurship",
+        "Graduate Certificate in Corporate Innovation"
+      ],
+      "is_core_in": [
+        "Master of Science in Innovation and Entrepreneurship",
+        "Graduate Certificate in Corporate Innovation"
+      ],
+      "is_elective_in": [
+        "Master of Science in Innovation and Entrepreneurship - Innovation within the Corporation Concentration"
+      ]
+    },
+    "ENTP 6390": {
+      "code": "ENTP 6390",
+      "subject": "ENTP",
+      "number": "6390",
+      "appears_in_programs": [
+        "Graduate Certificate in Corporate Innovation",
+        "Graduate Certificate in New Venture Entrepreneurship",
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Corporate Innovation",
+        "Graduate Certificate in New Venture Entrepreneurship"
+      ],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Global Leadership and Management",
+        "Master of Science in International Management Studies - Innovation and Entrepreneurship",
+        "Master of Science in Marketing - Product Management",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "ENTP 6361": {
+      "code": "ENTP 6361",
+      "subject": "ENTP",
+      "number": "6361",
+      "appears_in_programs": [
+        "Graduate Certificate in New Venture Entrepreneurship"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in New Venture Entrepreneurship"
+      ],
+      "is_elective_in": []
+    },
+    "IMS 6367": {
+      "code": "IMS 6367",
+      "subject": "IMS",
+      "number": "6367",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [
+        "Master of Science in International Management Studies"
+      ],
+      "is_elective_in": []
+    },
+    "IMS 6373": {
+      "code": "IMS 6373",
+      "subject": "IMS",
+      "number": "6373",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [
+        "Master of Science in International Management Studies"
+      ],
+      "is_elective_in": []
+    },
+    "BUAN 6344": {
+      "code": "BUAN 6344",
+      "subject": "BUAN",
+      "number": "6344",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Business Analytics"
+      ]
+    },
+    "MIS 6320": {
+      "code": "MIS 6320",
+      "subject": "MIS",
+      "number": "6320",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies",
+        "Master of Science in Management Science",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Master of Science in Management Science"
+      ],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Business Analytics",
+        "Master of Science in International Management Studies - Information Technology for Management",
+        "Master of Science in Marketing - Consumer and Shopper Insights",
+        "Master of Science in Marketing - Marketing Analytics",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "MIS 6378": {
+      "code": "MIS 6378",
+      "subject": "MIS",
+      "number": "6378",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Business Analytics",
+        "Master of Science in Marketing - Consumer and Shopper Insights",
+        "Master of Science in Marketing - Digital Advertising and Marketing",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "OPRE 6304": {
+      "code": "OPRE 6304",
+      "subject": "OPRE",
+      "number": "6304",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies",
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Business Analytics",
+        "Master of Science in Supply Chain Management - Analytics"
+      ]
+    },
+    "OPRE 6377": {
+      "code": "OPRE 6377",
+      "subject": "OPRE",
+      "number": "6377",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Business Analytics",
+        "Master of Science in International Management Studies - Supply Chain Management"
+      ]
+    },
+    "IMS 6341": {
+      "code": "IMS 6341",
+      "subject": "IMS",
+      "number": "6341",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Global Leadership and Management"
+      ]
+    },
+    "BPS 6332": {
+      "code": "BPS 6332",
+      "subject": "BPS",
+      "number": "6332",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Global Leadership and Management",
+        "Master of Science in International Management Studies - Sustainable Business",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "BPS 6360": {
+      "code": "BPS 6360",
+      "subject": "BPS",
+      "number": "6360",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Global Leadership and Management",
+        "Master of Science in Marketing - Consumer and Shopper Insights",
+        "Master of Science in Marketing - Product Management",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "BPS 6379": {
+      "code": "BPS 6379",
+      "subject": "BPS",
+      "number": "6379",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Global Leadership and Management",
+        "Master of Science in International Management Studies - Sustainable Business"
+      ]
+    },
+    "MIS 6302": {
+      "code": "MIS 6302",
+      "subject": "MIS",
+      "number": "6302",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Global Leadership and Management",
+        "Master of Science in International Management Studies - Information Technology for Management"
+      ]
+    },
+    "MKT 6309": {
+      "code": "MKT 6309",
+      "subject": "MKT",
+      "number": "6309",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Master of Science in Marketing"
+      ],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Global Leadership and Management",
+        "Master of Science in International Management Studies - Marketing Management"
+      ]
+    },
+    "MKT 6329": {
+      "code": "MKT 6329",
+      "subject": "MKT",
+      "number": "6329",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Global Leadership and Management",
+        "Master of Science in International Management Studies - Marketing Management",
+        "Master of Science in Marketing - Product Management",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "MKT 6336": {
+      "code": "MKT 6336",
+      "subject": "MKT",
+      "number": "6336",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Global Leadership and Management",
+        "Master of Science in International Management Studies - Marketing Management",
+        "Master of Science in Marketing - Consumer and Shopper Insights",
+        "Master of Science in Marketing - Marketing Analytics",
+        "Master of Science in Marketing - Product Management",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "MKT 6353": {
+      "code": "MKT 6353",
+      "subject": "MKT",
+      "number": "6353",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Global Leadership and Management",
+        "Master of Science in International Management Studies - Marketing Management",
+        "Master of Science in Marketing - Advertising and Branding",
+        "Master of Science in Marketing - Consumer and Shopper Insights",
+        "Master of Science in Marketing - Digital Advertising and Marketing",
+        "Master of Science in Marketing - Marketing Analytics",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "MKT 6380": {
+      "code": "MKT 6380",
+      "subject": "MKT",
+      "number": "6380",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Global Leadership and Management",
+        "Master of Science in International Management Studies - Marketing Management",
+        "Master of Science in Marketing - Product Management",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "OB 6303": {
+      "code": "OB 6303",
+      "subject": "OB",
+      "number": "6303",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Global Leadership and Management"
+      ]
+    },
+    "OB 6307": {
+      "code": "OB 6307",
+      "subject": "OB",
+      "number": "6307",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Global Leadership and Management"
+      ]
+    },
+    "OB 6331": {
+      "code": "OB 6331",
+      "subject": "OB",
+      "number": "6331",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Global Leadership and Management"
+      ]
+    },
+    "OB 6332": {
+      "code": "OB 6332",
+      "subject": "OB",
+      "number": "6332",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Global Leadership and Management",
+        "Master of Science in International Management Studies - Sustainable Business",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "OB 6337": {
+      "code": "OB 6337",
+      "subject": "OB",
+      "number": "6337",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Global Leadership and Management"
+      ]
+    },
+    "OPRE 6379": {
+      "code": "OPRE 6379",
+      "subject": "OPRE",
+      "number": "6379",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies",
+        "Master of Science in Supply Chain Management",
+        "Graduate Certificate in Procurement in Supply Chain Management"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Procurement in Supply Chain Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Global Leadership and Management",
+        "Master of Science in International Management Studies - Innovation and Entrepreneurship",
+        "Master of Science in International Management Studies - Supply Chain Management",
+        "Master of Science in Supply Chain Management - Continuous Improvement"
+      ]
+    },
+    "OPRE 6394": {
+      "code": "OPRE 6394",
+      "subject": "OPRE",
+      "number": "6394",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies",
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Global Leadership and Management",
+        "Master of Science in International Management Studies - Innovation and Entrepreneurship",
+        "Master of Science in Supply Chain Management - Technology and Artificial Intelligence"
+      ]
+    },
+    "MIS 6204": {
+      "code": "MIS 6204",
+      "subject": "MIS",
+      "number": "6204",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Information Technology for Management"
+      ]
+    },
+    "IMS 7301": {
+      "code": "IMS 7301",
+      "subject": "IMS",
+      "number": "7301",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - International Management Research"
+      ]
+    },
+    "BPS 7300": {
+      "code": "BPS 7300",
+      "subject": "BPS",
+      "number": "7300",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - International Management Research"
+      ]
+    },
+    "BPS 7301": {
+      "code": "BPS 7301",
+      "subject": "BPS",
+      "number": "7301",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - International Management Research"
+      ]
+    },
+    "BPS 7302": {
+      "code": "BPS 7302",
+      "subject": "BPS",
+      "number": "7302",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - International Management Research"
+      ]
+    },
+    "ENTP 7300": {
+      "code": "ENTP 7300",
+      "subject": "ENTP",
+      "number": "7300",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - International Management Research"
+      ]
+    },
+    "ENTP 7301": {
+      "code": "ENTP 7301",
+      "subject": "ENTP",
+      "number": "7301",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - International Management Research"
+      ]
+    },
+    "OB 7300": {
+      "code": "OB 7300",
+      "subject": "OB",
+      "number": "7300",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - International Management Research"
+      ]
+    },
+    "OB 7302": {
+      "code": "OB 7302",
+      "subject": "OB",
+      "number": "7302",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - International Management Research"
+      ]
+    },
+    "OB 7306": {
+      "code": "OB 7306",
+      "subject": "OB",
+      "number": "7306",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - International Management Research"
+      ]
+    },
+    "OB 7312": {
+      "code": "OB 7312",
+      "subject": "OB",
+      "number": "7312",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - International Management Research"
+      ]
+    },
+    "OB 7313": {
+      "code": "OB 7313",
+      "subject": "OB",
+      "number": "7313",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - International Management Research"
+      ]
+    },
+    "IMS 6314": {
+      "code": "IMS 6314",
+      "subject": "IMS",
+      "number": "6314",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Marketing Management",
+        "Master of Science in Marketing - Digital Advertising and Marketing",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "MKT 6310": {
+      "code": "MKT 6310",
+      "subject": "MKT",
+      "number": "6310",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Master of Science in Marketing"
+      ],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Marketing Management"
+      ]
+    },
+    "MKT 6321": {
+      "code": "MKT 6321",
+      "subject": "MKT",
+      "number": "6321",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Marketing Management",
+        "Master of Science in Marketing - Advertising and Branding",
+        "Master of Science in Marketing - Consumer and Shopper Insights",
+        "Master of Science in Marketing - Digital Advertising and Marketing",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "MKT 6332": {
+      "code": "MKT 6332",
+      "subject": "MKT",
+      "number": "6332",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Marketing Management",
+        "Master of Science in Marketing - Advertising and Branding",
+        "Master of Science in Marketing - Digital Advertising and Marketing",
+        "Master of Science in Marketing - Product Management",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "MKT 6334": {
+      "code": "MKT 6334",
+      "subject": "MKT",
+      "number": "6334",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Marketing Management",
+        "Master of Science in Marketing - Consumer and Shopper Insights",
+        "Master of Science in Marketing - Digital Advertising and Marketing",
+        "Master of Science in Marketing - Product Management",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "MKT 6337": {
+      "code": "MKT 6337",
+      "subject": "MKT",
+      "number": "6337",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Marketing Management",
+        "Master of Science in Marketing - Marketing Analytics",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "MKT 6343": {
+      "code": "MKT 6343",
+      "subject": "MKT",
+      "number": "6343",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Marketing Management",
+        "Master of Science in Marketing - Advertising and Branding",
+        "Master of Science in Marketing - Consumer and Shopper Insights",
+        "Master of Science in Marketing - Digital Advertising and Marketing",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "MKT 6349": {
+      "code": "MKT 6349",
+      "subject": "MKT",
+      "number": "6349",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Marketing Management",
+        "Master of Science in Marketing - Consumer and Shopper Insights",
+        "Master of Science in Marketing - Digital Advertising and Marketing",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "MKT 6350": {
+      "code": "MKT 6350",
+      "subject": "MKT",
+      "number": "6350",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Master of Science in Marketing"
+      ],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Marketing Management"
+      ]
+    },
+    "MKT 6352": {
+      "code": "MKT 6352",
+      "subject": "MKT",
+      "number": "6352",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Marketing Management",
+        "Master of Science in Marketing - Advertising and Branding",
+        "Master of Science in Marketing - Consumer and Shopper Insights",
+        "Master of Science in Marketing - Digital Advertising and Marketing",
+        "Master of Science in Marketing - Marketing Analytics",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "MKT 6384": {
+      "code": "MKT 6384",
+      "subject": "MKT",
+      "number": "6384",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Marketing Management",
+        "Master of Science in Marketing - Consumer and Shopper Insights",
+        "Master of Science in Marketing - Digital Advertising and Marketing",
+        "Master of Science in Marketing - Marketing Analytics"
+      ]
+    },
+    "OPRE 6340": {
+      "code": "OPRE 6340",
+      "subject": "OPRE",
+      "number": "6340",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Supply Chain Management"
+      ]
+    },
+    "OPRE 6364": {
+      "code": "OPRE 6364",
+      "subject": "OPRE",
+      "number": "6364",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies",
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Supply Chain Management",
+        "Master of Science in Supply Chain Management - Continuous Improvement"
+      ]
+    },
+    "OPRE 6366": {
+      "code": "OPRE 6366",
+      "subject": "OPRE",
+      "number": "6366",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies",
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_core_in": [
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Supply Chain Management"
+      ]
+    },
+    "OPRE 6369": {
+      "code": "OPRE 6369",
+      "subject": "OPRE",
+      "number": "6369",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies",
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Supply Chain Management",
+        "Master of Science in Supply Chain Management - Technology and Artificial Intelligence"
+      ]
+    },
+    "OPRE 6370": {
+      "code": "OPRE 6370",
+      "subject": "OPRE",
+      "number": "6370",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies",
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_core_in": [
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Supply Chain Management"
+      ]
+    },
+    "OPRE 6390": {
+      "code": "OPRE 6390",
+      "subject": "OPRE",
+      "number": "6390",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Supply Chain Management"
+      ]
+    },
+    "IMS 6363": {
+      "code": "IMS 6363",
+      "subject": "IMS",
+      "number": "6363",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Sustainable Business"
+      ]
+    },
+    "IMS 6358": {
+      "code": "IMS 6358",
+      "subject": "IMS",
+      "number": "6358",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Sustainable Business"
+      ]
+    },
+    "ACCT 6393": {
+      "code": "ACCT 6393",
+      "subject": "ACCT",
+      "number": "6393",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Sustainable Business"
+      ]
+    },
+    "MECO 6340": {
+      "code": "MECO 6340",
+      "subject": "MECO",
+      "number": "6340",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Sustainable Business"
+      ]
+    },
+    "MECO 6355": {
+      "code": "MECO 6355",
+      "subject": "MECO",
+      "number": "6355",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Sustainable Business"
+      ]
+    },
+    "MECO 6368": {
+      "code": "MECO 6368",
+      "subject": "MECO",
+      "number": "6368",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Sustainable Business"
+      ]
+    },
+    "ENGY 6332": {
+      "code": "ENGY 6332",
+      "subject": "ENGY",
+      "number": "6332",
+      "appears_in_programs": [
+        "Master of Science in International Management Studies"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Sustainable Business"
+      ]
+    },
+    "OPRE 6398": {
+      "code": "OPRE 6398",
+      "subject": "OPRE",
+      "number": "6398",
+      "appears_in_programs": [
+        "Master of Science in Management Science",
+        "Master of Science in Marketing",
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_core_in": [
+        "Master of Science in Management Science"
+      ],
+      "is_elective_in": [
+        "Master of Science in Marketing - Marketing Analytics",
+        "Master of Science in Marketing - Marketing Management",
+        "Master of Science in Supply Chain Management - Analytics"
+      ]
+    },
+    "MKT 6339": {
+      "code": "MKT 6339",
+      "subject": "MKT",
+      "number": "6339",
+      "appears_in_programs": [
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Master of Science in Marketing"
+      ],
+      "is_elective_in": []
+    },
+    "MKT 6379": {
+      "code": "MKT 6379",
+      "subject": "MKT",
+      "number": "6379",
+      "appears_in_programs": [
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Master of Science in Marketing"
+      ],
+      "is_elective_in": []
+    },
+    "MKT 6330": {
+      "code": "MKT 6330",
+      "subject": "MKT",
+      "number": "6330",
+      "appears_in_programs": [
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Marketing - Advertising and Branding",
+        "Master of Science in Marketing - Product Management",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "MKT 6340": {
+      "code": "MKT 6340",
+      "subject": "MKT",
+      "number": "6340",
+      "appears_in_programs": [
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Marketing - Advertising and Branding",
+        "Master of Science in Marketing - Consumer and Shopper Insights",
+        "Master of Science in Marketing - Digital Advertising and Marketing",
+        "Master of Science in Marketing - Marketing Analytics",
+        "Master of Science in Marketing - Product Management",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "MKT 6364": {
+      "code": "MKT 6364",
+      "subject": "MKT",
+      "number": "6364",
+      "appears_in_programs": [
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Marketing - Consumer and Shopper Insights",
+        "Master of Science in Marketing - Digital Advertising and Marketing",
+        "Master of Science in Marketing - Marketing Analytics",
+        "Master of Science in Marketing - Product Management",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "MKT 6346": {
+      "code": "MKT 6346",
+      "subject": "MKT",
+      "number": "6346",
+      "appears_in_programs": [
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Marketing - Consumer and Shopper Insights",
+        "Master of Science in Marketing - Marketing Analytics",
+        "Master of Science in Marketing - Product Management",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "MKT 6374": {
+      "code": "MKT 6374",
+      "subject": "MKT",
+      "number": "6374",
+      "appears_in_programs": [
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Marketing - Digital Advertising and Marketing",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "BUAN 6357": {
+      "code": "BUAN 6357",
+      "subject": "BUAN",
+      "number": "6357",
+      "appears_in_programs": [
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Marketing - Marketing Analytics",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "MECO 6312": {
+      "code": "MECO 6312",
+      "subject": "MECO",
+      "number": "6312",
+      "appears_in_programs": [
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Marketing - Marketing Analytics",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "MKT 6375": {
+      "code": "MKT 6375",
+      "subject": "MKT",
+      "number": "6375",
+      "appears_in_programs": [
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Marketing - Product Management"
+      ]
+    },
+    "MKT 6382": {
+      "code": "MKT 6382",
+      "subject": "MKT",
+      "number": "6382",
+      "appears_in_programs": [
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "OPRE 6341": {
+      "code": "OPRE 6341",
+      "subject": "OPRE",
+      "number": "6341",
+      "appears_in_programs": [
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "OPRE 6305": {
+      "code": "OPRE 6305",
+      "subject": "OPRE",
+      "number": "6305",
+      "appears_in_programs": [
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Supply Chain Management - Analytics"
+      ]
+    },
+    "OPRE 6393": {
+      "code": "OPRE 6393",
+      "subject": "OPRE",
+      "number": "6393",
+      "appears_in_programs": [
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Supply Chain Management - Analytics"
+      ]
+    },
+    "OPRE 6322": {
+      "code": "OPRE 6322",
+      "subject": "OPRE",
+      "number": "6322",
+      "appears_in_programs": [
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Supply Chain Management - Technology and Artificial Intelligence"
+      ]
+    },
+    "OPRE 6324": {
+      "code": "OPRE 6324",
+      "subject": "OPRE",
+      "number": "6324",
+      "appears_in_programs": [
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Supply Chain Management - Technology and Artificial Intelligence"
+      ]
+    },
+    "OPRE 6383": {
+      "code": "OPRE 6383",
+      "subject": "OPRE",
+      "number": "6383",
+      "appears_in_programs": [
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Supply Chain Management - Technology and Artificial Intelligence"
+      ]
+    },
+    "OPRE 6354": {
+      "code": "OPRE 6354",
+      "subject": "OPRE",
+      "number": "6354",
+      "appears_in_programs": [
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Supply Chain Management - Continuous Improvement"
+      ]
+    },
+    "OPRE 6333": {
+      "code": "OPRE 6333",
+      "subject": "OPRE",
+      "number": "6333",
+      "appears_in_programs": [
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Supply Chain Management - Risk and Strategy"
+      ]
+    },
+    "OPRE 6378": {
+      "code": "OPRE 6378",
+      "subject": "OPRE",
+      "number": "6378",
+      "appears_in_programs": [
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Supply Chain Management - Risk and Strategy"
+      ]
+    },
+    "OPRE 6382": {
+      "code": "OPRE 6382",
+      "subject": "OPRE",
+      "number": "6382",
+      "appears_in_programs": [
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_core_in": [],
+      "is_elective_in": [
+        "Master of Science in Supply Chain Management - Risk and Strategy"
+      ]
+    },
+    "SYSM 6301": {
+      "code": "SYSM 6301",
+      "subject": "SYSM",
+      "number": "6301",
+      "appears_in_programs": [
+        "Master of Science in Systems Engineering and Management",
+        "Executive Education Master of Science in Systems Engineering and Management",
+        "Certificate in Systems Engineering",
+        "Certificate in Systems Management"
+      ],
+      "is_core_in": [
+        "Master of Science in Systems Engineering and Management",
+        "Executive Education Master of Science in Systems Engineering and Management",
+        "Certificate in Systems Engineering",
+        "Certificate in Systems Management"
+      ],
+      "is_elective_in": []
+    },
+    "SYSM 6302": {
+      "code": "SYSM 6302",
+      "subject": "SYSM",
+      "number": "6302",
+      "appears_in_programs": [
+        "Master of Science in Systems Engineering and Management",
+        "Executive Education Master of Science in Systems Engineering and Management",
+        "Certificate in Systems Engineering"
+      ],
+      "is_core_in": [
+        "Master of Science in Systems Engineering and Management",
+        "Executive Education Master of Science in Systems Engineering and Management",
+        "Certificate in Systems Engineering"
+      ],
+      "is_elective_in": []
+    },
+    "SYSM 6303": {
+      "code": "SYSM 6303",
+      "subject": "SYSM",
+      "number": "6303",
+      "appears_in_programs": [
+        "Master of Science in Systems Engineering and Management",
+        "Executive Education Master of Science in Systems Engineering and Management",
+        "Certificate in Systems Engineering"
+      ],
+      "is_core_in": [
+        "Master of Science in Systems Engineering and Management",
+        "Executive Education Master of Science in Systems Engineering and Management",
+        "Certificate in Systems Engineering"
+      ],
+      "is_elective_in": []
+    },
+    "SYSM 6305": {
+      "code": "SYSM 6305",
+      "subject": "SYSM",
+      "number": "6305",
+      "appears_in_programs": [
+        "Master of Science in Systems Engineering and Management",
+        "Executive Education Master of Science in Systems Engineering and Management",
+        "Certificate in Systems Engineering"
+      ],
+      "is_core_in": [
+        "Master of Science in Systems Engineering and Management",
+        "Executive Education Master of Science in Systems Engineering and Management",
+        "Certificate in Systems Engineering"
+      ],
+      "is_elective_in": []
+    },
+    "SYSM 6311": {
+      "code": "SYSM 6311",
+      "subject": "SYSM",
+      "number": "6311",
+      "appears_in_programs": [
+        "Master of Science in Systems Engineering and Management",
+        "Executive Education Master of Science in Systems Engineering and Management",
+        "Certificate in Systems Engineering",
+        "Certificate in Systems Management"
+      ],
+      "is_core_in": [
+        "Master of Science in Systems Engineering and Management",
+        "Executive Education Master of Science in Systems Engineering and Management",
+        "Certificate in Systems Engineering",
+        "Certificate in Systems Management"
+      ],
+      "is_elective_in": []
+    },
+    "SYSM 6318": {
+      "code": "SYSM 6318",
+      "subject": "SYSM",
+      "number": "6318",
+      "appears_in_programs": [
+        "Master of Science in Systems Engineering and Management",
+        "Executive Education Master of Science in Systems Engineering and Management",
+        "Certificate in Systems Management"
+      ],
+      "is_core_in": [
+        "Master of Science in Systems Engineering and Management",
+        "Executive Education Master of Science in Systems Engineering and Management",
+        "Certificate in Systems Management"
+      ],
+      "is_elective_in": []
+    },
+    "SYSM 6333": {
+      "code": "SYSM 6333",
+      "subject": "SYSM",
+      "number": "6333",
+      "appears_in_programs": [
+        "Master of Science in Systems Engineering and Management",
+        "Executive Education Master of Science in Systems Engineering and Management",
+        "Certificate in Systems Management"
+      ],
+      "is_core_in": [
+        "Master of Science in Systems Engineering and Management",
+        "Executive Education Master of Science in Systems Engineering and Management",
+        "Certificate in Systems Management"
+      ],
+      "is_elective_in": []
+    },
+    "SYSM 6337": {
+      "code": "SYSM 6337",
+      "subject": "SYSM",
+      "number": "6337",
+      "appears_in_programs": [
+        "Master of Science in Systems Engineering and Management",
+        "Executive Education Master of Science in Systems Engineering and Management",
+        "Certificate in Systems Management"
+      ],
+      "is_core_in": [
+        "Master of Science in Systems Engineering and Management",
+        "Executive Education Master of Science in Systems Engineering and Management",
+        "Certificate in Systems Management"
+      ],
+      "is_elective_in": []
+    },
+    "SYSM 6304": {
+      "code": "SYSM 6304",
+      "subject": "SYSM",
+      "number": "6304",
+      "appears_in_programs": [
+        "Certificate in Systems Engineering"
+      ],
+      "is_core_in": [
+        "Certificate in Systems Engineering"
+      ],
+      "is_elective_in": []
+    },
+    "SYSM 6306": {
+      "code": "SYSM 6306",
+      "subject": "SYSM",
+      "number": "6306",
+      "appears_in_programs": [
+        "Certificate in Systems Engineering"
+      ],
+      "is_core_in": [
+        "Certificate in Systems Engineering"
+      ],
+      "is_elective_in": []
+    },
+    "SYSM 6307": {
+      "code": "SYSM 6307",
+      "subject": "SYSM",
+      "number": "6307",
+      "appears_in_programs": [
+        "Certificate in Systems Engineering"
+      ],
+      "is_core_in": [
+        "Certificate in Systems Engineering"
+      ],
+      "is_elective_in": []
+    },
+    "SYSM 6308": {
+      "code": "SYSM 6308",
+      "subject": "SYSM",
+      "number": "6308",
+      "appears_in_programs": [
+        "Certificate in Systems Engineering"
+      ],
+      "is_core_in": [
+        "Certificate in Systems Engineering"
+      ],
+      "is_elective_in": []
+    },
+    "SYSM 6310": {
+      "code": "SYSM 6310",
+      "subject": "SYSM",
+      "number": "6310",
+      "appears_in_programs": [
+        "Certificate in Systems Engineering"
+      ],
+      "is_core_in": [
+        "Certificate in Systems Engineering"
+      ],
+      "is_elective_in": []
+    },
+    "SYSM 6323": {
+      "code": "SYSM 6323",
+      "subject": "SYSM",
+      "number": "6323",
+      "appears_in_programs": [
+        "Certificate in Systems Engineering"
+      ],
+      "is_core_in": [
+        "Certificate in Systems Engineering"
+      ],
+      "is_elective_in": []
+    },
+    "SYSM 6325": {
+      "code": "SYSM 6325",
+      "subject": "SYSM",
+      "number": "6325",
+      "appears_in_programs": [
+        "Certificate in Systems Engineering"
+      ],
+      "is_core_in": [
+        "Certificate in Systems Engineering"
+      ],
+      "is_elective_in": []
+    },
+    "SYSM 6326": {
+      "code": "SYSM 6326",
+      "subject": "SYSM",
+      "number": "6326",
+      "appears_in_programs": [
+        "Certificate in Systems Engineering"
+      ],
+      "is_core_in": [
+        "Certificate in Systems Engineering"
+      ],
+      "is_elective_in": []
+    },
+    "SYSM 6327": {
+      "code": "SYSM 6327",
+      "subject": "SYSM",
+      "number": "6327",
+      "appears_in_programs": [
+        "Certificate in Systems Engineering"
+      ],
+      "is_core_in": [
+        "Certificate in Systems Engineering"
+      ],
+      "is_elective_in": []
+    },
+    "SYSM 6328": {
+      "code": "SYSM 6328",
+      "subject": "SYSM",
+      "number": "6328",
+      "appears_in_programs": [
+        "Certificate in Systems Engineering"
+      ],
+      "is_core_in": [
+        "Certificate in Systems Engineering"
+      ],
+      "is_elective_in": []
+    },
+    "SYSM 6329": {
+      "code": "SYSM 6329",
+      "subject": "SYSM",
+      "number": "6329",
+      "appears_in_programs": [
+        "Certificate in Systems Engineering"
+      ],
+      "is_core_in": [
+        "Certificate in Systems Engineering"
+      ],
+      "is_elective_in": []
+    },
+    "SYSM 6312": {
+      "code": "SYSM 6312",
+      "subject": "SYSM",
+      "number": "6312",
+      "appears_in_programs": [
+        "Certificate in Systems Management"
+      ],
+      "is_core_in": [
+        "Certificate in Systems Management"
+      ],
+      "is_elective_in": []
+    },
+    "SYSM 6313": {
+      "code": "SYSM 6313",
+      "subject": "SYSM",
+      "number": "6313",
+      "appears_in_programs": [
+        "Certificate in Systems Management"
+      ],
+      "is_core_in": [
+        "Certificate in Systems Management"
+      ],
+      "is_elective_in": []
+    },
+    "SYSM 6315": {
+      "code": "SYSM 6315",
+      "subject": "SYSM",
+      "number": "6315",
+      "appears_in_programs": [
+        "Certificate in Systems Management"
+      ],
+      "is_core_in": [
+        "Certificate in Systems Management"
+      ],
+      "is_elective_in": []
+    },
+    "SYSM 6316": {
+      "code": "SYSM 6316",
+      "subject": "SYSM",
+      "number": "6316",
+      "appears_in_programs": [
+        "Certificate in Systems Management"
+      ],
+      "is_core_in": [
+        "Certificate in Systems Management"
+      ],
+      "is_elective_in": []
+    },
+    "SYSM 6319": {
+      "code": "SYSM 6319",
+      "subject": "SYSM",
+      "number": "6319",
+      "appears_in_programs": [
+        "Certificate in Systems Management"
+      ],
+      "is_core_in": [
+        "Certificate in Systems Management"
+      ],
+      "is_elective_in": []
+    },
+    "SYSM 6320": {
+      "code": "SYSM 6320",
+      "subject": "SYSM",
+      "number": "6320",
+      "appears_in_programs": [
+        "Certificate in Systems Management"
+      ],
+      "is_core_in": [
+        "Certificate in Systems Management"
+      ],
+      "is_elective_in": []
+    },
+    "SYSM 6331": {
+      "code": "SYSM 6331",
+      "subject": "SYSM",
+      "number": "6331",
+      "appears_in_programs": [
+        "Certificate in Systems Management"
+      ],
+      "is_core_in": [
+        "Certificate in Systems Management"
+      ],
+      "is_elective_in": []
+    },
+    "SYSM 6332": {
+      "code": "SYSM 6332",
+      "subject": "SYSM",
+      "number": "6332",
+      "appears_in_programs": [
+        "Certificate in Systems Management"
+      ],
+      "is_core_in": [
+        "Certificate in Systems Management"
+      ],
+      "is_elective_in": []
+    },
+    "SYSM 6334": {
+      "code": "SYSM 6334",
+      "subject": "SYSM",
+      "number": "6334",
+      "appears_in_programs": [
+        "Certificate in Systems Management"
+      ],
+      "is_core_in": [
+        "Certificate in Systems Management"
+      ],
+      "is_elective_in": []
+    },
+    "SYSM 6335": {
+      "code": "SYSM 6335",
+      "subject": "SYSM",
+      "number": "6335",
+      "appears_in_programs": [
+        "Certificate in Systems Management"
+      ],
+      "is_core_in": [
+        "Certificate in Systems Management"
+      ],
+      "is_elective_in": []
+    },
+    "SYSM 6338": {
+      "code": "SYSM 6338",
+      "subject": "SYSM",
+      "number": "6338",
+      "appears_in_programs": [
+        "Certificate in Systems Management"
+      ],
+      "is_core_in": [
+        "Certificate in Systems Management"
+      ],
+      "is_elective_in": []
+    },
+    "SYSM 6339": {
+      "code": "SYSM 6339",
+      "subject": "SYSM",
+      "number": "6339",
+      "appears_in_programs": [
+        "Certificate in Systems Management"
+      ],
+      "is_core_in": [
+        "Certificate in Systems Management"
+      ],
+      "is_elective_in": []
+    }
+  },
+  "prereq_edges": [
+    {
+      "type": "PROGRAM_PREREQUISITE",
+      "program": "Master of Science in Accounting and Analytics",
+      "prereq_course": "MAS 6102",
+      "raw_text": "MAS 6102 \u2013 Professional Development (no degree credit); ACCT 6388 \u2013 Accounting Internship (alt, no d"
+    },
+    {
+      "type": "PROGRAM_PREREQUISITE",
+      "program": "Master of Science in Accounting and Analytics",
+      "prereq_course": "ACCT 6388",
+      "raw_text": "MAS 6102 \u2013 Professional Development (no degree credit); ACCT 6388 \u2013 Accounting Internship (alt, no d"
+    },
+    {
+      "type": "PROGRAM_PREREQUISITE",
+      "program": "Master of Business Administration",
+      "prereq_course": "OPRE 6303",
+      "raw_text": "OPRE 6303 \u2013 Quantitative Foundations of Business (no degree credit; waivable with undergrad Calculus"
+    },
+    {
+      "type": "PROGRAM_PREREQUISITE",
+      "program": "Master of Science in Business Analytics and Artificial Intelligence",
+      "prereq_course": "MAS 6102",
+      "raw_text": "MAS 6102 \u2013 Professional Development (no degree credit); OPRE 6303 \u2013 Quantitative Foundations of Busi"
+    },
+    {
+      "type": "PROGRAM_PREREQUISITE",
+      "program": "Master of Science in Business Analytics and Artificial Intelligence",
+      "prereq_course": "OPRE 6303",
+      "raw_text": "MAS 6102 \u2013 Professional Development (no degree credit); OPRE 6303 \u2013 Quantitative Foundations of Busi"
+    },
+    {
+      "type": "PROGRAM_PREREQUISITE",
+      "program": "Master of Science in Energy Management",
+      "prereq_course": "MAS 6102",
+      "raw_text": "MAS 6102 \u2013 Professional Development (no degree credit)"
+    },
+    {
+      "type": "PROGRAM_PREREQUISITE",
+      "program": "Master of Science in Finance",
+      "prereq_course": "MAS 6102",
+      "raw_text": "MAS 6102 \u2013 Professional Development (no degree credit); OPRE 6303 \u2013 Quantitative Foundations of Busi"
+    },
+    {
+      "type": "PROGRAM_PREREQUISITE",
+      "program": "Master of Science in Finance",
+      "prereq_course": "OPRE 6303",
+      "raw_text": "MAS 6102 \u2013 Professional Development (no degree credit); OPRE 6303 \u2013 Quantitative Foundations of Busi"
+    },
+    {
+      "type": "PROGRAM_PREREQUISITE",
+      "program": "Master of Science in Finance",
+      "prereq_course": "OPRE 6301",
+      "raw_text": "MAS 6102 \u2013 Professional Development (no degree credit); OPRE 6303 \u2013 Quantitative Foundations of Busi"
+    },
+    {
+      "type": "PROGRAM_PREREQUISITE",
+      "program": "Master of Science in Healthcare Leadership and Management",
+      "prereq_course": "MAS 6102",
+      "raw_text": "MAS 6102 \u2013 Professional Development (no degree credit)"
+    },
+    {
+      "type": "PROGRAM_PREREQUISITE",
+      "program": "Master of Science in Information Technology and Management",
+      "prereq_course": "MAS 6102",
+      "raw_text": "MAS 6102 \u2013 Professional Development (no degree credit)"
+    },
+    {
+      "type": "PROGRAM_PREREQUISITE",
+      "program": "Master of Science in Innovation and Entrepreneurship",
+      "prereq_course": "MAS 6102",
+      "raw_text": "MAS 6102 \u2013 Professional Development (no degree credit)"
+    },
+    {
+      "type": "PROGRAM_PREREQUISITE",
+      "program": "Master of Science in International Management Studies",
+      "prereq_course": "MAS 6102",
+      "raw_text": "MAS 6102 \u2013 Professional Development (no degree credit)"
+    },
+    {
+      "type": "PROGRAM_PREREQUISITE",
+      "program": "Master of Science in Management Science",
+      "prereq_course": "MAS 6102",
+      "raw_text": "MAS 6102 \u2013 Professional Development (no degree credit); OPRE 6303 \u2013 Quantitative Foundations of Busi"
+    },
+    {
+      "type": "PROGRAM_PREREQUISITE",
+      "program": "Master of Science in Management Science",
+      "prereq_course": "OPRE 6303",
+      "raw_text": "MAS 6102 \u2013 Professional Development (no degree credit); OPRE 6303 \u2013 Quantitative Foundations of Busi"
+    },
+    {
+      "type": "PROGRAM_PREREQUISITE",
+      "program": "Master of Science in Marketing",
+      "prereq_course": "MAS 6102",
+      "raw_text": "MAS 6102 \u2013 Professional Development (no degree credit)"
+    },
+    {
+      "type": "PROGRAM_PREREQUISITE",
+      "program": "Master of Science in Supply Chain Management",
+      "prereq_course": "MAS 6102",
+      "raw_text": "MAS 6102 \u2013 Professional Development (no degree credit); OPRE 6303 \u2013 Quantitative Foundations of Busi"
+    },
+    {
+      "type": "PROGRAM_PREREQUISITE",
+      "program": "Master of Science in Supply Chain Management",
+      "prereq_course": "OPRE 6303",
+      "raw_text": "MAS 6102 \u2013 Professional Development (no degree credit); OPRE 6303 \u2013 Quantitative Foundations of Busi"
+    }
+  ],
+  "shared_courses": {
+    "OPRE 6301": {
+      "code": "OPRE 6301",
+      "subject": "OPRE",
+      "number": "6301",
+      "appears_in_programs": [
+        "Master of Business Administration",
+        "Master of Science in Healthcare Leadership and Management",
+        "Master of Science in Information Technology and Management",
+        "Graduate Certificate in Business Analytics and Data Mining",
+        "Master of Science in International Management Studies",
+        "Master of Science in Management Science",
+        "Master of Science in Marketing",
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_core_in": [
+        "Master of Business Administration",
+        "Master of Science in Information Technology and Management",
+        "Graduate Certificate in Business Analytics and Data Mining",
+        "Master of Science in Management Science",
+        "Master of Science in Marketing",
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in Healthcare Leadership and Management - Healthcare Informatics",
+        "Master of Science in Healthcare Leadership and Management - Supply Chain Management",
+        "Master of Science in International Management Studies - Business Analytics",
+        "Master of Science in International Management Studies - Finance",
+        "Master of Science in International Management Studies - Global Leadership and Management",
+        "Master of Science in International Management Studies - Innovation and Entrepreneurship",
+        "Master of Science in International Management Studies - Marketing Management",
+        "Master of Science in International Management Studies - Supply Chain Management",
+        "Master of Science in International Management Studies - Sustainable Business"
+      ]
+    },
+    "FIN 6301": {
+      "code": "FIN 6301",
+      "subject": "FIN",
+      "number": "6301",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics",
+        "Master of Business Administration",
+        "Master of Science in Finance",
+        "Master of Science in Information Technology and Management",
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing",
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_core_in": [
+        "Master of Business Administration",
+        "Master of Science in Finance",
+        "Master of Science in Information Technology and Management",
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 4: Accounting Analytics",
+        "Master of Science in International Management Studies - Finance",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "OPRE 6332": {
+      "code": "OPRE 6332",
+      "subject": "OPRE",
+      "number": "6332",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics",
+        "Master of Science in Healthcare Leadership and Management",
+        "Master of Science in International Management Studies",
+        "Master of Science in Management Science",
+        "Master of Science in Marketing",
+        "Master of Science in Supply Chain Management",
+        "Graduate Certificate in Procurement in Supply Chain Management"
+      ],
+      "is_core_in": [
+        "Master of Science in Management Science",
+        "Graduate Certificate in Procurement in Supply Chain Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 4: Accounting Analytics",
+        "Master of Science in Healthcare Leadership and Management - Quality Improvement",
+        "Master of Science in Healthcare Leadership and Management - Supply Chain Management",
+        "Master of Science in International Management Studies - Business Analytics",
+        "Master of Science in International Management Studies - Supply Chain Management",
+        "Master of Science in Marketing - Consumer and Shopper Insights",
+        "Master of Science in Marketing - Marketing Analytics",
+        "Master of Science in Marketing - Marketing Management",
+        "Master of Science in Supply Chain Management - Analytics"
+      ]
+    },
+    "OPRE 6359": {
+      "code": "OPRE 6359",
+      "subject": "OPRE",
+      "number": "6359",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics",
+        "Graduate Certificate in Research Foundations in Accounting",
+        "Master of Science in Information Technology and Management",
+        "Graduate Certificate in Business Analytics and Data Mining",
+        "Master of Science in Management Science",
+        "Master of Science in Marketing",
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Research Foundations in Accounting",
+        "Master of Science in Information Technology and Management",
+        "Graduate Certificate in Business Analytics and Data Mining",
+        "Master of Science in Management Science",
+        "Master of Science in Marketing",
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 5: Research Foundations in Accounting",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "BUAN 6320": {
+      "code": "BUAN 6320",
+      "subject": "BUAN",
+      "number": "6320",
+      "appears_in_programs": [
+        "Master of Science in Business Analytics and Artificial Intelligence",
+        "Graduate Certificate in Applied Data Engineering for Managers",
+        "Graduate Certificate in Business Decision Analytics",
+        "Master of Science in Information Technology and Management",
+        "Master of Science in International Management Studies",
+        "Master of Science in Management Science",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Master of Science in Business Analytics and Artificial Intelligence",
+        "Graduate Certificate in Applied Data Engineering for Managers",
+        "Graduate Certificate in Business Decision Analytics",
+        "Master of Science in Information Technology and Management",
+        "Master of Science in Management Science"
+      ],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Business Analytics",
+        "Master of Science in International Management Studies - Global Leadership and Management",
+        "Master of Science in Marketing - Consumer and Shopper Insights",
+        "Master of Science in Marketing - Marketing Analytics",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "BUAN 6356": {
+      "code": "BUAN 6356",
+      "subject": "BUAN",
+      "number": "6356",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics",
+        "Master of Science in Business Analytics and Artificial Intelligence",
+        "Graduate Certificate in Applied Machine Learning",
+        "Graduate Certificate in Analytics for Managers",
+        "Graduate Certificate in Business Decision Analytics"
+      ],
+      "is_core_in": [
+        "Master of Science in Business Analytics and Artificial Intelligence",
+        "Graduate Certificate in Applied Machine Learning",
+        "Graduate Certificate in Analytics for Managers",
+        "Graduate Certificate in Business Decision Analytics"
+      ],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 4: Accounting Analytics"
+      ]
+    },
+    "BUAN 6312": {
+      "code": "BUAN 6312",
+      "subject": "BUAN",
+      "number": "6312",
+      "appears_in_programs": [
+        "Master of Science in Accounting and Analytics",
+        "Graduate Certificate in Research Foundations in Accounting",
+        "Master of Science in Business Analytics and Artificial Intelligence",
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Research Foundations in Accounting",
+        "Master of Science in Business Analytics and Artificial Intelligence"
+      ],
+      "is_elective_in": [
+        "Master of Science in Accounting and Analytics - Track 5: Research Foundations in Accounting",
+        "Master of Science in International Management Studies - Business Analytics",
+        "Master of Science in Marketing - Marketing Analytics",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "MECO 6303": {
+      "code": "MECO 6303",
+      "subject": "MECO",
+      "number": "6303",
+      "appears_in_programs": [
+        "Graduate Certificate in Research Foundations in Accounting",
+        "Master of Business Administration",
+        "Master of Science in Information Technology and Management",
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Graduate Certificate in Research Foundations in Accounting",
+        "Master of Business Administration",
+        "Master of Science in Information Technology and Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Sustainable Business",
+        "Master of Science in Marketing - Consumer and Shopper Insights",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "ACCT 6301": {
+      "code": "ACCT 6301",
+      "subject": "ACCT",
+      "number": "6301",
+      "appears_in_programs": [
+        "Master of Business Administration",
+        "Master of Science in Finance",
+        "Master of Science in International Management Studies",
+        "Master of Science in Marketing",
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_core_in": [
+        "Master of Business Administration",
+        "Master of Science in Finance",
+        "Master of Science in Supply Chain Management"
+      ],
+      "is_elective_in": [
+        "Master of Science in International Management Studies - Finance",
+        "Master of Science in International Management Studies - Sustainable Business",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    },
+    "BUAN 6383": {
+      "code": "BUAN 6383",
+      "subject": "BUAN",
+      "number": "6383",
+      "appears_in_programs": [
+        "Master of Science in Business Analytics and Artificial Intelligence",
+        "Graduate Certificate in Applied Machine Learning",
+        "Graduate Certificate in Analytics for Managers",
+        "Graduate Certificate in Business Decision Analytics",
+        "Master of Science in Marketing"
+      ],
+      "is_core_in": [
+        "Master of Science in Business Analytics and Artificial Intelligence",
+        "Graduate Certificate in Applied Machine Learning",
+        "Graduate Certificate in Analytics for Managers",
+        "Graduate Certificate in Business Decision Analytics"
+      ],
+      "is_elective_in": [
+        "Master of Science in Marketing - Marketing Analytics",
+        "Master of Science in Marketing - Marketing Management"
+      ]
+    }
+  }
+}

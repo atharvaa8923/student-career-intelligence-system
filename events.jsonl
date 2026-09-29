@@ -1,0 +1,3 @@
+{"at":"2026-09-27T01:21:33Z","agent_id":"agent-01","event":"dispatch_prepared","task_id":"01a0e074-5fa8-7563-af8d-48bb180e96a8"}
+{"at": "2026-09-27T01:38:55.674571+00:00", "agent_id": "agent-01", "event": "mvp_artifacts_verified_demo_recovery_requested", "initial_build_elapsed_seconds": 989, "tests_reported_passed": 14}
+{"at": "2026-09-27T01:39:57Z", "agent_id": "agent-01", "event": "local_mvp_verified", "ui_http": 200, "api_health": "ok", "elapsed_wall_seconds": 1079, "connection_failure_cause": "restricted network sandbox"}

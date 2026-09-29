@@ -1,0 +1,21 @@
+# Ignore everything outside this project folder
+../../../../*
+../../../*
+../../*
+../*
+
+# Common files to ignore
+__pycache__/
+*.pyc
+*.pyo
+.env
+node_modules/
+.DS_Store
+*.log
+Receipt*.pdf
+railway_deployment/railway/railway_deployment/
+backend/celerybeat-schedule
+*.csv
+backup.sql
+backup_clean.sql
+keywords.sql

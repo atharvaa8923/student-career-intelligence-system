@@ -1,0 +1,56 @@
+
+services:
+  postgres:
+    image: postgres:15-alpine
+    container_name: jsom2_postgres
+    environment:
+      POSTGRES_DB: jsom2_planner
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: password
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./database/schema.sql:/docker-entrypoint-initdb.d/01_schema.sql
+      - ./database/structural/001_core_or_groups.sql:/docker-entrypoint-initdb.d/015_core_or_groups.sql:ro
+      - ./database/seed.sql:/docker-entrypoint-initdb.d/02_seed.sql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: jsom2_backend
+    ports:
+      - "5000:5000"
+    environment:
+      NODE_ENV: development
+      DATABASE_URL: postgresql://postgres:password@postgres:5432/jsom2_planner
+      JWT_SECRET: dev-secret-change-in-production-use-long-random-string
+      FRONTEND_URL: http://localhost:3000
+      NEBULA_API_KEY: ${NEBULA_API_KEY:-}
+      TRUST_PROXY: "1"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    volumes:
+      - ./backend/src:/app/src
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: jsom2_frontend
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+    restart: unless-stopped
+
+volumes:
+  postgres_data:
