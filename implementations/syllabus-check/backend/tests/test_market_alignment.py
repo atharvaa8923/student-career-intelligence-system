@@ -8,6 +8,9 @@ class MarketAlignmentTests(unittest.TestCase):
         self.assertEqual(classify_job("Senior Business Systems Analyst"), ("itm", "Business Systems Analyst"))
         self.assertEqual(classify_job("Business Intelligence Analyst"), ("ba", "Business Intelligence Analyst"))
         self.assertEqual(classify_job("Dental Assistant"), (None, None))
+        self.assertEqual(classify_job("Senior Technical Program Manager"), ("itm", "IT Project / Program Manager"))
+        self.assertEqual(classify_job("People Analytics Analyst"), ("ba", "People Analytics Analyst"))
+        self.assertEqual(classify_job("Supply Chain Analyst"), ("ba", "Operations / Supply Chain Analyst"))
 
     def test_distinct_job_mentions_and_weighted_coverage(self):
         jobs = [
@@ -25,6 +28,7 @@ class MarketAlignmentTests(unittest.TestCase):
         skill = report["programs"][0]["top_skills"][0]
         self.assertEqual(skill["job_mentions"], 2)
         self.assertEqual(report["programs"][0]["market_weighted_syllabus_coverage_pct"], 50.0)
+        self.assertEqual(report["programs"][0]["job_titles"], [{"title": "Business Analyst", "count": 2}])
 
     def test_no_syllabi_is_not_assessed(self):
         report = build_market_alignment([], [], [], [], "all")

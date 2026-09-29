@@ -2,8 +2,9 @@ import { useEffect, useState } from 'react'
 import api from '../lib/api'
 
 type Skill = { skill:string; category:string; job_mentions:number; share_of_jobs_pct:number; syllabus_status:string; best_course?:{title?:string;code?:string}|null }
-type Program = { program:string; program_name:string; job_count:number; key_jobs:{role:string;count:number;share_pct:number}[]; top_skills:Skill[]; market_weighted_syllabus_coverage_pct:number|null; readiness:string; limitations:string[] }
-type Report = { generated_at:string; scope:{job_count:number;jobs_with_descriptions:number;sources:{source:string;count:number}[];top_locations:{location:string;count:number}[];scraped_from:string|null;scraped_to:string|null;evidence_rule:string;sample_quality:string}; programs:Program[]; priority_actions:{skill:string;program:string;job_mentions:number;action:string}[];course_count:number;methodology:Record<string,string> }
+type Program = { program:string; program_name:string; job_count:number; key_jobs:{role:string;count:number;share_pct:number}[]; job_titles:{title:string;count:number}[]; top_skills:Skill[]; market_weighted_syllabus_coverage_pct:number|null; readiness:string; limitations:string[] }
+type Source = { source:string;name:string;count:number;homepage?:string;api_url?:string;attribution?:string }
+type Report = { generated_at:string; scope:{job_count:number;jobs_with_descriptions:number;sources:Source[];top_locations:{location:string;count:number}[];scraped_from:string|null;scraped_to:string|null;evidence_rule:string;sample_quality:string}; programs:Program[]; priority_actions:{skill:string;program:string;job_mentions:number;action:string}[];course_count:number;methodology:Record<string,string> }
 
 const readinessLabel: Record<string,string> = {
   not_assessed: 'Not assessed — upload and score syllabi',
@@ -13,7 +14,7 @@ const readinessLabel: Record<string,string> = {
 }
 
 export default function MarketAlignmentReport() {
-  const [program, setProgram] = useState('all')
+  const [program, setProgram] = useState<'itm'|'ba'>('itm')
   const [report, setReport] = useState<Report|null>(null)
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState('')
@@ -28,8 +29,8 @@ export default function MarketAlignmentReport() {
 
   return <div className="p-8 max-w-7xl mx-auto space-y-6">
     <div className="flex items-start justify-between gap-4">
-      <div><h1 className="text-2xl font-bold text-gray-900">ITM & Business Analytics Market Alignment</h1><p className="text-sm text-gray-500 mt-1">Job-description demand compared with uploaded syllabus evidence.</p></div>
-      <select value={program} onChange={e=>setProgram(e.target.value)} className="border rounded-lg px-3 py-2 text-sm bg-white"><option value="all">ITM + BA</option><option value="itm">ITM only</option><option value="ba">Business Analytics only</option></select>
+      <div><h1 className="text-2xl font-bold text-gray-900">{program === 'itm' ? 'ITM Market Alignment Report' : 'Business Analytics Market Alignment Report'}</h1><p className="text-sm text-gray-500 mt-1">A separate, degree-specific comparison of job-description demand and syllabus evidence.</p></div>
+      <div className="flex rounded-lg border bg-white p-1 text-sm"><button onClick={()=>setProgram('itm')} className={`px-3 py-1.5 rounded-md ${program==='itm'?'bg-[#17365D] text-white':'text-gray-600'}`}>ITM report</button><button onClick={()=>setProgram('ba')} className={`px-3 py-1.5 rounded-md ${program==='ba'?'bg-[#17365D] text-white':'text-gray-600'}`}>BA report</button></div>
     </div>
     {loading && <div className="bg-white rounded-xl p-8 text-sm text-gray-500">Building evidence report…</div>}
     {error && <div className="bg-red-50 border border-red-200 rounded-xl p-4 text-sm text-red-700">{error}</div>}
@@ -42,8 +43,10 @@ export default function MarketAlignmentReport() {
       {report.programs.map(p=><section key={p.program} className="bg-white rounded-xl border p-5 space-y-5">
         <div className="flex justify-between gap-4"><div><h2 className="text-lg font-semibold">{p.program_name}</h2><p className="text-xs text-gray-500">{p.job_count} description-backed jobs</p></div><div className="text-right"><div className="text-xl font-bold text-[#C75B12]">{p.market_weighted_syllabus_coverage_pct == null ? '—' : `${p.market_weighted_syllabus_coverage_pct}%`}</div><div className="text-xs text-gray-500">{readinessLabel[p.readiness]}</div></div></div>
         <div><h3 className="text-xs font-semibold uppercase tracking-wide text-gray-500 mb-2">Key job families</h3><div className="grid grid-cols-2 md:grid-cols-4 gap-2">{p.key_jobs.map(j=><div key={j.role} className="bg-gray-50 rounded-lg p-3"><div className="text-sm font-medium">{j.role}</div><div className="text-xs text-gray-500">{j.count} jobs · {j.share_pct}%</div></div>)}{!p.key_jobs.length && <p className="text-sm text-gray-400">No qualifying jobs yet.</p>}</div></div>
+        <div><h3 className="text-xs font-semibold uppercase tracking-wide text-gray-500 mb-2">Job titles represented</h3><div className="flex flex-wrap gap-2">{p.job_titles.map(j=><span key={j.title} className="rounded-full border bg-white px-3 py-1 text-xs text-gray-700">{j.title} <b className="text-[#C75B12]">{j.count}</b></span>)}{!p.job_titles.length && <p className="text-sm text-gray-400">Titles will appear after collection.</p>}</div></div>
         <div><h3 className="text-xs font-semibold uppercase tracking-wide text-gray-500 mb-2">Skills found in job descriptions</h3><div className="overflow-x-auto"><table className="w-full text-sm"><thead><tr className="text-left text-xs text-gray-500 border-b"><th className="py-2">Skill</th><th>Jobs</th><th>Demand share</th><th>Syllabus evidence</th><th>Best course</th></tr></thead><tbody>{p.top_skills.map(s=><tr key={s.skill} className="border-b last:border-0"><td className="py-2 font-medium">{s.skill}</td><td>{s.job_mentions}</td><td>{s.share_of_jobs_pct}%</td><td><span className={`text-xs px-2 py-1 rounded-full ${s.syllabus_status==='covered'?'bg-emerald-100 text-emerald-700':s.syllabus_status==='partial'?'bg-amber-100 text-amber-700':'bg-red-50 text-red-600'}`}>{s.syllabus_status.replace('_',' ')}</span></td><td className="text-gray-500">{s.best_course?.code || s.best_course?.title || '—'}</td></tr>)}</tbody></table>{!p.top_skills.length && <p className="text-sm text-gray-400 py-4">Skills will appear after description-based extraction.</p>}</div></div>
       </section>)}
+      <section className="bg-white rounded-xl border p-5"><h2 className="font-semibold mb-3">Job data sources</h2><div className="grid md:grid-cols-2 gap-3">{report.scope.sources.map(source=><div key={source.source} className="rounded-lg border p-3"><div className="flex justify-between gap-3"><a className="font-medium text-[#17365D] hover:underline" href={source.homepage} target="_blank" rel="noreferrer">{source.name}</a><span className="text-sm font-semibold text-[#C75B12]">{source.count} jobs</span></div><p className="text-xs text-gray-500 mt-1">{source.attribution}</p>{source.api_url&&<a className="text-xs text-blue-600 hover:underline" href={source.api_url} target="_blank" rel="noreferrer">Public feed</a>}</div>)}</div></section>
       <section className="bg-white rounded-xl border p-5"><h2 className="font-semibold mb-3">Priority curriculum actions</h2>{report.priority_actions.length ? <ol className="space-y-2">{report.priority_actions.map((a,i)=><li key={`${a.program}-${a.skill}`} className="text-sm"><span className="font-semibold text-[#C75B12] mr-2">{i+1}.</span><b>{a.skill}</b> ({a.job_mentions} jobs): {a.action}</li>)}</ol> : <p className="text-sm text-gray-400">Actions require both job skill evidence and syllabus coverage results.</p>}</section>
       <section className="bg-gray-100 rounded-xl p-5 text-xs text-gray-600"><h2 className="font-semibold text-gray-800 mb-2">Method and limits</h2>{Object.values(report.methodology).map(line=><p key={line} className="mb-1">• {line}</p>)}<p className="mt-2 font-medium">This report measures preparation evidence. It cannot guarantee that a student will receive a job offer.</p></section>
     </>}

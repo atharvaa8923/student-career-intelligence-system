@@ -31,6 +31,7 @@ supabase/.branches/
 # Generated report previews; keep the final DOCX report
 implementations/reports/qa/
 implementations/reports/qa-final/
+implementations/reports/qa-*/
 
 # OS and editor files
 .DS_Store

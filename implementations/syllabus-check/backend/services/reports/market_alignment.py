@@ -13,26 +13,107 @@ PROGRAMS = {
         "domains": {"Information Systems"},
         "roles": {
             "Business Systems Analyst": ("business systems analyst", "business system analyst"),
-            "Systems Analyst": ("systems analyst", "system analyst"),
-            "IT Project Manager": ("it project manager", "technical project manager", "technology project manager"),
-            "ERP / Enterprise Systems": ("erp", "enterprise systems", "sap consultant", "oracle consultant"),
-            "Technology Consultant": ("technology consultant", "it consultant", "technical consultant"),
-            "IT Operations": ("it operations", "information technology specialist", "it analyst"),
-            "Product / Technology Analyst": ("product analyst", "technology analyst"),
+            "Systems Analyst": ("systems analyst", "system analyst", "application systems analyst", "computer systems analyst"),
+            "IT Project / Program Manager": (
+                "it project manager", "technical project manager", "technology project manager",
+                "it program manager", "technical program manager", "technology program manager",
+                "digital project manager", "implementation project manager",
+            ),
+            "ERP / Enterprise Systems": (
+                "erp analyst", "erp consultant", "enterprise systems analyst", "enterprise applications analyst",
+                "sap analyst", "sap consultant", "oracle applications consultant", "workday analyst",
+            ),
+            "Technology Consultant": (
+                "technology consultant", "it consultant", "technical consultant", "digital transformation consultant",
+                "information systems consultant", "solutions consultant", "implementation consultant",
+            ),
+            "IT Operations / Service Management": (
+                "it operations analyst", "it operations manager", "information technology specialist", "it analyst",
+                "it service manager", "it service management", "service delivery manager", "technology operations analyst",
+            ),
+            "Product / Technology Analyst": (
+                "technology analyst", "technical analyst", "it product analyst", "product operations analyst",
+                "digital product analyst",
+            ),
+            "Cloud / Solutions Architecture": (
+                "cloud analyst", "cloud consultant", "cloud solutions architect", "solutions architect",
+                "enterprise architect", "technology architect",
+            ),
+            "Cybersecurity / IT Risk": (
+                "information security analyst", "cybersecurity analyst", "it risk analyst", "technology risk analyst",
+                "governance risk and compliance analyst", "grc analyst",
+            ),
+            "Database / Data Systems": (
+                "database administrator", "database analyst", "data systems analyst", "data platform analyst",
+            ),
         },
     },
     "ba": {
         "name": "Business Analytics (BA)",
         "domains": {"Information Systems", "Organizations, Strategy & Intl Mgmt"},
         "roles": {
-            "Business Analyst": ("business analyst",),
-            "Data Analyst": ("data analyst", "analytics analyst"),
-            "Business Intelligence Analyst": ("business intelligence analyst", "bi analyst"),
-            "Analytics Consultant": ("analytics consultant", "business analytics consultant"),
-            "Product Analyst": ("product analyst",),
-            "Operations Analyst": ("operations analyst", "operational analyst"),
-            "Risk / Decision Analyst": ("risk analyst", "decision analyst"),
+            "Business Analyst": ("business analyst", "business process analyst", "business requirements analyst"),
+            "Data Analyst": ("data analyst", "analytics analyst", "reporting analyst", "insights analyst"),
+            "Business Intelligence Analyst": (
+                "business intelligence analyst", "bi analyst", "business intelligence developer", "bi developer",
+                "business intelligence consultant",
+            ),
+            "Analytics Consultant": (
+                "analytics consultant", "business analytics consultant", "data analytics consultant",
+                "decision science consultant",
+            ),
+            "Product Analyst": ("product analyst", "product analytics analyst", "digital product analyst"),
+            "Operations / Supply Chain Analyst": (
+                "operations analyst", "operational analyst", "supply chain analyst", "logistics analyst",
+                "workforce analyst", "planning analyst",
+            ),
+            "Risk / Decision Analyst": (
+                "risk analyst", "decision analyst", "decision scientist", "fraud analyst", "credit risk analyst",
+            ),
+            "Marketing / Customer Analyst": (
+                "marketing analyst", "customer insights analyst", "consumer insights analyst", "crm analyst",
+                "growth analyst", "web analytics analyst",
+            ),
+            "Financial / Revenue Analyst": (
+                "financial data analyst", "revenue analyst", "pricing analyst", "sales operations analyst",
+                "commercial analyst",
+            ),
+            "People Analytics Analyst": ("people analytics analyst", "hr analytics analyst", "workforce analytics analyst"),
+            "Data Visualization Analyst": ("data visualization analyst", "tableau analyst", "power bi analyst"),
         },
+    },
+}
+
+JOB_SOURCES = {
+    "arbeitnow": {
+        "name": "Arbeitnow",
+        "homepage": "https://www.arbeitnow.com/",
+        "api_url": "https://www.arbeitnow.com/api/job-board-api",
+        "attribution": "Public job-board API; retain the original listing URL.",
+    },
+    "remotive": {
+        "name": "Remotive",
+        "homepage": "https://remotive.com/remote-jobs",
+        "api_url": "https://remotive.com/api/remote-jobs",
+        "attribution": "Mention Remotive as the source and link to the Remotive listing.",
+    },
+    "remoteok": {
+        "name": "Remote OK",
+        "homepage": "https://remoteok.com/",
+        "api_url": "https://remoteok.com/api",
+        "attribution": "Credit Remote OK and retain the original job-post URL.",
+    },
+    "jobicy": {
+        "name": "Jobicy",
+        "homepage": "https://jobicy.com/",
+        "api_url": "https://jobicy.com/api/v2/remote-jobs",
+        "attribution": "Credit Jobicy and preserve the canonical Jobicy listing URL.",
+    },
+    "himalayas": {
+        "name": "Himalayas",
+        "homepage": "https://himalayas.app/jobs",
+        "api_url": "https://himalayas.app/jobs/api",
+        "attribution": "Mention Himalayas as the source and link back to the original listing.",
     },
 }
 
@@ -40,12 +121,18 @@ STATUS_VALUE = {"missing": 0.0, "partial": 0.5, "covered": 1.0}
 
 
 def classify_job(title: str) -> tuple[str | None, str | None]:
-    """Classify a title into the first specific ITM/BA role family it matches."""
+    """Classify a title using the most specific matching ITM/BA phrase."""
     normalized = re.sub(r"[^a-z0-9]+", " ", (title or "").lower()).strip()
+    matches: list[tuple[int, int, str, str]] = []
     for program_key in ("itm", "ba"):
         for family, phrases in PROGRAMS[program_key]["roles"].items():
-            if any(re.search(rf"\b{re.escape(phrase)}\b", normalized) for phrase in phrases):
-                return program_key, family
+            for phrase in phrases:
+                if re.search(rf"\b{re.escape(phrase)}\b", normalized):
+                    program_priority = 1 if program_key == "itm" else 0
+                    matches.append((len(phrase.split()), program_priority, program_key, family))
+    if matches:
+        _, _, program_key, family = max(matches)
+        return program_key, family
     return None, None
 
 
@@ -69,8 +156,13 @@ def build_market_alignment(
 
     jobs_by_program = Counter(v[0] for v in classified.values())
     role_counts: dict[str, Counter] = {key: Counter() for key in selected}
+    title_counts: dict[str, Counter] = {key: Counter() for key in selected}
     for program_key, family in classified.values():
         role_counts[program_key][family] += 1
+    for job in selected_jobs:
+        program_key, _ = classified[str(job["id"])]
+        title = re.sub(r"\s+", " ", (job.get("title") or "Untitled role")).strip()
+        title_counts[program_key][title] += 1
 
     job_skill_sets: dict[tuple[str, str], set[str]] = defaultdict(set)
     skill_details: dict[tuple[str, str], dict[str, Any]] = {}
@@ -157,6 +249,10 @@ def build_market_alignment(
                 {"role": role, "count": count, "share_pct": round(count * 100 / total_jobs, 1) if total_jobs else 0.0}
                 for role, count in role_counts[program_key].most_common()
             ],
+            "job_titles": [
+                {"title": title, "count": count}
+                for title, count in title_counts[program_key].most_common(30)
+            ],
             "top_skills": top_skills,
             "market_weighted_syllabus_coverage_pct": score,
             "readiness": readiness,
@@ -178,7 +274,17 @@ def build_market_alignment(
             "evidence_rule": "Skills are counted only when linked to a collected job description.",
             "job_count": len(selected_jobs),
             "jobs_with_descriptions": sum(1 for job in selected_jobs if len(job.get("description") or "") >= 100),
-            "sources": [{"source": name, "count": count} for name, count in sources.most_common()],
+            "sources": [
+                {
+                    "source": name,
+                    "name": JOB_SOURCES.get(name, {}).get("name", name),
+                    "count": count,
+                    "homepage": JOB_SOURCES.get(name, {}).get("homepage"),
+                    "api_url": JOB_SOURCES.get(name, {}).get("api_url"),
+                    "attribution": JOB_SOURCES.get(name, {}).get("attribution"),
+                }
+                for name, count in sources.most_common()
+            ],
             "top_locations": [{"location": name, "count": count} for name, count in locations.most_common(10)],
             "scraped_from": min(dates).isoformat() if dates else None,
             "scraped_to": max(dates).isoformat() if dates else None,

@@ -70,7 +70,15 @@ async def main():
                     ), {"id": keyword_id})
                     links += 1
         db.commit()
-    print({"qualified_jobs": len(jobs), "inserted": inserted, "updated": updated, "skill_links_added": links})
+    by_source = {}
+    by_program = {}
+    for job in jobs:
+        by_source[job["source"]] = by_source.get(job["source"], 0) + 1
+        by_program[job["program"]] = by_program.get(job["program"], 0) + 1
+    print({
+        "qualified_jobs": len(jobs), "inserted": inserted, "updated": updated,
+        "skill_links_added": links, "by_source": by_source, "by_program": by_program,
+    })
 
 
 if __name__ == "__main__":
