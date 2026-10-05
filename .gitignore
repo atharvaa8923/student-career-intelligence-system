@@ -14,7 +14,12 @@ __pycache__/
 dist/
 build/
 .next/
-coverage/
+# Test-coverage output only. A bare `coverage/` pattern also matched
+# implementations/syllabus-check/backend/services/coverage/ source.
+/coverage/
+implementations/*/frontend/coverage/
+.coverage
+htmlcov/
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/

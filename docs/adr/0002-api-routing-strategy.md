@@ -1,6 +1,6 @@
 # ADR-0002 — API gateway and routing strategy
 
-**Status:** Proposed
+**Status:** Accepted — approved by the owner on 2026-10-05. Recommended defaults apply until the owner answers the open questions below.
 
 ## Context
 

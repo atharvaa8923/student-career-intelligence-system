@@ -29,10 +29,13 @@ Each application folder has its own setup instructions and environment-variable 
 
 - `docs/phase-00/BASELINE-INVENTORY.md` — evidence-labeled inventory of what exists (2026-10-05).
 - `docs/phase-00/PHASE-00.md` — Phase 0 record, verification, limitations, decisions requested.
-- `docs/adr/` — ten **proposed** architecture decision records (not yet approved).
+- `docs/phase-01/PHASE-01.md` — Phase 1 record: root commands, CI, auth and dependency fixes.
+- `docs/adr/` — ten architecture decision records (approved 2026-10-05).
+
+Developer commands: `make help` (lint, tests, SQL replay, builds, secret scan, health, `dev-up`).
 - `NEXT-STEPS-END-TO-END-ROADMAP.md` — phase tracker (Phases 0–20) and cross-phase backlog.
 
-### Capability status (as of Phase 0)
+### Capability status (as of Phase 1)
 
 | Capability | Status |
 |---|---|
@@ -40,7 +43,9 @@ Each application folder has its own setup instructions and environment-variable 
 | Supabase Auth in both backends | Partially implemented (email confirmation off in checked-in config; hosted setting unverified) |
 | Syllabus upload to private Storage | Implemented with remaining deployment input (`DB_SSL_CA`) |
 | ITM/BA market-alignment report | Partially implemented (18 pilot jobs, mostly non-US) |
-| Coverage engine | Blocked (source not committed; ignored by `.gitignore` rule `coverage/`) |
+| Root developer commands, CI (no deploy), secret scan, SQL replay | Implemented and verified (Phase 1) |
+| Admin-only background-job routes (SyllabusCheck) | Implemented and verified (Phase 1, HTTP tests) |
+| Coverage engine (legacy faculty tool) | Partially implemented (restored in Phase 1; legacy schema; not approved student evidence) |
 | JSOM admin console | Partially implemented (several routes reference relations absent from the runtime schema) |
 | Unified portal, resume/profile, job sources and snapshots, taxonomy, matching, subject recommendations, roadmap, MCP server, Master Agent runtime, Security Agent | Planned |
 

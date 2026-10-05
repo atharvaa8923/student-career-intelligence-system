@@ -1,6 +1,6 @@
 # ADR-0006 — Matching and recommendation versioning
 
-**Status:** Proposed
+**Status:** Accepted — approved by the owner on 2026-10-05. Recommended defaults apply until the owner answers the open questions below.
 
 ## Context
 

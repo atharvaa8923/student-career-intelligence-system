@@ -1,6 +1,6 @@
 # Architecture decision records
 
-All records below are **Proposed** (Phase 0, 2026-10-05). None is accepted until the owner approves Phase 0. A record marked "Proposed" is a recommendation backed by the baseline inventory, not an implemented capability.
+All records below were written in Phase 0 and **approved by the owner on 2026-10-05**. Recommended defaults apply until the owner answers each record's open questions. An accepted decision is a design commitment, not an implemented capability; implementation status lives in `NEXT-STEPS-END-TO-END-ROADMAP.md`.
 
 | ADR | Decision | Evidence it responds to |
 |---|---|---|

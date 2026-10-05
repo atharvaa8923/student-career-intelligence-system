@@ -82,9 +82,26 @@ jobs:
       - name: Install migration test dependencies
         run: >-
           python -m pip install "sqlalchemy[asyncio]==2.0.31" alembic==1.13.1 asyncpg==0.29.0
-          pgvector==0.3.2 psycopg2-binary==2.9.9 pydantic==2.7.4 pydantic-settings==2.3.4 greenlet
+          pgvector==0.3.2 psycopg2-binary==2.9.9 pydantic==2.13.5 pydantic-settings==2.15.0 greenlet
       - name: Run migration tests
         run: make test-migrations
+
+  backend-http:
+    name: SyllabusCheck HTTP authorization tests (real app)
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install backend requirements (without ML packages)
+        run: |
+          grep -vE '^--|^torch|^sentence-transformers|^spacy' implementations/syllabus-check/backend/requirements.txt > /tmp/req.txt
+          python -m pip install -r /tmp/req.txt pytest==8.3.3
+      - name: Run backend tests
+        working-directory: implementations/syllabus-check/backend
+        run: python -m pytest tests -v
 
   frontend-builds:
     name: Frontend build (${{ matrix.app }})

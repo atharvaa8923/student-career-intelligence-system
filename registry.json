@@ -33,7 +33,7 @@
     {
       "id": "phase-00",
       "title": "Baseline inventory and architecture decisions",
-      "status": "complete_awaiting_owner_approval",
+      "status": "approved",
       "completed_on": "2026-10-05",
       "deliverables": [
         "docs/phase-00/BASELINE-INVENTORY.md",
@@ -42,7 +42,21 @@
         "NEXT-STEPS-END-TO-END-ROADMAP.md"
       ],
       "verification_scope": "Local PostgreSQL 16 replay, SQL assertions, unit tests, builds, dependency audits. Hosted Supabase not accessed.",
-      "next_phase": "phase-01 (not started; requires owner approval)"
+      "next_phase": "phase-01"
+    },
+    {
+      "id": "phase-01",
+      "title": "Portable root commands, aggregate health checks, urgent fixes",
+      "status": "complete_awaiting_owner_review",
+      "completed_on": "2026-10-05",
+      "deliverables": [
+        "docs/phase-01/PHASE-01.md",
+        "Makefile",
+        "scripts/",
+        "/.github/workflows/ci.yml"
+      ],
+      "verification_scope": "Local tests, real FastAPI app over TestClient, JSOM API boot, SQL replay on PG16, GitHub CI.",
+      "next_phase": "phase-02 (needs hosted dev credentials)"
     }
   ]
 }
