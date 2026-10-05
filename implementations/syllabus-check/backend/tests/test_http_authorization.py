@@ -6,8 +6,13 @@ or a query runs. Complements implementations/tests/test_route_authorization.py.
 """
 import os
 import re
+import tempfile
 
 os.environ.setdefault("DATABASE_URL", "postgresql+asyncpg://test:test@127.0.0.1:1/test")
+# Importing the report generator creates REPORT_DIR (default /app/reports).
+_scratch = tempfile.mkdtemp(prefix="sc-test-")
+os.environ.setdefault("REPORT_DIR", os.path.join(_scratch, "reports"))
+os.environ.setdefault("UPLOAD_DIR", os.path.join(_scratch, "uploads"))
 
 import pytest
 
