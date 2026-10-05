@@ -28,5 +28,21 @@
       "service_lifetime": "Local development processes; not a supervised persistent service. Restart with npm run demo if stopped.",
       "platform_status": "notLoaded"
     }
+  ],
+  "program_phases": [
+    {
+      "id": "phase-00",
+      "title": "Baseline inventory and architecture decisions",
+      "status": "complete_awaiting_owner_approval",
+      "completed_on": "2026-10-05",
+      "deliverables": [
+        "docs/phase-00/BASELINE-INVENTORY.md",
+        "docs/phase-00/PHASE-00.md",
+        "docs/adr/README.md",
+        "NEXT-STEPS-END-TO-END-ROADMAP.md"
+      ],
+      "verification_scope": "Local PostgreSQL 16 replay, SQL assertions, unit tests, builds, dependency audits. Hosted Supabase not accessed.",
+      "next_phase": "phase-01 (not started; requires owner approval)"
+    }
   ]
 }
