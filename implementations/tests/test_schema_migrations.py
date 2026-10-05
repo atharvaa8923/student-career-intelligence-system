@@ -51,7 +51,8 @@ class SchemaMigrations(unittest.TestCase):
     def test_syllabus_fresh_and_repeat(self):
         self.migrate()
         self.migrate()
-        self.assertEqual(self.query('SELECT version_num FROM alembic_version')[0][0], '010_schema_alignment')
+        self.assertEqual(self.query('SELECT version_num FROM alembic_version')[0][0], '011_supabase_identity')
+        self.assertEqual(self.query("SELECT data_type FROM information_schema.columns WHERE table_name='users' AND column_name='supabase_user_id'"), [('uuid',)])
         # Every model column must exist and be readable using its declared type.
         env = dict(os.environ, DATABASE_URL=f'postgresql+asyncpg:///{self.name}?host={self.host}&port={self.port}')
         check = '''import asyncio

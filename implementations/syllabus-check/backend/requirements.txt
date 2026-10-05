@@ -1,7 +1,7 @@
 # ── Web Framework ─────────────────────────────────────────────────────
 fastapi==0.111.0
 uvicorn[standard]==0.30.1
-python-multipart==0.0.9       # file uploads
+python-multipart==0.0.9       # file uploads — UPGRADE PENDING (pip-audit: >=0.0.31); see docs/phase-01
 
 # ── Database ──────────────────────────────────────────────────────────
 sqlalchemy[asyncio]==2.0.31
@@ -10,9 +10,7 @@ alembic==1.13.1
 pgvector==0.3.2
 
 # ── Auth ──────────────────────────────────────────────────────────────
-python-jose[cryptography]==3.3.0
-bcrypt==4.1.3
-authlib==1.3.1                # Phase 7 — Google OAuth
+# Supabase Auth owns credentials; no local JWT/password/OAuth libraries.
 
 # ── Task Queue ────────────────────────────────────────────────────────
 celery==5.4.0

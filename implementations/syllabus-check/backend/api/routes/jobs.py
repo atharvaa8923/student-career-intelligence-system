@@ -142,7 +142,7 @@ async def trigger_scrape(
         return ScrapeResponse(message="Scraping all sources", task_id=task.id)
     
 @router.post("/admin/trigger-keyword-extraction")
-async def trigger_keyword_extraction():
+async def trigger_keyword_extraction(user: User = Depends(require_admin)):
     from tasks.nlp_tasks import extract_all_job_keywords
     result = extract_all_job_keywords.delay(batch_size=50, limit=5000)
     return {"task_id": str(result.id), "status": "queued"}
@@ -179,7 +179,7 @@ async def trigger_keyword_extraction_today(
     }
 
 @router.post("/reparse-all")
-async def reparse_all(db: AsyncSession = Depends(get_db)):
+async def reparse_all(db: AsyncSession = Depends(get_db), user: User = Depends(require_admin)):
     from tasks.nlp_tasks import parse_syllabus
     result = await db.execute(
         select(Course).where(Course.status == "pending")
@@ -190,7 +190,7 @@ async def reparse_all(db: AsyncSession = Depends(get_db)):
     return {"queued": len(courses)}
 
 @router.post("/recompute-coverage-all")
-async def recompute_coverage_all(db: AsyncSession = Depends(get_db)):
+async def recompute_coverage_all(db: AsyncSession = Depends(get_db), user: User = Depends(require_admin)):
     from tasks.coverage_tasks import compute_course_coverage
     result = await db.execute(
         select(Course).where(Course.status == "parsed")
@@ -202,7 +202,7 @@ async def recompute_coverage_all(db: AsyncSession = Depends(get_db)):
 
 
 @router.post("/reparse-empty")
-async def reparse_empty(db: AsyncSession = Depends(get_db)):
+async def reparse_empty(db: AsyncSession = Depends(get_db), user: User = Depends(require_admin)):
     from tasks.nlp_tasks import parse_syllabus
     result = await db.execute(
         select(Course).where(

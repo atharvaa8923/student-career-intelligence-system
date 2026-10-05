@@ -4,7 +4,7 @@ from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy import text
 
 from core.database import get_db
-from api.routes.auth import get_current_user
+from api.routes.auth import get_current_user, require_admin
 from models.models import User
 
 logger = logging.getLogger(__name__)
@@ -15,7 +15,7 @@ router = APIRouter()
 async def trigger_classify_subdomains(
     domain: str = Query(default="Computer Science", description="Keyword domain to classify"),
     batch_size: int = Query(default=50, ge=10, le=100, description="Keywords per Claude API call"),
-    current_user: User = Depends(get_current_user),
+    current_user: User = Depends(require_admin),
 ):
     """
     Trigger subdomain classification for all unclassified keywords in a domain.
@@ -166,7 +166,7 @@ async def emerging_keywords(
 @router.post("/backfill-embeddings")
 async def trigger_backfill_embeddings(
     batch_size: int = Query(default=200, ge=50, le=500),
-    current_user: User = Depends(get_current_user),
+    current_user: User = Depends(require_admin),
 ):
     """
     Backfill embeddings for all keywords that have NULL embeddings.
