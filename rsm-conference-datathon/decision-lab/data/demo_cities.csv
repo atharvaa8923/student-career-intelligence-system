@@ -1,0 +1,6 @@
+city,attendees,local_employees,airfare_total,other_cost_total,travel_hours_total,nonstop_pct,venue_capacity,venue_status,activities_supported,evidence
+Chicago,1200,300,330000,235000,5100,90,1500,unverified,unknown,SYNTHETIC DEMO ONLY; no actual venue or airfare verified
+Dallas,1200,180,285000,210000,6200,86,1600,unverified,unknown,SYNTHETIC DEMO ONLY; no actual venue or airfare verified
+Atlanta,1200,160,310000,225000,5800,89,1400,unverified,unknown,SYNTHETIC DEMO ONLY; no actual venue or airfare verified
+Denver,1200,110,350000,245000,7000,79,1300,unverified,unknown,SYNTHETIC DEMO ONLY; no actual venue or airfare verified
+Nashville,1200,70,380000,200000,7600,64,900,unverified,unknown,SYNTHETIC DEMO ONLY; insufficient illustrative capacity

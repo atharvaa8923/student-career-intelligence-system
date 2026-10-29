@@ -23,6 +23,7 @@
 | `answer_key/` | Expected outputs: host scores for all 41 cities, the office × host matrix, office headcount |
 | `charts/` | 6 slide-ready PNG charts (Chicago highlighted) |
 | `scripts/` | Python validation model and chart generator (the "AI verification" layer) |
+| [`decision-lab/`](decision-lab/RUN_WITH_RSM_DATA.md) | Interactive dashboard (FastAPI + LangGraph) loaded with the real results, for a live demo |
 
 The provided RSM workbook (employee listing) is **not** committed here. Upload it to Alteryx directly.
 
