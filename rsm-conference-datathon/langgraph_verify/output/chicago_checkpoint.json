@@ -1,0 +1,148 @@
+{
+  "chicago": {
+    "attendees_total": 3579,
+    "can_attend": 3579,
+    "by_travel_mode": {
+      "1-Stop": 2,
+      "Drive": 23,
+      "Local": 299,
+      "Nonstop": 3255
+    },
+    "by_region": {
+      "Midwest": {
+        "employees": 1072,
+        "offices": 13,
+        "avg_round_trip_h": 4.5
+      },
+      "Northeast": {
+        "employees": 730,
+        "offices": 7,
+        "avg_round_trip_h": 8.0
+      },
+      "South": {
+        "employees": 1133,
+        "offices": 13,
+        "avg_round_trip_h": 8.3
+      },
+      "West": {
+        "employees": 644,
+        "offices": 8,
+        "avg_round_trip_h": 11.3
+      }
+    },
+    "by_distance_band": {
+      "Local": 299,
+      "Under 300 mi": 343,
+      "300-1,000 mi": 2157,
+      "Over 1,000 mi": 780
+    },
+    "by_round_trip_time": {
+      "No travel": 299,
+      "Under 6 h": 97,
+      "6-8 h": 1202,
+      "8-10 h": 1423,
+      "Over 10 h": 558
+    },
+    "flight_tickets_needed": 3257,
+    "hotel_room_nights": 9874,
+    "presenters": 35,
+    "nonstop_or_drive_pct": 99.9,
+    "avg_round_trip_hours": 7.65,
+    "total_person_hours": 27374,
+    "round1_score": 93.2,
+    "round1_rank": 1,
+    "round2_rank": 1,
+    "total_cost": 18856681,
+    "cost_breakdown": {
+      "airfare_mileage": 1275997,
+      "hotel": 2201902,
+      "lost_billable_time": 15378781
+    },
+    "time_share_of_cost_pct": 81.6,
+    "runner_up": "St. Louis, MO",
+    "savings_vs_runner_up": 658193,
+    "savings_vs_houston_cash_cheapest": 1558404,
+    "hours_saved_vs_houston": 4010,
+    "robustness_wins_of_10000": {
+      "Chicago, IL": 8615,
+      "Iowa City, IA": 726,
+      "Dallas, TX": 410,
+      "New York, NY": 112,
+      "St. Louis, MO": 86
+    },
+    "venue": {
+      "name": "McCormick Place",
+      "general_session_seats": 4249,
+      "general_session_room": "Arie Crown Theater",
+      "source": "AI estimate - verify with McCormick Place"
+    },
+    "venue_fits_everyone": true
+  },
+  "checks": [
+    {
+      "check": "Every office maps to an airport",
+      "status": "PASS",
+      "detail": "unmapped: none"
+    },
+    {
+      "check": "Employee total = 3,579",
+      "status": "PASS",
+      "detail": "3,579"
+    },
+    {
+      "check": "No negative durations after overnight fix",
+      "status": "PASS",
+      "detail": "min 0"
+    },
+    {
+      "check": "Local-time trap detected (JFK\u2192LAX shorter than LAX\u2192JFK)",
+      "status": "PASS",
+      "detail": "naive JFK\u2192LAX 180 min vs LAX\u2192JFK 500 min"
+    },
+    {
+      "check": "Round-trip JFK\u2194LAX is physically plausible (10\u201312.5 h air time)",
+      "status": "PASS",
+      "detail": "680 min"
+    },
+    {
+      "check": "Every host accounts for all 3,579 employees",
+      "status": "PASS",
+      "detail": "3,579\u20133,579 per host"
+    },
+    {
+      "check": "Chicago: modes add up to every attendee",
+      "status": "PASS",
+      "detail": "3,579"
+    },
+    {
+      "check": "Chicago: local attendees = Chicago office headcount",
+      "status": "PASS",
+      "detail": "299"
+    },
+    {
+      "check": "Chicago: general-session seats \u2265 attendees",
+      "status": "PASS",
+      "detail": "4,249 seats vs 3,579 (AI estimate - verify with McCormick Place)"
+    },
+    {
+      "check": "Reconcile R1_Score with answer key (all 41 hosts, \u22640.5%)",
+      "status": "PASS",
+      "detail": "max diff 0.000%"
+    },
+    {
+      "check": "Reconcile Total_Cost with answer key (all 41 hosts, \u22640.5%)",
+      "status": "PASS",
+      "detail": "max diff 0.000%"
+    }
+  ],
+  "trace": [
+    "Loaded 3,579 employees and 852,146 flight rows",
+    "41 offices after name cleaning; 35 presenters",
+    "763,312 clean flights \u2192 5,142 routes with \u226510 flights",
+    "4,976 round-trip routes",
+    "1,681 office\u2192host pairs; modes {'Nonstop': 1088, '1-Stop': 510, 'Drive': 42, 'Local': 41}",
+    "Scored 41 hosts; Round 1 #1 = Chicago, IL, Round 2 #1 = Chicago, IL",
+    "Built Chicago checkpoint",
+    "11/11 checks passed"
+  ]
+}

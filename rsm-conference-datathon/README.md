@@ -21,8 +21,9 @@
 | [`PRESENTATION_PLAYBOOK.md`](PRESENTATION_PLAYBOOK.md) | 12-slide storyline, assumptions table, AI-usage slide, design rules, judge Q&A prep |
 | `alteryx_upload/` | AI-enrichment files to upload to Alteryx: `office_airport_map.csv`, `city_enrichment.csv` |
 | `answer_key/` | Expected outputs: host scores for all 41 cities, the office × host matrix, office headcount |
-| `charts/` | 6 slide-ready PNG charts (Chicago highlighted) |
+| `charts/` | 7 slide-ready PNG charts (Chicago highlighted) |
 | `scripts/` | Python validation model and chart generator (the "AI verification" layer) |
+| [`langgraph_verify/`](langgraph_verify/README.md) | LangGraph pipeline: rebuilds everything from raw data, Chicago checkpoint, 11 automated accuracy checks, checks your Alteryx output |
 | [`decision-lab/`](decision-lab/RUN_WITH_RSM_DATA.md) | Interactive dashboard (FastAPI + LangGraph) loaded with the real results, for a live demo |
 
 The provided RSM workbook (employee listing) is **not** committed here. Upload it to Alteryx directly.

@@ -103,4 +103,21 @@ ax.set_xlim(-0.6, 1.6); ax.set_ylim(23, -0.8); ax.axis("off")
 ax.text(0, -0.2, "Round 1\ncentrality + access", ha="center", fontsize=10, color=INK2)
 ax.text(1, -0.2, "Round 2\ntotal cost + venue", ha="center", fontsize=10, color=INK2)
 finish(fig, ax, "The recommendation holds: Chicago stays #1", "Rank of Round 1's top 8 after adding cost and venue constraints", "06_rank_shift")
+
+# 7. Chicago checkpoint: who can attend, by region (from the LangGraph pipeline output)
+import json, os
+cp = os.path.join(AK, "..", "langgraph_verify", "output", "chicago_checkpoint.json")
+if os.path.exists(cp):
+    s = json.load(open(cp))["chicago"]
+    reg = sorted(s["by_region"].items(), key=lambda t: t[1]["employees"])
+    fig, ax = plt.subplots(figsize=(10, 5))
+    ax.barh([k for k, _ in reg], [v["employees"] for _, v in reg], color=BLUE, height=0.6)
+    for y, (_, v) in enumerate(reg):
+        ax.text(v["employees"] + 15, y, f"{v['employees']:,} people · {v['offices']} offices · {v['avg_round_trip_h']} h avg round trip",
+                va="center", fontsize=10.5, color=INK2)
+    ax.set_xlim(0, max(v["employees"] for _, v in reg) * 1.9); ax.xaxis.grid(True, color=GRID); ax.set_axisbelow(True)
+    ax.set_xlabel("Employees travelling to Chicago (incl. 299 local)")
+    m = s["by_travel_mode"]
+    finish(fig, ax, f"All {s['can_attend']:,} employees can reach Chicago",
+           f"{m['Nonstop']:,} fly nonstop · {m['Local']} local · {m['Drive']} drive · {m['1-Stop']} connect", "07_chicago_who_attends")
 print("charts written")

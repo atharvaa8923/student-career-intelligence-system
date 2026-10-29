@@ -241,7 +241,60 @@ What the constants mean (these all go on your **Assumptions** slide):
 
 ---
 
-## G. Document, run, package (15 min)
+## G. Chicago checkpoint: who can attend and why Chicago (20 min)
+
+This section turns the winner into the selling points: how many people can attend, how they travel, which areas they come from, and whether the venue fits everyone.
+
+**Tool chain:**
+Section E Formula output → **Filter** → **Formula** → four **Summarize** tools (by mode, by region, by distance band, by time band) plus one totals **Summarize** → **Browse**
+
+1. **Filter:** `[Host] = "Chicago, IL"` (41 rows, one per office).
+2. **Formula:**
+   - `Region` (V_String):
+     ```
+     Switch(Right([Office_Clean],2), "Other",
+       "IL","Midwest","MN","Midwest","OH","Midwest","MO","Midwest","IA","Midwest","MI","Midwest","NE","Midwest","WI","Midwest",
+       "NY","Northeast","MA","Northeast","PA","Northeast","CT","Northeast","MD","Northeast","DC","Northeast",
+       "TX","South","NC","South","FL","South","GA","South","TN","South","OK","South",
+       "AZ","West","CA","West","CO","West","WA","West","NV","West")
+     ```
+   - `Distance_Band` (V_String): `IF [Dist_Mi] < 0.5 THEN "Local" ELSEIF [Dist_Mi] <= 300 THEN "Under 300 mi" ELSEIF [Dist_Mi] <= 1000 THEN "300-1,000 mi" ELSE "Over 1,000 mi" ENDIF`
+   - `Time_Band` (V_String): `IF [RT_Hours] = 0 THEN "No travel" ELSEIF [RT_Hours] <= 6 THEN "Under 6 h" ELSEIF [RT_Hours] <= 8 THEN "6-8 h" ELSEIF [RT_Hours] <= 10 THEN "8-10 h" ELSE "Over 10 h" ENDIF`
+3. **Summarize by Mode:** Group By `Mode`, Sum `Employees`.
+   ✅ Nonstop 3,255 · Local 299 · Drive 23 (Milwaukee, Champaign) · 1-Stop 2 (New Bern) = **3,579, so everyone can attend**.
+4. **Summarize by Region:** Group By `Region`; Count `Office_Clean`, Sum `Employees`, Sum `Person_Hours`. Then a **Formula**: `Avg_RT_Hours = [Sum_Person_Hours]/[Sum_Employees]`.
+   ✅
+
+   | Region | Offices | Employees | Avg round trip |
+   |---|---|---|---|
+   | Midwest | 13 | 1,072 | 4.5 h |
+   | Northeast | 7 | 730 | 8.0 h |
+   | South | 13 | 1,133 | 8.3 h |
+   | West | 8 | 644 | 11.3 h |
+
+5. **Summarize by Distance_Band** (Sum `Employees`).
+   ✅ Local 299 · Under 300 mi 343 · 300–1,000 mi 2,157 · Over 1,000 mi 780
+6. **Summarize by Time_Band** (Sum `Employees`).
+   ✅ No travel 299 · Under 6 h 97 · 6–8 h 1,202 · 8–10 h 1,423 · Over 10 h 558
+7. **Totals Summarize** (no grouping): Sum `Employees`, `Tickets`, `Hotel_Nights` and `Presenters`.
+   ✅ 3,579 attendees · 3,257 flight tickets · 9,874 hotel room-nights · 35 presenters
+8. **Venue check:** add a **Text Input** with `Venue` = McCormick Place and `Seats` = 4249 (the Arie Crown Theater; this is an AI estimate, so verify it with the venue). **Append Fields** it to the totals, then add a **Formula**:
+   `Venue_Check = IIF([Sum_Employees] <= [Seats], "Fits everyone in one general session", "Overflow rooms needed")`
+   ✅ "Fits everyone in one general session" (4,249 seats vs 3,579 people)
+9. Add a Comment: **"G. Chicago checkpoint: all 3,579 can attend; 99.9% nonstop or drive; avg round trip 7.6 h"**.
+
+**Selling points this section proves** (use them on slides):
+1. **Everyone can attend:** 3,579 people, 3,255 nonstop, 299 local, 23 drive and only 2 need a connection.
+2. **Midwest hub:** 1,072 Midwest staff average just a 4.5 h round trip, and even the West Coast averages 11.3 h with nonstops.
+3. **Fastest overall:** a 7.6 h average round trip, the lowest of all 41 cities.
+4. **Cheapest true cost:** $18.86M, $0.66M below St. Louis and $1.56M below Houston (which wins on cash alone).
+5. **Venue fits:** McCormick Place, the largest US convention center, seats everyone in one general session.
+
+> Cross-check: run `langgraph_verify/pipeline.py` and compare your Section G numbers with `langgraph_verify/output/chicago_checkpoint.md`.
+
+---
+
+## H. Document, run, package (15 min)
 
 - **Run:** click **Run** (top right). Fix any red error icons first; click the tool to see its message. Paste the error into your AI assistant if it's unclear.
 - **Comment tools:** add one above each section A–F with a heading (e.g. "C. Round-trip table: time zones cancel"). Judges look at this first.

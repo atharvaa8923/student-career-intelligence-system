@@ -213,6 +213,45 @@ Add a Comment: "F. Round 1 = centrality 50% + accessibility 50%. Round 2 = venue
 
 ---
 
+## Section G: Chicago checkpoint (who can attend and why Chicago)
+
+```
+Section G. Branch from the Section E Formula output (the office x host table).
+
+1. Filter: [Host] = "Chicago, IL"
+
+2. Formula:
+   - Region (V_String):
+     Switch(Right([Office_Clean],2), "Other",
+       "IL","Midwest","MN","Midwest","OH","Midwest","MO","Midwest","IA","Midwest","MI","Midwest","NE","Midwest","WI","Midwest",
+       "NY","Northeast","MA","Northeast","PA","Northeast","CT","Northeast","MD","Northeast","DC","Northeast",
+       "TX","South","NC","South","FL","South","GA","South","TN","South","OK","South",
+       "AZ","West","CA","West","CO","West","WA","West","NV","West")
+   - Distance_Band (V_String):
+     IF [Dist_Mi] < 0.5 THEN "Local" ELSEIF [Dist_Mi] <= 300 THEN "Under 300 mi" ELSEIF [Dist_Mi] <= 1000 THEN "300-1,000 mi" ELSE "Over 1,000 mi" ENDIF
+   - Time_Band (V_String):
+     IF [RT_Hours] = 0 THEN "No travel" ELSEIF [RT_Hours] <= 6 THEN "Under 6 h" ELSEIF [RT_Hours] <= 8 THEN "6-8 h" ELSEIF [RT_Hours] <= 10 THEN "8-10 h" ELSE "Over 10 h" ENDIF
+
+3. Connect five Summarize tools to that Formula:
+   a) Group By Mode, Sum Employees
+   b) Group By Region; Count Office_Clean, Sum Employees, Sum Person_Hours. Then a Formula: Avg_RT_Hours = [Sum_Person_Hours]/[Sum_Employees]
+   c) Group By Distance_Band, Sum Employees
+   d) Group By Time_Band, Sum Employees
+   e) No grouping: Sum Employees, Tickets, Hotel_Nights and Presenters
+
+4. Venue check:
+   - Add a Text Input with columns Venue = "McCormick Place" and Seats = 4249.
+   - Append Fields it to output (e).
+   - Formula: Venue_Check = IIF([Sum_Employees] <= [Seats], "Fits everyone in one general session", "Overflow rooms needed")
+
+5. Add a Browse tool on each output, and a Comment: "G. Chicago checkpoint: who can attend, how they travel, where they come from".
+```
+✅ By mode: Nonstop 3,255 · Local 299 · Drive 23 · 1-Stop 2 = 3,579 (everyone can attend).
+✅ By region (employees, avg round trip): Midwest 1,072 (4.5 h) · Northeast 730 (8.0 h) · South 1,133 (8.3 h) · West 644 (11.3 h).
+✅ Totals: 3,257 tickets · 9,874 hotel room-nights · venue fits everyone.
+
+---
+
 ## Fix-it prompt (when something breaks)
 
 ```
