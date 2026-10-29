@@ -1,0 +1,42 @@
+City,Venue,Venue_Tier,Hotel_Rate_Oct,Rate_Source,Suitability_Note
+"Chicago, IL",McCormick Place,A,223,GSA FY2026 (via search),Largest US convention center; deep downtown hotel inventory
+"New York, NY",Javits Center,A,342,GSA FY2026 (via search),Very large venue; highest hotel cost
+"Dallas, TX",Kay Bailey Hutchison Convention Center,A,170,GSA FY2026 (via search),Large venue; two airports (DFW + DAL)
+"Houston, TX",George R. Brown Convention Center,A,128,GSA FY2026 (via search),Large venue; low hotel cost
+"Minneapolis, MN",Minneapolis Convention Center,A,165,AI estimate - verify,Large venue
+"Los Angeles, CA",Los Angeles Convention Center,A,200,AI estimate - verify,Large venue
+"Boston, MA",Boston Convention & Exhibition Center,A,330,AI estimate - verify,Large venue; Oct is peak season
+"San Antonio, TX",Henry B. Gonzalez Convention Center,A,150,AI estimate - verify,Large venue
+"Phoenix, AZ",Phoenix Convention Center,A,160,AI estimate - verify,Large venue
+"Charlotte, NC",Charlotte Convention Center,A,175,AI estimate - verify,Large venue
+"Cleveland, OH",Huntington Convention Center of Cleveland,B,150,AI estimate - verify,Adequate venue; mid-size hotel base
+"Columbus, OH",Greater Columbus Convention Center,A,155,AI estimate - verify,Large venue
+"Orlando, FL",Orange County Convention Center,A,150,AI estimate - verify,Second-largest US venue
+"Kansas City, MO",Kansas City Convention Center,B,150,AI estimate - verify,Adequate venue
+"Denver, CO",Colorado Convention Center,A,210,AI estimate - verify,Large venue
+"Raleigh, NC",Raleigh Convention Center,B,150,AI estimate - verify,Adequate venue; limited downtown rooms
+"Seattle, WA",Seattle Convention Center,A,250,AI estimate - verify,Large venue
+"Cedar Rapids, IA",Alliant Energy PowerHouse,C,110,GSA standard CONUS rate,Hotel inventory too small for ~3.5K travelers
+"St. Louis, MO",America's Center Convention Complex,A,150,AI estimate - verify,Large venue
+"Baltimore, MD",Baltimore Convention Center,B,170,AI estimate - verify,Adequate venue
+"Austin, TX",Austin Convention Center,C,200,AI estimate - verify,Convention center closed for rebuild (2025 to ~2029) - verify
+"Washington, DC",Walter E. Washington Convention Center,A,258,AI estimate - verify,Large venue; Oct is peak season
+"San Francisco, CA",Moscone Center,A,280,AI estimate - verify,Large venue
+"Philadelphia, PA",Pennsylvania Convention Center,A,215,AI estimate - verify,Large venue
+"San Diego, CA",San Diego Convention Center,A,220,AI estimate - verify,Large venue
+"Atlanta, GA",Georgia World Congress Center,A,190,AI estimate (aggregator range 182-207),Very large venue; world's busiest airport
+"Fort Lauderdale, FL",Broward County Convention Center,B,190,AI estimate - verify,Adequate venue
+"Detroit, MI",Huntington Place,A,145,AI estimate - verify,Large venue
+"Iowa City, IA",None suitable,C,110,GSA standard CONUS rate,No venue/hotel base for a firm-wide event
+"Hartford, CT",Connecticut Convention Center,B,150,AI estimate - verify,Adequate venue; small airport
+"Oklahoma City, OK",Prairie Surf Convention Center,B,130,AI estimate - verify,Adequate venue
+"Omaha, NE",CHI Health Center,B,140,AI estimate - verify,Adequate venue
+"St. Petersburg, FL",Tampa Convention Center (nearby),B,180,AI estimate - verify,Uses Tampa venue/airport
+"Las Vegas, NV",Las Vegas Convention Center,A,170,AI estimate - verify,Largest hotel inventory in US
+"Nashville, TN",Music City Center,A,240,AI estimate - verify,Large venue; high hotel cost
+"Milwaukee, WI",Baird Center,B,150,AI estimate - verify,Adequate venue
+"Pittsburgh, PA",David L. Lawrence Convention Center,B,150,AI estimate - verify,Adequate venue
+"San Jose, CA",San Jose McEnery Convention Center,B,220,AI estimate - verify,Adequate venue
+"Champaign, IL",None suitable,C,110,GSA standard CONUS rate,College town; no large venue/hotel base
+"New Bern, NC",None suitable,C,110,GSA standard CONUS rate,Small town; minimal air service
+"Lincoln, NE",Pinnacle Bank Arena area,C,110,GSA standard CONUS rate,Limited hotel inventory and air service

@@ -1,0 +1,1682 @@
+Office,Host,Employees,Presenters,Dist_Mi,Mode,RT_Hours,RT_Cost_pp,Travel_Cost,Lost_Billable,Hotel_Nights
+"Atlanta, GA","Atlanta, GA",60,1,0.0,Local,0.0,0.0,0.0,0.0,0
+"Atlanta, GA","Austin, TX",60,1,817.56,Nonstop,8.25,372.61,22356.7,302857.5,181
+"Atlanta, GA","Baltimore, MD",60,1,576.77,Nonstop,7.4,384.5,23070.07,271654.0,181
+"Atlanta, GA","Boston, MA",60,1,936.03,Nonstop,8.98,399.77,23986.46,329778.17,181
+"Atlanta, GA","Cedar Rapids, IA",60,1,692.97,Nonstop,7.76,416.8,25007.75,284808.42,181
+"Atlanta, GA","Champaign, IL",60,1,488.66,1-Stop,11.17,612.0,36720.0,410118.31,181
+"Atlanta, GA","Charlotte, NC",60,1,226.54,Nonstop,6.1,427.61,25656.8,223931.0,181
+"Atlanta, GA","Chicago, IL",60,1,588.79,Nonstop,7.4,368.51,22110.52,271654.0,181
+"Atlanta, GA","Cleveland, OH",60,1,555.41,Nonstop,7.25,385.34,23120.42,266147.5,181
+"Atlanta, GA","Columbus, OH",60,1,435.88,Nonstop,6.8,390.64,23438.34,249628.0,181
+"Atlanta, GA","Dallas, TX",60,1,719.64,Nonstop,7.9,443.22,26593.44,290009.0,181
+"Atlanta, GA","Denver, CO",60,1,1209.91,Nonstop,9.9,415.27,24916.32,363429.0,181
+"Atlanta, GA","Detroit, MI",60,1,597.27,Nonstop,7.57,354.0,21240.03,277772.33,181
+"Atlanta, GA","Fort Lauderdale, FL",60,1,585.22,Nonstop,7.48,390.11,23406.57,274713.17,181
+"Atlanta, GA","Hartford, CT",60,1,844.87,Nonstop,8.47,445.44,26726.2,310811.33,181
+"Atlanta, GA","Houston, TX",60,1,701.02,Nonstop,7.85,372.96,22377.83,288173.5,181
+"Atlanta, GA","Iowa City, IA",60,1,671.04,Nonstop,7.76,416.8,25007.75,284808.42,181
+"Atlanta, GA","Kansas City, MO",60,1,675.78,Nonstop,7.82,409.09,24545.6,286949.83,181
+"Atlanta, GA","Las Vegas, NV",60,1,1741.99,Nonstop,11.98,388.93,23335.91,439908.17,181
+"Atlanta, GA","Lincoln, NE",60,1,832.91,1-Stop,12.7,612.0,36720.0,466283.18,181
+"Atlanta, GA","Los Angeles, CA",60,1,1932.38,Nonstop,12.82,432.68,25960.87,470499.83,181
+"Atlanta, GA","Milwaukee, WI",60,1,669.41,Nonstop,7.72,344.33,20659.86,283278.83,181
+"Atlanta, GA","Minneapolis, MN",60,1,908.14,Nonstop,8.78,332.24,19934.17,322436.17,181
+"Atlanta, GA","Nashville, TN",60,1,214.57,Nonstop,29.8,445.93,26755.86,1093958.0,181
+"Atlanta, GA","New Bern, NC",60,1,429.17,1-Stop,10.91,612.0,36720.0,400412.21,181
+"Atlanta, GA","New York, NY",60,1,745.6,Nonstop,8.22,367.8,22067.81,301633.83,181
+"Atlanta, GA","Oklahoma City, OK",60,1,755.47,Nonstop,8.02,373.41,22404.55,294291.83,181
+"Atlanta, GA","Omaha, NE",60,1,816.86,Nonstop,8.31,445.83,26750.09,304998.92,181
+"Atlanta, GA","Orlando, FL",60,1,401.52,Nonstop,6.8,365.3,21917.99,249628.0,181
+"Atlanta, GA","Philadelphia, PA",60,1,665.2,Nonstop,7.92,404.38,24262.74,290620.83,181
+"Atlanta, GA","Phoenix, AZ",60,1,1588.3,Nonstop,11.64,416.37,24982.14,427365.58,181
+"Atlanta, GA","Pittsburgh, PA",60,1,521.55,Nonstop,7.07,454.25,27255.19,259417.33,181
+"Atlanta, GA","Raleigh, NC",60,1,355.16,Nonstop,6.53,383.04,22982.5,239838.67,181
+"Atlanta, GA","San Antonio, TX",60,1,881.25,Nonstop,8.62,474.06,28443.8,316317.83,181
+"Atlanta, GA","San Diego, CA",60,1,1887.21,Nonstop,12.57,358.36,21501.65,461322.33,181
+"Atlanta, GA","San Francisco, CA",60,1,2135.54,Nonstop,13.5,420.83,25250.04,495585.0,181
+"Atlanta, GA","San Jose, CA",60,1,2108.91,Nonstop,13.32,420.83,25250.04,488854.83,181
+"Atlanta, GA","Seattle, WA",60,1,2178.18,Nonstop,13.79,452.95,27176.75,506292.08,181
+"Atlanta, GA","St. Louis, MO",60,1,467.4,Nonstop,6.98,415.63,24937.83,256358.17,181
+"Atlanta, GA","St. Petersburg, FL",60,1,426.02,Nonstop,6.77,408.23,24493.8,248404.33,181
+"Atlanta, GA","Washington, DC",60,1,542.33,Nonstop,7.27,409.59,24575.36,266759.33,181
+"Austin, TX","Atlanta, GA",73,0,817.56,Nonstop,8.25,372.61,27200.65,291637.5,219
+"Austin, TX","Austin, TX",73,0,0.0,Local,0.0,0.0,0.0,0.0,0
+"Austin, TX","Baltimore, MD",73,0,1346.74,Nonstop,10.35,424.16,30963.77,365872.5,219
+"Austin, TX","Boston, MA",73,0,1693.66,Nonstop,12.18,413.19,30162.73,430386.25,219
+"Austin, TX","Cedar Rapids, IA",73,0,876.53,1-Stop,12.9,612.0,44676.0,455863.32,219
+"Austin, TX","Champaign, IL",73,0,865.4,1-Stop,12.85,612.0,44676.0,454114.48,219
+"Austin, TX","Charlotte, NC",73,0,1038.51,Nonstop,9.38,455.67,33263.77,331700.83,219
+"Austin, TX","Chicago, IL",73,0,979.36,Nonstop,8.83,395.74,28888.92,312258.33,219
+"Austin, TX","Cleveland, OH",73,0,1183.57,1-Stop,14.26,612.0,44676.0,504101.8,219
+"Austin, TX","Columbus, OH",73,0,1066.26,Nonstop,9.17,408.53,29822.68,324041.67,219
+"Austin, TX","Dallas, TX",73,0,182.05,Nonstop,5.68,387.64,28297.81,200905.83,219
+"Austin, TX","Denver, CO",73,0,771.67,Nonstop,8.08,440.81,32179.32,285745.83,219
+"Austin, TX","Detroit, MI",73,0,1164.35,Nonstop,9.7,317.85,23202.81,342895.0,219
+"Austin, TX","Fort Lauderdale, FL",73,0,1108.12,Nonstop,9.43,439.45,32079.93,333468.33,219
+"Austin, TX","Hartford, CT",73,0,1601.67,1-Stop,16.12,612.0,44676.0,569789.73,219
+"Austin, TX","Houston, TX",73,0,146.1,Drive,6.38,81.82,5972.67,225369.73,219
+"Austin, TX","Iowa City, IA",73,0,859.58,1-Stop,12.82,612.0,44676.0,453199.55,219
+"Austin, TX","Kansas City, MO",73,0,635.84,Nonstop,7.55,430.55,31430.22,266892.5,219
+"Austin, TX","Las Vegas, NV",73,0,1083.21,Nonstop,9.35,422.55,30846.09,330522.5,219
+"Austin, TX","Lincoln, NE",73,0,730.58,1-Stop,12.25,612.0,44676.0,432932.01,219
+"Austin, TX","Los Angeles, CA",73,0,1224.96,Nonstop,10.03,378.73,27647.09,354678.33,219
+"Austin, TX","Milwaukee, WI",73,0,1035.31,1-Stop,13.6,612.0,44676.0,480808.41,219
+"Austin, TX","Minneapolis, MN",73,0,1044.95,Nonstop,9.25,415.79,30352.43,326987.5,219
+"Austin, TX","Nashville, TN",73,0,752.21,Nonstop,7.98,371.72,27135.75,282210.83,219
+"Austin, TX","New Bern, NC",73,0,1246.66,1-Stop,14.54,612.0,44676.0,514014.83,219
+"Austin, TX","New York, NY",73,0,1510.42,Nonstop,11.34,357.79,26118.32,400927.92,219
+"Austin, TX","Oklahoma City, OK",73,0,359.52,Nonstop,6.35,453.54,33108.17,224472.5,219
+"Austin, TX","Omaha, NE",73,0,766.04,1-Stop,12.4,612.0,44676.0,438503.65,219
+"Austin, TX","Orlando, FL",73,0,991.1,Nonstop,8.98,429.32,31340.68,317560.83,219
+"Austin, TX","Philadelphia, PA",73,0,1434.61,Nonstop,11.1,453.51,33106.52,392385.0,219
+"Austin, TX","Phoenix, AZ",73,0,868.36,Nonstop,8.72,396.86,28970.76,308134.17,219
+"Austin, TX","Pittsburgh, PA",73,0,1218.13,1-Stop,14.41,612.0,44676.0,509531.99,219
+"Austin, TX","Raleigh, NC",73,0,1167.77,Nonstop,9.75,433.34,31633.76,344662.5,219
+"Austin, TX","San Antonio, TX",73,0,73.96,Drive,3.23,41.42,3023.31,114079.97,219
+"Austin, TX","San Diego, CA",73,0,1154.92,Nonstop,9.68,420.84,30721.44,342305.83,219
+"Austin, TX","San Francisco, CA",73,0,1499.88,Nonstop,11.19,417.28,30461.46,395625.42,219
+"Austin, TX","San Jose, CA",73,0,1465.07,Nonstop,10.93,415.57,30336.41,386493.33,219
+"Austin, TX","Seattle, WA",73,0,1769.59,Nonstop,12.32,458.56,33474.94,435394.17,219
+"Austin, TX","St. Louis, MO",73,0,719.26,Nonstop,7.87,434.32,31705.36,278086.67,219
+"Austin, TX","St. Petersburg, FL",73,0,927.79,Nonstop,8.67,396.45,28940.97,306366.67,219
+"Austin, TX","Washington, DC",73,0,1315.84,Nonstop,10.36,390.0,28470.06,366167.08,219
+"Baltimore, MD","Atlanta, GA",73,0,576.77,Nonstop,7.4,384.5,28068.59,296148.0,219
+"Baltimore, MD","Austin, TX",73,0,1346.74,Nonstop,10.35,424.16,30963.77,414207.0,219
+"Baltimore, MD","Baltimore, MD",73,0,0.0,Local,0.0,0.0,0.0,0.0,0
+"Baltimore, MD","Boston, MA",73,0,359.31,Nonstop,6.58,429.93,31384.61,263465.0,219
+"Baltimore, MD","Cedar Rapids, IA",73,0,810.06,1-Stop,12.6,612.0,44676.0,504262.93,219
+"Baltimore, MD","Champaign, IL",73,0,620.42,1-Stop,11.76,612.0,44676.0,470532.51,219
+"Baltimore, MD","Charlotte, NC",73,0,364.32,Nonstop,6.68,398.13,29063.69,267133.5,219
+"Baltimore, MD","Chicago, IL",73,0,604.8,Nonstop,7.43,400.6,29243.7,297482.0,219
+"Baltimore, MD","Cleveland, OH",73,0,307.78,Nonstop,6.24,371.02,27084.54,249791.5,219
+"Baltimore, MD","Columbus, OH",73,0,343.13,Nonstop,6.28,410.8,29988.49,251459.0,219
+"Baltimore, MD","Dallas, TX",73,0,1211.1,Nonstop,9.77,411.47,30037.62,390862.0,219
+"Baltimore, MD","Denver, CO",73,0,1506.71,Nonstop,10.99,383.18,27972.35,439886.5,219
+"Baltimore, MD","Detroit, MI",73,0,396.75,Nonstop,6.75,396.13,28917.42,270135.0,219
+"Baltimore, MD","Fort Lauderdale, FL",73,0,932.6,Nonstop,8.85,398.06,29058.21,354177.0,219
+"Baltimore, MD","Hartford, CT",73,0,268.17,Nonstop,6.1,436.19,31841.79,244122.0,219
+"Baltimore, MD","Houston, TX",73,0,1250.74,Nonstop,10.07,319.29,23308.49,402868.0,219
+"Baltimore, MD","Iowa City, IA",73,0,800.01,1-Stop,12.56,612.0,44676.0,502474.35,219
+"Baltimore, MD","Kansas City, MO",73,0,960.76,Nonstop,8.96,377.26,27539.78,358512.5,219
+"Baltimore, MD","Las Vegas, NV",73,0,2100.64,Nonstop,13.42,405.6,29608.7,536935.0,219
+"Baltimore, MD","Lincoln, NE",73,0,1065.39,1-Stop,13.74,612.0,44676.0,549677.47,219
+"Baltimore, MD","Los Angeles, CA",73,0,2314.75,Nonstop,14.33,387.8,28309.05,573620.0,219
+"Baltimore, MD","Milwaukee, WI",73,0,641.65,Nonstop,7.53,386.47,28212.14,301484.0,219
+"Baltimore, MD","Minneapolis, MN",73,0,937.47,Nonstop,8.85,400.56,29240.53,354177.0,219
+"Baltimore, MD","Nashville, TN",73,0,595.95,Nonstop,7.33,413.99,30221.56,293480.0,219
+"Baltimore, MD","New Bern, NC",73,0,289.78,1-Stop,10.29,612.0,44676.0,411722.22,219
+"Baltimore, MD","New York, NY",73,0,169.0,Nonstop,5.98,384.88,28096.28,239453.0,219
+"Baltimore, MD","Oklahoma City, OK",73,0,1175.11,1-Stop,14.22,612.0,44676.0,569193.64,219
+"Baltimore, MD","Omaha, NE",73,0,1025.35,1-Stop,13.56,612.0,44676.0,542555.34,219
+"Baltimore, MD","Orlando, FL",73,0,791.18,Nonstop,8.33,404.89,29557.29,333500.0,219
+"Baltimore, MD","Philadelphia, PA",73,0,89.18,Drive,3.89,49.94,3645.66,155736.63,219
+"Baltimore, MD","Phoenix, AZ",73,0,2000.34,Nonstop,13.1,407.88,29775.38,524262.0,219
+"Baltimore, MD","Pittsburgh, PA",73,0,196.54,Nonstop,5.8,418.0,30513.89,232116.0,219
+"Baltimore, MD","Raleigh, NC",73,0,266.79,Nonstop,6.03,450.38,32877.99,241454.0,219
+"Baltimore, MD","San Antonio, TX",73,0,1416.81,Nonstop,10.81,373.53,27267.88,432549.5,219
+"Baltimore, MD","San Diego, CA",73,0,2291.83,Nonstop,14.12,410.8,29988.23,564949.0,219
+"Baltimore, MD","San Francisco, CA",73,0,2451.58,Nonstop,14.97,408.78,29840.81,598966.0,219
+"Baltimore, MD","San Jose, CA",73,0,2432.67,Nonstop,14.97,408.78,29840.81,598966.0,219
+"Baltimore, MD","Seattle, WA",73,0,2328.25,Nonstop,14.58,456.78,33344.84,583625.0,219
+"Baltimore, MD","St. Louis, MO",73,0,730.88,Nonstop,7.98,358.85,26195.7,319493.0,219
+"Baltimore, MD","St. Petersburg, FL",73,0,867.87,Nonstop,8.47,357.35,26086.74,338836.0,219
+"Baltimore, MD","Washington, DC",73,0,34.94,Drive,1.52,19.57,1428.44,61020.81,219
+"Boston, MA","Atlanta, GA",187,1,936.03,Nonstop,8.98,399.77,74757.8,1131001.67,562
+"Boston, MA","Austin, TX",187,1,1693.66,Nonstop,12.18,413.19,77266.17,1532832.5,562
+"Boston, MA","Baltimore, MD",187,1,359.31,Nonstop,6.58,429.93,80396.2,828841.67,562
+"Boston, MA","Boston, MA",187,1,0.0,Local,0.0,0.0,0.0,0.0,0
+"Boston, MA","Cedar Rapids, IA",187,1,1053.17,1-Stop,13.68,612.0,114444.0,1722405.92,562
+"Boston, MA","Champaign, IL",187,1,904.29,1-Stop,13.02,612.0,114444.0,1639102.11,562
+"Boston, MA","Charlotte, NC",187,1,720.25,Nonstop,8.3,434.6,81269.73,1044970.0,562
+"Boston, MA","Chicago, IL",187,1,848.52,Nonstop,8.48,415.16,77634.33,1068051.67,562
+"Boston, MA","Cleveland, OH",187,1,549.27,Nonstop,7.59,425.15,79503.11,955790.83,562
+"Boston, MA","Columbus, OH",187,1,642.25,Nonstop,7.98,465.08,86970.53,1005101.67,562
+"Boston, MA","Dallas, TX",187,1,1549.13,Nonstop,11.62,431.83,80752.84,1462538.33,562
+"Boston, MA","Denver, CO",187,1,1765.42,Nonstop,12.13,411.38,76928.2,1527586.67,562
+"Boston, MA","Detroit, MI",187,1,611.8,Nonstop,7.83,365.53,68353.86,986216.67,562
+"Boston, MA","Fort Lauderdale, FL",187,1,1234.33,Nonstop,10.4,454.16,84928.23,1309360.0,562
+"Boston, MA","Hartford, CT",187,1,92.41,Drive,4.03,51.75,9677.07,507678.15,562
+"Boston, MA","Houston, TX",187,1,1603.96,Nonstop,11.8,342.95,64132.37,1485620.0,562
+"Boston, MA","Iowa City, IA",187,1,1049.48,1-Stop,13.66,612.0,114444.0,1720342.08,562
+"Boston, MA","Kansas City, MO",187,1,1247.73,Nonstop,10.47,354.86,66358.42,1317753.33,562
+"Boston, MA","Las Vegas, NV",187,1,2369.4,Nonstop,14.7,480.15,89787.16,1850730.0,562
+"Boston, MA","Lincoln, NE",187,1,1324.37,1-Stop,14.89,612.0,114444.0,1874156.94,562
+"Boston, MA","Los Angeles, CA",187,1,2590.73,Nonstop,15.62,367.15,68657.02,1966138.33,562
+"Boston, MA","Milwaukee, WI",187,1,855.46,Nonstop,8.8,381.73,71382.65,1107920.0,562
+"Boston, MA","Minneapolis, MN",187,1,1121.02,Nonstop,9.78,355.88,66550.31,1231721.67,562
+"Boston, MA","Nashville, TN",187,1,941.77,Nonstop,9.1,375.17,70157.21,1145690.0,562
+"Boston, MA","New Bern, NC",187,1,595.29,1-Stop,11.65,612.0,114444.0,1466197.0,562
+"Boston, MA","New York, NY",187,1,190.44,Nonstop,6.3,365.42,68333.57,793170.0,562
+"Boston, MA","Oklahoma City, OK",187,1,1492.85,1-Stop,15.63,612.0,114444.0,1968432.93,562
+"Boston, MA","Omaha, NE",187,1,1278.49,1-Stop,14.68,612.0,114444.0,1848484.32,562
+"Boston, MA","Orlando, FL",187,1,1115.69,Nonstop,9.98,376.91,70481.8,1256901.67,562
+"Boston, MA","Philadelphia, PA",187,1,270.95,Nonstop,6.65,393.11,73511.33,837235.0,562
+"Boston, MA","Phoenix, AZ",187,1,2294.88,Nonstop,14.37,452.19,84558.95,1808763.33,562
+"Boston, MA","Pittsburgh, PA",187,1,481.69,Nonstop,7.27,418.95,78343.72,914873.33,562
+"Boston, MA","Raleigh, NC",187,1,609.42,Nonstop,7.88,411.68,76983.89,992511.67,562
+"Boston, MA","San Antonio, TX",187,1,1765.04,Nonstop,12.52,361.85,67666.41,1575848.33,562
+"Boston, MA","San Diego, CA",187,1,2578.51,Nonstop,15.6,400.4,74874.84,1964040.0,562
+"Boston, MA","San Francisco, CA",187,1,2692.96,Nonstop,15.99,434.24,81202.19,2013350.83,562
+"Boston, MA","San Jose, CA",187,1,2678.25,Nonstop,15.98,434.24,81202.19,2012301.67,562
+"Boston, MA","Seattle, WA",187,1,2485.36,Nonstop,15.28,401.25,75033.03,1923122.5,562
+"Boston, MA","St. Louis, MO",187,1,1035.71,Nonstop,9.38,392.02,73308.01,1181361.67,562
+"Boston, MA","St. Petersburg, FL",187,1,1199.53,Nonstop,10.18,320.13,59864.74,1282081.67,562
+"Boston, MA","Washington, DC",187,1,393.71,Nonstop,6.95,363.03,67887.42,875005.0,562
+"Cedar Rapids, IA","Atlanta, GA",74,0,692.97,Nonstop,7.76,416.8,30842.89,311962.58,222
+"Cedar Rapids, IA","Austin, TX",74,0,876.53,1-Stop,12.9,612.0,45288.0,518536.47,222
+"Cedar Rapids, IA","Baltimore, MD",74,0,810.06,1-Stop,12.6,612.0,45288.0,506656.98,222
+"Cedar Rapids, IA","Boston, MA",74,0,1053.17,1-Stop,13.68,612.0,45288.0,550102.8,222
+"Cedar Rapids, IA","Cedar Rapids, IA",74,0,0.0,Local,0.0,0.0,0.0,0.0,0
+"Cedar Rapids, IA","Champaign, IL",74,0,220.1,1-Stop,9.98,612.0,45288.0,401224.88,222
+"Cedar Rapids, IA","Charlotte, NC",74,0,746.94,Nonstop,8.33,443.25,32800.41,335083.33,222
+"Cedar Rapids, IA","Chicago, IL",74,0,207.77,Nonstop,6.08,462.1,34195.11,244610.83,222
+"Cedar Rapids, IA","Cleveland, OH",74,0,515.31,1-Stop,11.29,612.0,45288.0,453980.78,222
+"Cedar Rapids, IA","Columbus, OH",74,0,473.1,1-Stop,11.1,612.0,45288.0,446439.1,222
+"Cedar Rapids, IA","Dallas, TX",74,0,694.92,Nonstop,8.0,360.45,26673.64,321680.0,222
+"Cedar Rapids, IA","Denver, CO",74,0,712.26,Nonstop,7.92,449.46,33259.81,318664.25,222
+"Cedar Rapids, IA","Detroit, MI",74,0,442.0,Nonstop,6.98,403.91,29889.18,280799.83,222
+"Cedar Rapids, IA","Fort Lauderdale, FL",74,0,1276.5,1-Stop,14.67,612.0,45288.0,590014.68,222
+"Cedar Rapids, IA","Hartford, CT",74,0,975.69,1-Stop,13.34,612.0,45288.0,536257.0,222
+"Cedar Rapids, IA","Houston, TX",74,0,869.13,1-Stop,12.86,612.0,45288.0,517213.06,222
+"Cedar Rapids, IA","Iowa City, IA",74,0,23.26,Drive,1.01,13.02,963.71,40804.75,222
+"Cedar Rapids, IA","Kansas City, MO",74,0,250.85,1-Stop,10.11,612.0,45288.0,406720.17,222
+"Cedar Rapids, IA","Las Vegas, NV",74,0,1316.47,1-Stop,14.85,612.0,45288.0,597157.54,222
+"Cedar Rapids, IA","Lincoln, NE",74,0,272.91,1-Stop,10.21,612.0,45288.0,410662.44,222
+"Cedar Rapids, IA","Los Angeles, CA",74,0,1538.93,1-Stop,15.84,612.0,45288.0,636914.12,222
+"Cedar Rapids, IA","Milwaukee, WI",74,0,205.01,1-Stop,9.91,612.0,45288.0,398528.06,222
+"Cedar Rapids, IA","Minneapolis, MN",74,0,222.25,Nonstop,6.07,438.06,32416.2,243940.67,222
+"Cedar Rapids, IA","Nashville, TN",74,0,479.92,Nonstop,6.92,410.78,30397.72,278119.17,222
+"Cedar Rapids, IA","New Bern, NC",74,0,920.26,1-Stop,13.09,612.0,45288.0,526349.82,222
+"Cedar Rapids, IA","New York, NY",74,0,918.61,1-Stop,13.08,612.0,45288.0,526055.67,222
+"Cedar Rapids, IA","Oklahoma City, OK",74,0,549.01,1-Stop,11.44,612.0,45288.0,460004.56,222
+"Cedar Rapids, IA","Omaha, NE",74,0,225.57,1-Stop,10.0,612.0,45288.0,402201.2,222
+"Cedar Rapids, IA","Orlando, FL",74,0,1093.25,1-Stop,13.86,612.0,45288.0,557265.88,222
+"Cedar Rapids, IA","Philadelphia, PA",74,0,870.8,1-Stop,12.87,612.0,45288.0,517512.42,222
+"Cedar Rapids, IA","Phoenix, AZ",74,0,1256.68,Nonstop,10.38,450.38,33328.09,417513.83,222
+"Cedar Rapids, IA","Pittsburgh, PA",74,0,615.35,1-Stop,11.73,612.0,45288.0,471860.52,222
+"Cedar Rapids, IA","Raleigh, NC",74,0,820.03,1-Stop,12.64,612.0,45288.0,508438.19,222
+"Cedar Rapids, IA","San Antonio, TX",74,0,947.63,1-Stop,13.21,612.0,45288.0,531241.21,222
+"Cedar Rapids, IA","San Diego, CA",74,0,1531.59,1-Stop,15.81,612.0,45288.0,635601.66,222
+"Cedar Rapids, IA","San Francisco, CA",74,0,1647.12,1-Stop,16.32,612.0,45288.0,656249.53,222
+"Cedar Rapids, IA","San Jose, CA",74,0,1630.23,1-Stop,16.25,612.0,45288.0,653230.43,222
+"Cedar Rapids, IA","Seattle, WA",74,0,1541.76,1-Stop,15.85,612.0,45288.0,637419.81,222
+"Cedar Rapids, IA","St. Louis, MO",74,0,244.07,1-Stop,10.08,612.0,45288.0,405508.04,222
+"Cedar Rapids, IA","St. Petersburg, FL",74,0,1105.67,1-Stop,13.91,612.0,45288.0,559485.0,222
+"Cedar Rapids, IA","Washington, DC",74,0,796.86,1-Stop,12.54,612.0,45288.0,504297.57,222
+"Champaign, IL","Atlanta, GA",7,0,488.66,1-Stop,11.17,612.0,4284.0,56529.52,21
+"Champaign, IL","Austin, TX",7,0,865.4,1-Stop,12.85,612.0,4284.0,65001.96,21
+"Champaign, IL","Baltimore, MD",7,0,620.42,1-Stop,11.76,612.0,4284.0,59492.62,21
+"Champaign, IL","Boston, MA",7,0,904.29,1-Stop,13.02,612.0,4284.0,65876.54,21
+"Champaign, IL","Cedar Rapids, IA",7,0,220.1,1-Stop,9.98,612.0,4284.0,50489.88,21
+"Champaign, IL","Champaign, IL",7,0,0.0,Local,0.0,0.0,0.0,0.0,0
+"Champaign, IL","Charlotte, NC",7,0,526.84,1-Stop,11.34,612.0,4284.0,57388.13,21
+"Champaign, IL","Chicago, IL",7,0,125.7,Drive,5.48,70.39,492.73,27753.67,21
+"Champaign, IL","Cleveland, OH",7,0,355.46,1-Stop,10.58,612.0,4284.0,53533.89,21
+"Champaign, IL","Columbus, OH",7,0,277.37,1-Stop,10.23,612.0,4284.0,51777.66,21
+"Champaign, IL","Dallas, TX",7,0,694.67,Nonstop,8.18,527.52,3692.61,41407.67,21
+"Champaign, IL","Denver, CO",7,0,886.55,1-Stop,12.94,612.0,4284.0,65477.46,21
+"Champaign, IL","Detroit, MI",7,0,309.85,1-Stop,10.38,612.0,4284.0,52508.28,21
+"Champaign, IL","Fort Lauderdale, FL",7,0,1073.69,1-Stop,13.77,612.0,4284.0,69686.05,21
+"Champaign, IL","Hartford, CT",7,0,819.36,1-Stop,12.64,612.0,4284.0,63966.42,21
+"Champaign, IL","Houston, TX",7,0,821.17,1-Stop,12.65,612.0,4284.0,64007.12,21
+"Champaign, IL","Iowa City, IA",7,0,202.1,1-Stop,9.9,612.0,4284.0,50084.98,21
+"Champaign, IL","Kansas City, MO",7,0,344.68,1-Stop,10.53,612.0,4284.0,53291.43,21
+"Champaign, IL","Las Vegas, NV",7,0,1481.07,1-Stop,15.58,612.0,4284.0,78847.58,21
+"Champaign, IL","Lincoln, NE",7,0,447.09,1-Stop,10.99,612.0,4284.0,55594.48,21
+"Champaign, IL","Los Angeles, CA",7,0,1697.12,1-Stop,16.54,612.0,4284.0,83706.37,21
+"Champaign, IL","Milwaukee, WI",7,0,202.47,1-Stop,9.9,612.0,4284.0,50093.41,21
+"Champaign, IL","Minneapolis, MN",7,0,422.08,1-Stop,10.88,612.0,4284.0,55032.17,21
+"Champaign, IL","Nashville, TN",7,0,284.87,1-Stop,10.27,612.0,4284.0,51946.43,21
+"Champaign, IL","New Bern, NC",7,0,703.19,1-Stop,12.13,612.0,4284.0,61353.94,21
+"Champaign, IL","New York, NY",7,0,748.87,1-Stop,12.33,612.0,4284.0,62381.32,21
+"Champaign, IL","Oklahoma City, OK",7,0,599.45,1-Stop,11.66,612.0,4284.0,59020.96,21
+"Champaign, IL","Omaha, NE",7,0,410.36,1-Stop,10.82,612.0,4284.0,54768.61,21
+"Champaign, IL","Orlando, FL",7,0,889.98,1-Stop,12.96,612.0,4284.0,65554.75,21
+"Champaign, IL","Philadelphia, PA",7,0,690.91,1-Stop,12.07,612.0,4284.0,61077.71,21
+"Champaign, IL","Phoenix, AZ",7,0,1391.74,1-Stop,15.19,612.0,4284.0,76838.75,21
+"Champaign, IL","Pittsburgh, PA",7,0,434.75,1-Stop,10.93,612.0,4284.0,55316.97,21
+"Champaign, IL","Raleigh, NC",7,0,602.4,1-Stop,11.68,612.0,4284.0,59087.32,21
+"Champaign, IL","San Antonio, TX",7,0,939.32,1-Stop,13.17,612.0,4284.0,66664.18,21
+"Champaign, IL","San Diego, CA",7,0,1678.61,1-Stop,16.46,612.0,4284.0,83290.18,21
+"Champaign, IL","San Francisco, CA",7,0,1832.61,1-Stop,17.14,612.0,4284.0,86753.33,21
+"Champaign, IL","San Jose, CA",7,0,1813.03,1-Stop,17.06,612.0,4284.0,86312.97,21
+"Champaign, IL","Seattle, WA",7,0,1759.22,1-Stop,16.82,612.0,4284.0,85102.87,21
+"Champaign, IL","St. Louis, MO",7,0,146.82,Drive,6.41,82.22,575.52,32417.24,21
+"Champaign, IL","St. Petersburg, FL",7,0,911.15,1-Stop,13.05,612.0,4284.0,66030.86,21
+"Champaign, IL","Washington, DC",7,0,602.41,1-Stop,11.68,612.0,4284.0,59087.44,21
+"Charlotte, NC","Atlanta, GA",119,2,226.54,Nonstop,6.1,427.61,50885.98,383476.5,359
+"Charlotte, NC","Austin, TX",119,2,1038.51,Nonstop,9.38,455.67,54224.51,589883.25,359
+"Charlotte, NC","Baltimore, MD",119,2,364.32,Nonstop,6.68,398.13,47377.8,419623.88,359
+"Charlotte, NC","Boston, MA",119,2,720.25,Nonstop,8.3,434.6,51717.1,521779.5,359
+"Charlotte, NC","Cedar Rapids, IA",119,2,746.94,Nonstop,8.33,443.25,52746.6,523875.0,359
+"Charlotte, NC","Champaign, IL",119,2,526.84,1-Stop,11.34,612.0,72828.0,712985.19,359
+"Charlotte, NC","Charlotte, NC",119,2,0.0,Local,0.0,0.0,0.0,0.0,0
+"Charlotte, NC","Chicago, IL",119,2,587.55,Nonstop,7.41,369.79,44004.59,465724.88,359
+"Charlotte, NC","Cleveland, OH",119,2,435.65,Nonstop,7.02,392.91,46756.61,441102.75,359
+"Charlotte, NC","Columbus, OH",119,2,347.52,Nonstop,6.73,399.62,47555.18,423291.0,359
+"Charlotte, NC","Dallas, TX",119,2,928.63,Nonstop,8.8,384.27,45728.72,553212.0,359
+"Charlotte, NC","Denver, CO",119,2,1355.75,Nonstop,10.58,398.91,47470.67,665321.25,359
+"Charlotte, NC","Detroit, MI",119,2,504.75,Nonstop,7.28,441.46,52534.22,457866.75,359
+"Charlotte, NC","Fort Lauderdale, FL",119,2,630.81,Nonstop,7.85,410.18,48811.55,493490.25,359
+"Charlotte, NC","Hartford, CT",119,2,630.89,Nonstop,7.75,394.54,46949.86,487203.75,359
+"Charlotte, NC","Houston, TX",119,2,926.02,Nonstop,9.05,466.53,55516.89,568928.25,359
+"Charlotte, NC","Iowa City, IA",119,2,728.45,Nonstop,8.33,443.25,52746.6,523875.0,359
+"Charlotte, NC","Kansas City, MO",119,2,801.41,Nonstop,8.56,389.48,46347.77,538019.62,359
+"Charlotte, NC","Las Vegas, NV",119,2,1915.62,Nonstop,12.82,368.13,43807.64,805719.75,359
+"Charlotte, NC","Lincoln, NE",119,2,943.63,1-Stop,13.19,612.0,72828.0,829434.85,359
+"Charlotte, NC","Los Angeles, CA",119,2,2115.0,Nonstop,13.7,413.55,49212.78,861250.5,359
+"Charlotte, NC","Milwaukee, WI",119,2,658.81,Nonstop,8.1,422.02,50219.95,509206.5,359
+"Charlotte, NC","Minneapolis, MN",119,2,938.82,Nonstop,8.97,379.24,45130.06,563689.5,359
+"Charlotte, NC","Nashville, TN",119,2,339.39,Nonstop,6.57,394.93,46996.08,412813.5,359
+"Charlotte, NC","New Bern, NC",119,2,214.77,Nonstop,6.27,366.5,43614.0,393954.0,359
+"Charlotte, NC","New York, NY",119,2,530.48,Nonstop,7.59,351.89,41874.9,477250.12,359
+"Charlotte, NC","Oklahoma City, OK",119,2,939.04,Nonstop,9.17,464.98,55332.53,576262.5,359
+"Charlotte, NC","Omaha, NE",119,2,916.97,Nonstop,9.08,453.58,53975.75,571023.75,359
+"Charlotte, NC","Orlando, FL",119,2,463.32,Nonstop,7.22,366.22,43580.17,453675.75,359
+"Charlotte, NC","Philadelphia, PA",119,2,450.05,Nonstop,7.13,389.54,46355.43,448437.0,359
+"Charlotte, NC","Phoenix, AZ",119,2,1778.64,Nonstop,11.92,469.3,55846.74,749665.12,359
+"Charlotte, NC","Pittsburgh, PA",119,2,362.88,Nonstop,6.72,405.65,48271.93,422243.25,359
+"Charlotte, NC","Raleigh, NC",119,2,129.44,Drive,5.65,72.49,8626.13,355089.94,359
+"Charlotte, NC","San Antonio, TX",119,2,1103.95,Nonstop,9.65,432.97,51522.86,606647.25,359
+"Charlotte, NC","San Diego, CA",119,2,2076.77,Nonstop,13.57,388.53,46235.5,852868.5,359
+"Charlotte, NC","San Francisco, CA",119,2,2297.12,Nonstop,14.32,413.22,49173.76,900017.25,359
+"Charlotte, NC","San Jose, CA",119,2,2272.97,Nonstop,14.32,413.22,49173.76,900017.25,359
+"Charlotte, NC","Seattle, WA",119,2,2280.89,Nonstop,14.42,437.89,52108.68,906303.75,359
+"Charlotte, NC","St. Louis, MO",119,2,567.47,Nonstop,7.65,420.96,50093.89,480917.25,359
+"Charlotte, NC","St. Petersburg, FL",119,2,526.2,Nonstop,7.32,400.6,47671.42,459962.25,359
+"Charlotte, NC","Washington, DC",119,2,329.38,Nonstop,6.65,366.32,43592.61,418052.25,359
+"Chicago, IL","Atlanta, GA",299,1,588.79,Nonstop,7.4,368.51,110184.1,1291411.0,898
+"Chicago, IL","Austin, TX",299,1,979.36,Nonstop,8.83,395.74,118325.84,1541549.17,898
+"Chicago, IL","Baltimore, MD",299,1,604.8,Nonstop,7.43,400.6,119778.99,1297228.17,898
+"Chicago, IL","Boston, MA",299,1,848.52,Nonstop,8.48,415.16,124131.9,1480468.92,898
+"Chicago, IL","Cedar Rapids, IA",299,1,207.77,Nonstop,6.08,462.1,138166.73,1061632.92,898
+"Chicago, IL","Champaign, IL",299,1,125.7,Drive,5.48,70.39,21046.53,957199.89,898
+"Chicago, IL","Charlotte, NC",299,1,587.55,Nonstop,7.41,369.79,110566.16,1292865.29,898
+"Chicago, IL","Chicago, IL",299,1,0.0,Local,0.0,0.0,0.0,0.0,0
+"Chicago, IL","Cleveland, OH",299,1,307.54,Nonstop,6.12,392.12,117244.26,1067450.08,898
+"Chicago, IL","Columbus, OH",299,1,275.68,Nonstop,6.07,424.91,127048.65,1058724.33,898
+"Chicago, IL","Dallas, TX",299,1,804.67,Nonstop,8.1,387.99,116008.8,1413571.5,898
+"Chicago, IL","Denver, CO",299,1,918.18,Nonstop,8.55,422.82,126423.29,1492103.25,898
+"Chicago, IL","Detroit, MI",299,1,236.8,Nonstop,6.06,377.52,112879.37,1057270.04,898
+"Chicago, IL","Fort Lauderdale, FL",299,1,1169.18,Nonstop,9.73,407.09,121721.1,1698612.67,898
+"Chicago, IL","Hartford, CT",299,1,769.39,Nonstop,8.05,429.79,128506.56,1404845.75,898
+"Chicago, IL","Houston, TX",299,1,942.03,Nonstop,8.66,361.76,108166.05,1511009.04,898
+"Chicago, IL","Iowa City, IA",299,1,201.53,Nonstop,6.08,462.1,138166.73,1061632.92,898
+"Chicago, IL","Kansas City, MO",299,1,412.45,Nonstop,6.48,401.61,120080.96,1131438.92,898
+"Chicago, IL","Las Vegas, NV",299,1,1521.19,Nonstop,11.03,357.07,106765.1,1925482.17,898
+"Chicago, IL","Lincoln, NE",299,1,476.02,Nonstop,7.37,379.74,113542.26,1285593.83,898
+"Chicago, IL","Los Angeles, CA",299,1,1742.22,Nonstop,11.94,374.76,112051.99,2083999.96,898
+"Chicago, IL","Milwaukee, WI",299,1,81.41,Drive,3.55,45.59,13631.27,619952.72,898
+"Chicago, IL","Minneapolis, MN",299,1,354.77,Nonstop,6.67,389.21,116374.41,1163433.33,898
+"Chicago, IL","Nashville, TN",299,1,397.84,Nonstop,6.57,416.2,124444.34,1145981.83,898
+"Chicago, IL","New Bern, NC",299,1,738.44,1-Stop,12.28,612.0,182988.0,2143387.99,898
+"Chicago, IL","New York, NY",299,1,710.88,Nonstop,8.12,365.2,109195.62,1416480.08,898
+"Chicago, IL","Oklahoma City, OK",299,1,692.54,Nonstop,7.62,411.24,122959.72,1329222.58,898
+"Chicago, IL","Omaha, NE",299,1,431.01,Nonstop,6.58,394.77,118036.75,1148890.42,898
+"Chicago, IL","Orlando, FL",299,1,986.21,Nonstop,8.98,392.55,117373.02,1567726.42,898
+"Chicago, IL","Philadelphia, PA",299,1,663.46,Nonstop,7.73,415.36,124192.39,1349582.67,898
+"Chicago, IL","Phoenix, AZ",299,1,1451.52,Nonstop,10.68,402.34,120300.82,1864401.92,898
+"Chicago, IL","Pittsburgh, PA",299,1,409.03,Nonstop,6.48,387.49,115860.95,1129984.62,898
+"Chicago, IL","Raleigh, NC",299,1,641.05,Nonstop,7.45,360.92,107915.43,1300136.75,898
+"Chicago, IL","San Antonio, TX",299,1,1053.01,Nonstop,9.02,443.78,132689.17,1574997.88,898
+"Chicago, IL","San Diego, CA",299,1,1731.39,Nonstop,11.82,371.02,110935.37,2062185.58,898
+"Chicago, IL","San Francisco, CA",299,1,1854.89,Nonstop,12.52,400.89,119867.03,2184346.08,898
+"Chicago, IL","San Jose, CA",299,1,1837.91,Nonstop,12.32,357.66,106940.9,2149443.08,898
+"Chicago, IL","Seattle, WA",299,1,1732.77,Nonstop,12.2,356.85,106697.58,2129083.0,898
+"Chicago, IL","St. Louis, MO",299,1,262.25,Nonstop,5.92,338.86,101320.39,1032547.08,898
+"Chicago, IL","St. Petersburg, FL",299,1,1014.67,Nonstop,9.0,411.19,122945.24,1570635.0,898
+"Chicago, IL","Washington, DC",299,1,593.35,Nonstop,7.28,376.22,112488.44,1269596.62,898
+"Cleveland, OH","Atlanta, GA",98,2,555.41,Nonstop,7.25,385.34,37763.35,411655.0,296
+"Cleveland, OH","Austin, TX",98,2,1183.57,1-Stop,14.26,612.0,59976.0,809700.15,296
+"Cleveland, OH","Baltimore, MD",98,2,307.78,Nonstop,6.24,371.02,36360.06,354401.83,296
+"Cleveland, OH","Boston, MA",98,2,549.27,Nonstop,7.59,425.15,41664.73,431054.83,296
+"Cleveland, OH","Cedar Rapids, IA",98,2,515.31,1-Stop,11.29,612.0,59976.0,641060.15,296
+"Cleveland, OH","Champaign, IL",98,2,355.46,1-Stop,10.58,612.0,59976.0,600722.19,296
+"Cleveland, OH","Charlotte, NC",98,2,435.65,Nonstop,7.02,392.91,38505.44,398406.33,296
+"Cleveland, OH","Chicago, IL",98,2,307.54,Nonstop,6.12,392.12,38427.88,347304.33,296
+"Cleveland, OH","Cleveland, OH",98,2,0.0,Local,0.0,0.0,0.0,0.0,0
+"Cleveland, OH","Columbus, OH",98,2,126.59,Drive,5.52,70.89,6947.39,313654.51,296
+"Cleveland, OH","Dallas, TX",98,2,1024.95,Nonstop,9.33,394.2,38631.52,529946.67,296
+"Cleveland, OH","Denver, CO",98,2,1224.28,Nonstop,9.85,396.39,38846.0,559283.0,296
+"Cleveland, OH","Detroit, MI",98,2,90.43,Drive,3.95,50.64,4962.9,224060.49,296
+"Cleveland, OH","Fort Lauderdale, FL",98,2,1066.33,Nonstop,9.49,358.83,35165.66,538936.83,296
+"Cleveland, OH","Hartford, CT",98,2,465.97,1-Stop,11.07,612.0,59976.0,628608.87,296
+"Cleveland, OH","Houston, TX",98,2,1114.45,Nonstop,9.6,301.87,29583.03,545088.0,296
+"Cleveland, OH","Iowa City, IA",98,2,508.42,1-Stop,11.26,612.0,59976.0,639322.32,296
+"Cleveland, OH","Kansas City, MO",98,2,698.46,1-Stop,12.1,612.0,59976.0,687280.85,296
+"Cleveland, OH","Las Vegas, NV",98,2,1825.67,Nonstop,12.4,391.03,38321.34,704072.0,296
+"Cleveland, OH","Lincoln, NE",98,2,781.34,1-Stop,12.47,612.0,59976.0,708194.82,296
+"Cleveland, OH","Los Angeles, CA",98,2,2044.98,Nonstop,13.33,408.43,40025.69,757066.67,296
+"Cleveland, OH","Milwaukee, WI",98,2,335.25,1-Stop,10.49,612.0,59976.0,595622.01,296
+"Cleveland, OH","Minneapolis, MN",98,2,629.79,Nonstop,7.77,512.62,50237.09,440991.33,296
+"Cleveland, OH","Nashville, TN",98,2,459.36,Nonstop,6.74,379.11,37152.74,382791.83,296
+"Cleveland, OH","New Bern, NC",98,2,508.23,1-Stop,11.26,612.0,59976.0,639273.9,296
+"Cleveland, OH","New York, NY",98,2,403.41,Nonstop,7.02,361.52,35428.73,398879.5,296
+"Cleveland, OH","Oklahoma City, OK",98,2,950.17,1-Stop,13.22,612.0,59976.0,750801.4,296
+"Cleveland, OH","Omaha, NE",98,2,737.61,1-Stop,12.28,612.0,59976.0,697160.74,296
+"Cleveland, OH","Orlando, FL",98,2,895.63,Nonstop,8.83,390.12,38231.91,501556.67,296
+"Cleveland, OH","Philadelphia, PA",98,2,357.7,Nonstop,6.97,371.23,36380.63,395567.33,296
+"Cleveland, OH","Phoenix, AZ",98,2,1745.69,Nonstop,11.89,440.11,43130.48,675208.83,296
+"Cleveland, OH","Pittsburgh, PA",98,2,114.61,Drive,5.0,64.18,6290.04,283977.16,296
+"Cleveland, OH","Raleigh, NC",98,2,428.05,Nonstop,6.96,373.8,36632.4,395094.17,296
+"Cleveland, OH","San Antonio, TX",98,2,1257.0,1-Stop,14.59,612.0,59976.0,828229.99,296
+"Cleveland, OH","San Diego, CA",98,2,2030.31,1-Stop,18.02,612.0,59976.0,1023379.53,296
+"Cleveland, OH","San Francisco, CA",98,2,2162.43,Nonstop,13.61,406.84,39870.69,772681.17,296
+"Cleveland, OH","San Jose, CA",98,2,2145.38,Nonstop,13.61,406.84,39870.69,772681.17,296
+"Cleveland, OH","Seattle, WA",98,2,2020.65,1-Stop,17.98,612.0,59976.0,1020941.83,296
+"Cleveland, OH","St. Louis, MO",98,2,491.46,Nonstop,6.88,381.63,37399.74,390835.67,296
+"Cleveland, OH","St. Petersburg, FL",98,2,950.18,Nonstop,8.98,406.21,39808.33,510073.67,296
+"Cleveland, OH","Washington, DC",98,2,303.63,Nonstop,6.33,340.7,33388.55,359606.67,296
+"Columbus, OH","Atlanta, GA",97,1,435.88,Nonstop,6.8,390.64,37891.98,343400.0,292
+"Columbus, OH","Austin, TX",97,1,1066.26,Nonstop,9.17,408.53,39627.4,462916.67,292
+"Columbus, OH","Baltimore, MD",97,1,343.13,Nonstop,6.28,410.8,39847.71,317308.33,292
+"Columbus, OH","Boston, MA",97,1,642.25,Nonstop,7.98,465.08,45113.06,403158.33,292
+"Columbus, OH","Cedar Rapids, IA",97,1,473.1,1-Stop,11.1,612.0,59364.0,560685.76,292
+"Columbus, OH","Champaign, IL",97,1,277.37,1-Stop,10.23,612.0,59364.0,516753.33,292
+"Columbus, OH","Charlotte, NC",97,1,347.52,Nonstop,6.73,399.62,38763.46,340033.33,292
+"Columbus, OH","Chicago, IL",97,1,275.68,Nonstop,6.07,424.91,41216.45,306366.67,292
+"Columbus, OH","Cleveland, OH",97,1,126.59,Drive,5.52,70.89,6876.5,278963.59,292
+"Columbus, OH","Columbus, OH",97,1,0.0,Local,0.0,0.0,0.0,0.0,0
+"Columbus, OH","Dallas, TX",97,1,912.43,Nonstop,8.58,493.04,47824.64,433458.33,292
+"Columbus, OH","Denver, CO",97,1,1163.6,Nonstop,9.65,411.44,39909.72,487325.0,292
+"Columbus, OH","Detroit, MI",97,1,163.77,Nonstop,5.85,358.32,34757.39,295425.0,292
+"Columbus, OH","Fort Lauderdale, FL",97,1,970.35,Nonstop,8.99,436.81,42370.17,454079.17,292
+"Columbus, OH","Hartford, CT",97,1,553.58,1-Stop,11.46,612.0,59364.0,578747.19,292
+"Columbus, OH","Houston, TX",97,1,992.33,Nonstop,8.93,352.02,34145.94,451133.33,292
+"Columbus, OH","Iowa City, IA",97,1,461.07,1-Stop,11.05,612.0,59364.0,557984.28,292
+"Columbus, OH","Kansas City, MO",97,1,619.53,1-Stop,11.75,612.0,59364.0,593550.02,292
+"Columbus, OH","Las Vegas, NV",97,1,1758.2,Nonstop,11.97,438.26,42510.96,604316.67,292
+"Columbus, OH","Lincoln, NE",97,1,722.67,1-Stop,12.21,612.0,59364.0,616699.4,292
+"Columbus, OH","Los Angeles, CA",97,1,1973.45,Nonstop,13.08,400.58,38856.26,660287.5,292
+"Columbus, OH","Milwaukee, WI",97,1,331.33,1-Stop,10.47,612.0,59364.0,528864.53,292
+"Columbus, OH","Minneapolis, MN",97,1,627.16,Nonstop,7.62,478.51,46415.47,385062.5,292
+"Columbus, OH","Nashville, TN",97,1,333.43,Nonstop,6.24,370.94,35981.15,315204.17,292
+"Columbus, OH","New Bern, NC",97,1,467.67,1-Stop,11.08,612.0,59364.0,559466.88,292
+"Columbus, OH","New York, NY",97,1,476.1,Nonstop,7.53,353.45,34284.26,380433.33,292
+"Columbus, OH","Oklahoma City, OK",97,1,850.84,1-Stop,12.78,612.0,59364.0,645466.25,292
+"Columbus, OH","Omaha, NE",97,1,683.49,1-Stop,12.04,612.0,59364.0,607905.78,292
+"Columbus, OH","Orlando, FL",97,1,794.42,Nonstop,8.28,401.77,38971.73,418308.33,292
+"Columbus, OH","Philadelphia, PA",97,1,414.58,Nonstop,7.13,367.76,35673.19,360233.33,292
+"Columbus, OH","Phoenix, AZ",97,1,1663.68,Nonstop,11.58,466.76,45275.28,584537.5,292
+"Columbus, OH","Pittsburgh, PA",97,1,161.75,1-Stop,9.72,612.0,59364.0,490803.67,292
+"Columbus, OH","Raleigh, NC",97,1,374.01,1-Stop,10.66,612.0,59364.0,538444.98,292
+"Columbus, OH","San Antonio, TX",97,1,1139.26,1-Stop,14.06,612.0,59364.0,710200.75,292
+"Columbus, OH","San Diego, CA",97,1,1952.92,1-Stop,17.68,612.0,59364.0,892822.0,292
+"Columbus, OH","San Francisco, CA",97,1,2108.88,1-Stop,18.37,612.0,59364.0,927825.65,292
+"Columbus, OH","San Jose, CA",97,1,2089.73,1-Stop,18.29,612.0,59364.0,923527.21,292
+"Columbus, OH","Seattle, WA",97,1,2008.29,Nonstop,13.28,458.22,44447.42,670387.5,292
+"Columbus, OH","St. Louis, MO",97,1,395.69,Nonstop,6.52,467.56,45353.32,329512.5,292
+"Columbus, OH","St. Petersburg, FL",97,1,842.51,Nonstop,8.2,351.14,34060.24,414100.0,292
+"Columbus, OH","Washington, DC",97,1,326.15,Nonstop,6.45,408.8,39653.73,325725.0,292
+"Dallas, TX","Atlanta, GA",233,3,719.64,Nonstop,7.9,443.22,103271.21,1084591.0,702
+"Dallas, TX","Austin, TX",233,3,182.05,Nonstop,5.68,387.64,90320.4,780264.83,702
+"Dallas, TX","Baltimore, MD",233,3,1211.1,Nonstop,9.77,411.47,95873.5,1340865.67,702
+"Dallas, TX","Boston, MA",233,3,1549.13,Nonstop,11.62,431.83,100617.18,1594852.17,702
+"Dallas, TX","Cedar Rapids, IA",233,3,694.92,Nonstop,8.0,360.45,83985.92,1098320.0,702
+"Dallas, TX","Champaign, IL",233,3,694.67,Nonstop,8.18,527.52,122911.14,1123489.83,702
+"Dallas, TX","Charlotte, NC",233,3,928.63,Nonstop,8.8,384.27,89536.06,1208152.0,702
+"Dallas, TX","Chicago, IL",233,3,804.67,Nonstop,8.1,387.99,90401.5,1112049.0,702
+"Dallas, TX","Cleveland, OH",233,3,1024.95,Nonstop,9.33,394.2,91848.41,1281373.33,702
+"Dallas, TX","Columbus, OH",233,3,912.43,Nonstop,8.58,493.04,114877.75,1178405.83,702
+"Dallas, TX","Dallas, TX",233,3,0.0,Local,0.0,0.0,0.0,0.0,0
+"Dallas, TX","Denver, CO",233,3,662.32,Nonstop,7.63,391.1,91126.07,1047980.33,702
+"Dallas, TX","Detroit, MI",233,3,999.0,Nonstop,9.18,363.59,84717.16,1259635.75,702
+"Dallas, TX","Fort Lauderdale, FL",233,3,1101.16,Nonstop,9.32,426.48,99370.6,1279085.17,702
+"Dallas, TX","Hartford, CT",233,3,1458.01,Nonstop,11.1,422.95,98547.49,1523919.0,702
+"Dallas, TX","Houston, TX",233,3,225.1,Nonstop,5.82,430.38,100277.68,798570.17,702
+"Dallas, TX","Iowa City, IA",233,3,678.27,Nonstop,8.0,360.45,83985.92,1098320.0,702
+"Dallas, TX","Kansas City, MO",233,3,453.95,Nonstop,6.78,359.89,83855.16,931283.83,702
+"Dallas, TX","Las Vegas, NV",233,3,1068.81,Nonstop,9.23,390.5,90986.05,1267644.33,702
+"Dallas, TX","Lincoln, NE",233,3,554.85,1-Stop,11.47,612.0,142596.0,1574169.0,702
+"Dallas, TX","Los Angeles, CA",233,3,1237.36,Nonstop,10.08,422.83,98518.36,1384340.83,702
+"Dallas, TX","Milwaukee, WI",233,3,857.59,Nonstop,8.4,352.04,82024.42,1153236.0,702
+"Dallas, TX","Minneapolis, MN",233,3,863.83,Nonstop,8.7,393.86,91770.13,1194423.0,702
+"Dallas, TX","Nashville, TN",233,3,616.3,Nonstop,7.37,372.53,86798.52,1011369.67,702
+"Dallas, TX","New Bern, NC",233,3,1142.07,1-Stop,14.08,612.0,142596.0,1932476.91,702
+"Dallas, TX","New York, NY",233,3,1370.37,Nonstop,10.68,367.6,85649.73,1465570.75,702
+"Dallas, TX","Oklahoma City, OK",233,3,190.37,Nonstop,5.97,409.57,95429.0,819163.67,702
+"Dallas, TX","Omaha, NE",233,3,587.87,Nonstop,7.28,357.89,83388.37,999928.83,702
+"Dallas, TX","Orlando, FL",233,3,961.08,Nonstop,8.85,390.88,91074.6,1215016.5,702
+"Dallas, TX","Philadelphia, PA",233,3,1297.18,Nonstop,10.47,371.67,86599.64,1436968.67,702
+"Dallas, TX","Phoenix, AZ",233,3,884.12,Nonstop,8.62,405.3,94434.77,1184126.25,702
+"Dallas, TX","Pittsburgh, PA",233,3,1068.95,Nonstop,9.43,432.98,100885.37,1295102.33,702
+"Dallas, TX","Raleigh, NC",233,3,1055.67,Nonstop,9.15,438.32,102128.56,1256203.5,702
+"Dallas, TX","San Antonio, TX",233,3,252.76,Nonstop,5.97,420.94,98079.45,819163.67,702
+"Dallas, TX","San Diego, CA",233,3,1181.31,Nonstop,9.75,371.51,86562.57,1338577.5,702
+"Dallas, TX","San Francisco, CA",233,3,1480.65,Nonstop,11.02,430.74,100363.18,1512478.17,702
+"Dallas, TX","San Jose, CA",233,3,1448.97,Nonstop,10.93,430.74,100363.18,1501037.33,702
+"Dallas, TX","Seattle, WA",233,3,1679.54,Nonstop,11.88,391.29,91171.2,1631462.83,702
+"Dallas, TX","St. Louis, MO",233,3,547.86,Nonstop,7.13,441.39,102844.2,979335.33,702
+"Dallas, TX","St. Petersburg, FL",233,3,912.08,Nonstop,8.6,375.32,87450.12,1180694.0,702
+"Dallas, TX","Washington, DC",233,3,1181.96,Nonstop,9.72,422.26,98385.73,1334001.17,702
+"Denver, CO","Atlanta, GA",88,0,1209.91,Nonstop,9.9,415.27,36543.93,499851.0,264
+"Denver, CO","Austin, TX",88,0,771.67,Nonstop,8.08,440.81,38791.5,408127.5,264
+"Denver, CO","Baltimore, MD",88,0,1506.71,Nonstop,10.99,383.18,33720.1,554969.25,264
+"Denver, CO","Boston, MA",88,0,1765.42,Nonstop,12.13,411.38,36201.5,612612.0,264
+"Denver, CO","Cedar Rapids, IA",88,0,712.26,Nonstop,7.92,449.46,39552.21,400133.25,264
+"Denver, CO","Champaign, IL",88,0,886.55,1-Stop,12.94,612.0,53856.0,653351.21,264
+"Denver, CO","Charlotte, NC",88,0,1355.75,Nonstop,10.58,398.91,35104.36,534352.5,264
+"Denver, CO","Chicago, IL",88,0,918.18,Nonstop,8.55,422.82,37208.19,431689.5,264
+"Denver, CO","Cleveland, OH",88,0,1224.28,Nonstop,9.85,396.39,34882.12,497326.5,264
+"Denver, CO","Columbus, OH",88,0,1163.6,Nonstop,9.65,411.44,36206.76,487228.5,264
+"Denver, CO","Dallas, TX",88,0,662.32,Nonstop,7.63,391.1,34416.71,385407.0,264
+"Denver, CO","Denver, CO",88,0,0.0,Local,0.0,0.0,0.0,0.0,0
+"Denver, CO","Detroit, MI",88,0,1154.08,Nonstop,9.72,398.29,35049.8,490594.5,264
+"Denver, CO","Fort Lauderdale, FL",88,0,1711.87,Nonstop,11.87,415.46,36560.87,599148.0,264
+"Denver, CO","Hartford, CT",88,0,1687.51,Nonstop,11.82,358.38,31537.76,596623.5,264
+"Denver, CO","Houston, TX",88,0,878.45,Nonstop,8.5,414.35,36462.88,429165.0,264
+"Denver, CO","Iowa City, IA",88,0,716.66,Nonstop,7.92,449.46,39552.21,400133.25,264
+"Denver, CO","Kansas City, MO",88,0,557.08,Nonstop,7.2,379.97,33437.38,363528.0,264
+"Denver, CO","Las Vegas, NV",88,0,605.01,Nonstop,7.55,412.31,36283.56,381199.5,264
+"Denver, CO","Lincoln, NE",88,0,443.04,1-Stop,10.97,612.0,53856.0,553828.82,264
+"Denver, CO","Los Angeles, CA",88,0,829.8,Nonstop,8.53,366.1,32217.21,430848.0,264
+"Denver, CO","Milwaukee, WI",88,0,912.46,Nonstop,8.68,407.48,35858.3,438421.5,264
+"Denver, CO","Minneapolis, MN",88,0,698.35,Nonstop,7.87,360.31,31707.27,397188.0,264
+"Denver, CO","Nashville, TN",88,0,1020.54,Nonstop,9.12,399.53,35158.79,460300.5,264
+"Denver, CO","New Bern, NC",88,0,1559.95,1-Stop,15.93,612.0,53856.0,804462.31,264
+"Denver, CO","New York, NY",88,0,1627.22,Nonstop,11.7,363.79,32013.67,590733.0,264
+"Denver, CO","Oklahoma City, OK",88,0,503.92,Nonstop,7.17,435.31,38307.41,361845.0,264
+"Denver, CO","Omaha, NE",88,0,487.21,Nonstop,6.92,425.77,37467.8,349222.5,264
+"Denver, CO","Orlando, FL",88,0,1549.12,Nonstop,11.27,376.65,33145.31,568854.0,264
+"Denver, CO","Philadelphia, PA",88,0,1574.55,Nonstop,11.4,391.73,34472.6,575586.0,264
+"Denver, CO","Phoenix, AZ",88,0,585.36,Nonstop,7.6,416.95,36691.58,383724.0,264
+"Denver, CO","Pittsburgh, PA",88,0,1317.43,Nonstop,10.18,388.39,34178.73,513735.75,264
+"Denver, CO","Raleigh, NC",88,0,1459.61,Nonstop,10.82,420.17,36974.54,546554.25,264
+"Denver, CO","San Antonio, TX",88,0,802.64,Nonstop,8.16,368.77,32451.64,411914.25,264
+"Denver, CO","San Diego, CA",88,0,832.61,Nonstop,8.43,377.74,33241.09,425799.0,264
+"Denver, CO","San Francisco, CA",88,0,947.42,Nonstop,8.9,391.64,34464.27,449361.0,264
+"Denver, CO","San Jose, CA",88,0,926.81,Nonstop,8.83,381.95,33611.23,445995.0,264
+"Denver, CO","Seattle, WA",88,0,1019.52,Nonstop,9.32,394.14,34684.2,470398.5,264
+"Denver, CO","St. Louis, MO",88,0,794.88,Nonstop,8.17,432.83,38088.97,412335.0,264
+"Denver, CO","St. Petersburg, FL",88,0,1520.49,Nonstop,11.02,379.32,33380.17,556231.5,264
+"Denver, CO","Washington, DC",88,0,1488.93,Nonstop,10.86,368.21,32402.41,548237.25,264
+"Detroit, MI","Atlanta, GA",41,0,597.27,Nonstop,7.57,354.0,14514.02,140664.33,123
+"Detroit, MI","Austin, TX",41,0,1164.35,Nonstop,9.7,317.85,13031.71,180323.0,123
+"Detroit, MI","Baltimore, MD",41,0,396.75,Nonstop,6.75,396.13,16241.29,125482.5,123
+"Detroit, MI","Boston, MA",41,0,611.8,Nonstop,7.83,365.53,14986.67,145621.67,123
+"Detroit, MI","Cedar Rapids, IA",41,0,442.0,Nonstop,6.98,403.91,16560.22,129820.17,123
+"Detroit, MI","Champaign, IL",41,0,309.85,1-Stop,10.38,612.0,25092.0,192910.84,123
+"Detroit, MI","Charlotte, NC",41,0,504.75,Nonstop,7.28,441.46,18100.03,135397.17,123
+"Detroit, MI","Chicago, IL",41,0,236.8,Nonstop,6.06,377.52,15478.44,112624.42,123
+"Detroit, MI","Cleveland, OH",41,0,90.43,Drive,3.95,50.64,2076.31,73358.31,123
+"Detroit, MI","Columbus, OH",41,0,163.77,Nonstop,5.85,358.32,14691.27,108751.5,123
+"Detroit, MI","Dallas, TX",41,0,999.0,Nonstop,9.18,363.59,14907.31,170563.25,123
+"Detroit, MI","Denver, CO",41,0,1154.08,Nonstop,9.72,398.29,16330.02,180632.83,123
+"Detroit, MI","Detroit, MI",41,0,0.0,Local,0.0,0.0,0.0,0.0,0
+"Detroit, MI","Fort Lauderdale, FL",41,0,1132.09,Nonstop,9.8,404.33,16577.36,182182.0,123
+"Detroit, MI","Hartford, CT",41,0,533.72,Nonstop,7.37,337.76,13848.32,136946.33,123
+"Detroit, MI","Houston, TX",41,0,1105.65,Nonstop,9.57,452.35,18546.4,177844.33,123
+"Detroit, MI","Iowa City, IA",41,0,437.72,Nonstop,6.98,403.91,16560.22,129820.17,123
+"Detroit, MI","Kansas City, MO",41,0,643.11,Nonstop,7.62,347.14,14232.74,141593.83,123
+"Detroit, MI","Las Vegas, NV",41,0,1757.67,Nonstop,12.12,425.77,17456.67,225248.83,123
+"Detroit, MI","Lincoln, NE",41,0,712.58,1-Stop,12.17,612.0,25092.0,226184.73,123
+"Detroit, MI","Los Angeles, CA",41,0,1978.98,Nonstop,13.05,351.07,14394.02,242599.5,123
+"Detroit, MI","Milwaukee, WI",41,0,251.63,Nonstop,6.17,358.81,14711.28,114638.33,123
+"Detroit, MI","Minneapolis, MN",41,0,542.26,Nonstop,7.27,317.76,13028.19,135087.33,123
+"Detroit, MI","Nashville, TN",41,0,470.59,Nonstop,6.95,398.07,16320.95,129200.5,123
+"Detroit, MI","New Bern, NC",41,0,594.46,1-Stop,11.64,612.0,25092.0,216425.67,123
+"Detroit, MI","New York, NY",41,0,480.61,Nonstop,7.53,363.46,14901.66,140044.67,123
+"Detroit, MI","Oklahoma City, OK",41,0,909.21,1-Stop,13.04,612.0,25092.0,242430.88,123
+"Detroit, MI","Omaha, NE",41,0,666.93,Nonstop,7.77,474.02,19434.76,144382.33,123
+"Detroit, MI","Orlando, FL",41,0,957.38,Nonstop,9.1,377.01,15457.21,169169.0,123
+"Detroit, MI","Philadelphia, PA",41,0,441.56,Nonstop,7.2,420.86,17255.44,133848.0,123
+"Detroit, MI","Phoenix, AZ",41,0,1686.97,Nonstop,10.78,357.98,14677.38,200462.17,123
+"Detroit, MI","Pittsburgh, PA",41,0,205.04,Nonstop,5.98,376.33,15429.66,111230.17,123
+"Detroit, MI","Raleigh, NC",41,0,510.5,Nonstop,7.2,384.81,15777.27,133848.0,123
+"Detroit, MI","San Antonio, TX",41,0,1238.23,Nonstop,10.16,404.43,16581.63,188843.42,123
+"Detroit, MI","San Diego, CA",41,0,1967.96,Nonstop,12.92,422.47,17321.44,240120.83,123
+"Detroit, MI","San Francisco, CA",41,0,2087.09,Nonstop,13.28,335.75,13765.92,246937.17,123
+"Detroit, MI","San Jose, CA",41,0,2071.0,Nonstop,13.28,335.75,13765.92,246937.17,123
+"Detroit, MI","Seattle, WA",41,0,1932.94,Nonstop,12.73,338.03,13859.38,236712.67,123
+"Detroit, MI","St. Louis, MO",41,0,454.23,Nonstop,6.93,428.94,17586.36,128890.67,123
+"Detroit, MI","St. Petersburg, FL",41,0,1006.27,Nonstop,9.1,420.66,17246.89,169169.0,123
+"Detroit, MI","Washington, DC",41,0,393.77,Nonstop,6.8,324.33,13297.56,126412.0,123
+"Fort Lauderdale, FL","Atlanta, GA",57,1,585.22,Nonstop,7.48,390.11,22236.24,212751.17,172
+"Fort Lauderdale, FL","Austin, TX",57,1,1108.12,Nonstop,9.43,439.45,25048.71,268189.67,172
+"Fort Lauderdale, FL","Baltimore, MD",57,1,932.6,Nonstop,8.85,398.06,22689.29,251605.5,172
+"Fort Lauderdale, FL","Boston, MA",57,1,1234.33,Nonstop,10.4,454.16,25887.21,295672.0,172
+"Fort Lauderdale, FL","Cedar Rapids, IA",57,1,1276.5,1-Stop,14.67,612.0,34884.0,417162.83,172
+"Fort Lauderdale, FL","Champaign, IL",57,1,1073.69,1-Stop,13.77,612.0,34884.0,391536.46,172
+"Fort Lauderdale, FL","Charlotte, NC",57,1,630.81,Nonstop,7.85,410.18,23380.32,223175.5,172
+"Fort Lauderdale, FL","Chicago, IL",57,1,1169.18,Nonstop,9.73,407.09,23204.36,276718.67,172
+"Fort Lauderdale, FL","Cleveland, OH",57,1,1066.33,Nonstop,9.49,358.83,20453.5,269848.08,172
+"Fort Lauderdale, FL","Columbus, OH",57,1,970.35,Nonstop,8.99,436.81,24897.93,255633.08,172
+"Fort Lauderdale, FL","Dallas, TX",57,1,1101.16,Nonstop,9.32,426.48,24309.55,264872.83,172
+"Fort Lauderdale, FL","Denver, CO",57,1,1711.87,Nonstop,11.87,415.46,23681.47,337369.33,172
+"Fort Lauderdale, FL","Detroit, MI",57,1,1132.09,Nonstop,9.8,404.33,23046.58,278614.0,172
+"Fort Lauderdale, FL","Fort Lauderdale, FL",57,1,0.0,Local,0.0,0.0,0.0,0.0,0
+"Fort Lauderdale, FL","Hartford, CT",57,1,1161.18,Nonstop,9.93,455.03,25936.74,282404.67,172
+"Fort Lauderdale, FL","Houston, TX",57,1,962.2,Nonstop,8.92,464.12,26454.91,253500.83,172
+"Fort Lauderdale, FL","Iowa City, IA",57,1,1254.21,1-Stop,14.57,612.0,34884.0,414345.87,172
+"Fort Lauderdale, FL","Kansas City, MO",57,1,1225.89,Nonstop,10.08,406.08,23146.53,286669.17,172
+"Fort Lauderdale, FL","Las Vegas, NV",57,1,2169.39,Nonstop,13.67,399.17,22752.79,388543.33,172
+"Fort Lauderdale, FL","Lincoln, NE",57,1,1388.45,1-Stop,15.17,612.0,34884.0,431308.03,172
+"Fort Lauderdale, FL","Los Angeles, CA",57,1,2328.63,Nonstop,14.35,381.61,21751.58,407970.5,172
+"Fort Lauderdale, FL","Milwaukee, WI",57,1,1248.42,1-Stop,14.55,612.0,34884.0,413614.67,172
+"Fort Lauderdale, FL","Minneapolis, MN",57,1,1493.17,Nonstop,11.05,355.3,20252.13,314151.5,172
+"Fort Lauderdale, FL","Nashville, TN",57,1,796.58,Nonstop,8.28,433.13,24688.35,235495.17,172
+"Fort Lauderdale, FL","New Bern, NC",57,1,647.82,1-Stop,11.88,612.0,34884.0,337725.47,172
+"Fort Lauderdale, FL","New York, NY",57,1,1067.53,Nonstop,9.78,380.04,21662.14,278140.17,172
+"Fort Lauderdale, FL","Oklahoma City, OK",57,1,1214.24,1-Stop,14.4,612.0,34884.0,409296.39,172
+"Fort Lauderdale, FL","Omaha, NE",57,1,1380.39,1-Stop,15.14,612.0,34884.0,430289.9,172
+"Fort Lauderdale, FL","Orlando, FL",57,1,183.71,Nonstop,6.02,400.19,22810.86,171053.83,172
+"Fort Lauderdale, FL","Philadelphia, PA",57,1,997.53,Nonstop,9.32,424.6,24202.29,264872.83,172
+"Fort Lauderdale, FL","Phoenix, AZ",57,1,1972.01,Nonstop,11.6,502.11,28619.99,329788.0,172
+"Fort Lauderdale, FL","Pittsburgh, PA",57,1,989.46,Nonstop,9.1,440.15,25088.57,258713.0,172
+"Fort Lauderdale, FL","Raleigh, NC",57,1,673.31,Nonstop,7.9,414.95,23652.04,224597.0,172
+"Fort Lauderdale, FL","San Antonio, TX",57,1,1143.48,1-Stop,14.08,612.0,34884.0,400354.85,172
+"Fort Lauderdale, FL","San Diego, CA",57,1,2262.36,Nonstop,14.07,317.3,18086.1,399915.33,172
+"Fort Lauderdale, FL","San Francisco, CA",57,1,2581.8,Nonstop,15.44,326.07,18585.79,439006.58,172
+"Fort Lauderdale, FL","San Jose, CA",57,1,2550.07,Nonstop,15.44,326.07,18585.79,439006.58,172
+"Fort Lauderdale, FL","Seattle, WA",57,1,2716.55,Nonstop,16.07,420.3,23956.97,456775.33,172
+"Fort Lauderdale, FL","St. Louis, MO",57,1,1043.3,Nonstop,9.29,404.28,23043.87,264162.08,172
+"Fort Lauderdale, FL","St. Petersburg, FL",57,1,191.58,Nonstop,5.88,408.54,23286.75,167263.17,172
+"Fort Lauderdale, FL","Washington, DC",57,1,901.81,Nonstop,8.92,383.95,21884.97,253500.83,172
+"Hartford, CT","Atlanta, GA",29,0,844.87,Nonstop,8.47,445.44,12917.67,102277.33,87
+"Hartford, CT","Austin, TX",29,0,1601.67,1-Stop,16.12,612.0,17748.0,194711.74,87
+"Hartford, CT","Baltimore, MD",29,0,268.17,Nonstop,6.1,436.19,12649.48,73688.0,87
+"Hartford, CT","Boston, MA",29,0,92.41,Drive,4.03,51.75,1500.72,48711.29,87
+"Hartford, CT","Cedar Rapids, IA",29,0,975.69,1-Stop,13.34,612.0,17748.0,161103.82,87
+"Hartford, CT","Champaign, IL",29,0,819.36,1-Stop,12.64,612.0,17748.0,152710.34,87
+"Hartford, CT","Charlotte, NC",29,0,630.89,Nonstop,7.75,394.54,11441.56,93620.0,87
+"Hartford, CT","Chicago, IL",29,0,769.39,Nonstop,8.05,429.79,12463.85,97244.0,87
+"Hartford, CT","Cleveland, OH",29,0,465.97,1-Stop,11.07,612.0,17748.0,133737.15,87
+"Hartford, CT","Columbus, OH",29,0,553.58,1-Stop,11.46,612.0,17748.0,138440.91,87
+"Hartford, CT","Dallas, TX",29,0,1458.01,Nonstop,11.1,422.95,12265.57,134088.0,87
+"Hartford, CT","Denver, CO",29,0,1687.51,Nonstop,11.82,358.38,10393.13,142745.33,87
+"Hartford, CT","Detroit, MI",29,0,533.72,Nonstop,7.37,337.76,9795.15,88989.33,87
+"Hartford, CT","Fort Lauderdale, FL",29,0,1161.18,Nonstop,9.93,455.03,13195.89,119994.67,87
+"Hartford, CT","Hartford, CT",29,0,0.0,Local,0.0,0.0,0.0,0.0,0
+"Hartford, CT","Houston, TX",29,0,1511.57,Nonstop,11.42,274.31,7954.88,137913.33,87
+"Hartford, CT","Iowa City, IA",29,0,970.87,1-Stop,13.31,612.0,17748.0,160845.1,87
+"Hartford, CT","Kansas City, MO",29,0,1163.64,1-Stop,14.17,612.0,17748.0,171194.67,87
+"Hartford, CT","Las Vegas, NV",29,0,2290.39,1-Stop,19.18,612.0,17748.0,231688.71,87
+"Hartford, CT","Lincoln, NE",29,0,1245.3,1-Stop,14.53,612.0,17748.0,175578.82,87
+"Hartford, CT","Los Angeles, CA",29,0,2510.52,Nonstop,15.42,324.22,9402.38,186233.33,87
+"Hartford, CT","Milwaukee, WI",29,0,781.51,1-Stop,12.47,612.0,17748.0,150678.24,87
+"Hartford, CT","Minneapolis, MN",29,0,1055.25,Nonstop,9.35,348.37,10102.68,112948.0,87
+"Hartford, CT","Nashville, TN",29,0,849.64,Nonstop,8.43,372.56,10804.12,101874.67,87
+"Hartford, CT","New Bern, NC",29,0,516.59,1-Stop,11.3,612.0,17748.0,136455.14,87
+"Hartford, CT","New York, NY",29,0,100.55,Drive,4.39,56.31,1632.95,53003.29,87
+"Hartford, CT","Oklahoma City, OK",29,0,1404.41,1-Stop,15.24,612.0,17748.0,184120.97,87
+"Hartford, CT","Omaha, NE",29,0,1200.31,1-Stop,14.33,612.0,17748.0,173163.11,87
+"Hartford, CT","Orlando, FL",29,0,1036.17,Nonstop,9.55,445.67,12924.36,115364.0,87
+"Hartford, CT","Philadelphia, PA",29,0,180.84,Nonstop,6.32,439.75,12752.82,76305.33,87
+"Hartford, CT","Phoenix, AZ",29,0,2210.98,1-Stop,18.83,612.0,17748.0,227424.96,87
+"Hartford, CT","Pittsburgh, PA",29,0,392.26,1-Stop,10.74,612.0,17748.0,129779.97,87
+"Hartford, CT","Raleigh, NC",29,0,523.3,Nonstop,7.38,398.71,11562.59,89090.0,87
+"Hartford, CT","San Antonio, TX",29,0,1672.94,1-Stop,16.44,612.0,17748.0,198538.49,87
+"Hartford, CT","San Diego, CA",29,0,2496.26,1-Stop,20.09,612.0,17748.0,242741.18,87
+"Hartford, CT","San Francisco, CA",29,0,2619.76,1-Stop,20.64,612.0,17748.0,249372.2,87
+"Hartford, CT","San Jose, CA",29,0,2604.18,1-Stop,20.57,612.0,17748.0,248535.55,87
+"Hartford, CT","Seattle, WA",29,0,2430.14,1-Stop,19.8,612.0,17748.0,239191.27,87
+"Hartford, CT","St. Louis, MO",29,0,948.31,1-Stop,13.21,612.0,17748.0,159633.66,87
+"Hartford, CT","St. Petersburg, FL",29,0,1118.23,Nonstop,9.6,372.05,10789.46,115968.0,87
+"Hartford, CT","Washington, DC",29,0,302.83,Nonstop,6.53,411.51,11933.71,78922.67,87
+"Houston, TX","Atlanta, GA",200,2,701.02,Nonstop,7.85,372.96,74592.78,804899.75,602
+"Houston, TX","Austin, TX",200,2,146.1,Drive,6.38,81.82,16363.48,653699.72,602
+"Houston, TX","Baltimore, MD",200,2,1250.74,Nonstop,10.07,319.29,63858.88,1032185.67,602
+"Houston, TX","Boston, MA",200,2,1603.96,Nonstop,11.8,342.95,68590.77,1209913.0,602
+"Houston, TX","Cedar Rapids, IA",200,2,869.13,1-Stop,12.86,612.0,122400.0,1318886.88,602
+"Houston, TX","Champaign, IL",200,2,821.17,1-Stop,12.65,612.0,122400.0,1297029.61,602
+"Houston, TX","Charlotte, NC",200,2,926.02,Nonstop,9.05,466.53,93305.7,927941.75,602
+"Houston, TX","Chicago, IL",200,2,942.03,Nonstop,8.66,361.76,72351.88,887782.21,602
+"Houston, TX","Cleveland, OH",200,2,1114.45,Nonstop,9.6,301.87,60373.53,984336.0,602
+"Houston, TX","Columbus, OH",200,2,992.33,Nonstop,8.93,352.02,70404.0,915979.33,602
+"Houston, TX","Dallas, TX",200,2,225.1,Nonstop,5.82,430.38,86075.26,596411.92,602
+"Houston, TX","Denver, CO",200,2,878.45,Nonstop,8.5,414.35,82870.18,871547.5,602
+"Houston, TX","Detroit, MI",200,2,1105.65,Nonstop,9.57,452.35,90470.25,980918.17,602
+"Houston, TX","Fort Lauderdale, FL",200,2,962.2,Nonstop,8.92,464.12,92824.23,914270.42,602
+"Houston, TX","Hartford, CT",200,2,1511.57,Nonstop,11.42,274.31,54861.22,1170607.92,602
+"Houston, TX","Houston, TX",200,2,0.0,Local,0.0,0.0,0.0,0.0,0
+"Houston, TX","Iowa City, IA",200,2,849.72,1-Stop,12.78,612.0,122400.0,1310042.23,602
+"Houston, TX","Kansas City, MO",200,2,646.9,Nonstop,7.74,353.83,70765.08,793791.79,602
+"Houston, TX","Las Vegas, NV",200,2,1225.82,Nonstop,9.8,428.15,85629.31,1004843.0,602
+"Houston, TX","Lincoln, NE",200,2,767.14,1-Stop,12.41,612.0,122400.0,1272408.01,602
+"Houston, TX","Los Angeles, CA",200,2,1370.69,Nonstop,10.52,331.71,66341.01,1078326.42,602
+"Houston, TX","Milwaukee, WI",200,2,1005.95,Nonstop,9.48,418.34,83668.35,972373.58,602
+"Houston, TX","Minneapolis, MN",200,2,1057.81,Nonstop,9.53,362.95,72590.85,977500.33,602
+"Houston, TX","Nashville, TN",200,2,665.45,Nonstop,7.72,371.28,74256.21,791228.42,602
+"Houston, TX","New Bern, NC",200,2,1128.97,1-Stop,14.02,612.0,122400.0,1437300.07,602
+"Houston, TX","New York, NY",200,2,1417.33,Nonstop,11.08,376.53,75306.0,1136429.58,602
+"Houston, TX","Oklahoma City, OK",200,2,413.86,Nonstop,6.57,349.94,69988.0,673313.17,602
+"Houston, TX","Omaha, NE",200,2,795.2,Nonstop,8.18,349.94,69988.0,839078.08,602
+"Houston, TX","Orlando, FL",200,2,847.87,Nonstop,8.47,377.7,75540.74,868129.67,602
+"Houston, TX","Philadelphia, PA",200,2,1339.58,Nonstop,10.75,396.68,79335.15,1102251.25,602
+"Houston, TX","Phoenix, AZ",200,2,1013.98,Nonstop,8.82,443.96,88792.81,904016.92,602
+"Houston, TX","Pittsburgh, PA",200,2,1136.88,Nonstop,9.72,403.31,80662.52,996298.42,602
+"Houston, TX","Raleigh, NC",200,2,1055.38,Nonstop,9.4,459.78,91955.59,963829.0,602
+"Houston, TX","San Antonio, TX",200,2,188.92,Nonstop,5.67,399.36,79872.59,581031.67,602
+"Houston, TX","San Diego, CA",200,2,1301.02,Nonstop,10.06,377.27,75453.0,1031331.21,602
+"Houston, TX","San Francisco, CA",200,2,1642.3,Nonstop,11.69,477.68,95536.0,1198805.04,602
+"Houston, TX","San Jose, CA",200,2,1607.97,Nonstop,11.44,364.33,72866.0,1173171.29,602
+"Houston, TX","Seattle, WA",200,2,1889.36,Nonstop,12.7,492.61,98522.43,1302194.5,602
+"Houston, TX","St. Louis, MO",200,2,680.05,Nonstop,7.72,343.51,68702.56,791228.42,602
+"Houston, TX","St. Petersburg, FL",200,2,782.76,Nonstop,8.05,423.8,84759.0,825406.75,602
+"Houston, TX","Washington, DC",200,2,1218.54,Nonstop,10.03,391.29,78257.18,1028767.83,602
+"Iowa City, IA","Atlanta, GA",34,0,671.04,Nonstop,7.76,416.8,14171.06,125646.21,102
+"Iowa City, IA","Austin, TX",34,0,859.58,1-Stop,12.82,612.0,20808.0,207625.65,102
+"Iowa City, IA","Baltimore, MD",34,0,800.01,1-Stop,12.56,612.0,20808.0,203337.63,102
+"Iowa City, IA","Boston, MA",34,0,1049.48,1-Stop,13.66,612.0,20808.0,221294.2,102
+"Iowa City, IA","Cedar Rapids, IA",34,0,23.26,Drive,1.01,13.02,442.79,16434.54,102
+"Iowa City, IA","Champaign, IL",34,0,202.1,1-Stop,9.9,612.0,20808.0,160301.62,102
+"Iowa City, IA","Charlotte, NC",34,0,728.45,Nonstop,8.33,443.25,15070.46,134958.33,102
+"Iowa City, IA","Chicago, IL",34,0,201.53,Nonstop,6.08,462.1,15711.27,98519.58,102
+"Iowa City, IA","Cleveland, OH",34,0,508.42,1-Stop,11.26,612.0,20808.0,182349.86,102
+"Iowa City, IA","Columbus, OH",34,0,461.07,1-Stop,11.05,612.0,20808.0,178941.69,102
+"Iowa City, IA","Dallas, TX",34,0,678.27,Nonstop,8.0,360.45,12255.46,129560.0,102
+"Iowa City, IA","Denver, CO",34,0,716.66,Nonstop,7.92,449.46,15281.53,128345.38,102
+"Iowa City, IA","Detroit, MI",34,0,437.72,Nonstop,6.98,403.91,13732.87,113095.08,102
+"Iowa City, IA","Fort Lauderdale, FL",34,0,1254.21,1-Stop,14.57,612.0,20808.0,236029.94,102
+"Iowa City, IA","Hartford, CT",34,0,970.87,1-Stop,13.31,612.0,20808.0,215636.29,102
+"Iowa City, IA","Houston, TX",34,0,849.72,1-Stop,12.78,612.0,20808.0,206916.02,102
+"Iowa City, IA","Iowa City, IA",34,0,0.0,Local,0.0,0.0,0.0,0.0,0
+"Iowa City, IA","Kansas City, MO",34,0,238.83,1-Stop,10.06,612.0,20808.0,162945.67,102
+"Iowa City, IA","Las Vegas, NV",34,0,1319.95,1-Stop,14.87,612.0,20808.0,240762.05,102
+"Iowa City, IA","Lincoln, NE",34,0,274.93,1-Stop,10.22,612.0,20808.0,165543.82,102
+"Iowa City, IA","Los Angeles, CA",34,0,1541.53,1-Stop,15.85,612.0,20808.0,256710.89,102
+"Iowa City, IA","Milwaukee, WI",34,0,207.97,1-Stop,9.92,612.0,20808.0,160723.99,102
+"Iowa City, IA","Minneapolis, MN",34,0,245.49,Nonstop,6.07,438.06,14893.93,98249.67,102
+"Iowa City, IA","Nashville, TN",34,0,457.68,Nonstop,6.92,410.78,13966.52,112015.42,102
+"Iowa City, IA","New Bern, NC",34,0,904.15,1-Stop,13.02,612.0,20808.0,210833.59,102
+"Iowa City, IA","New York, NY",34,0,911.81,1-Stop,13.05,612.0,20808.0,211385.29,102
+"Iowa City, IA","Oklahoma City, OK",34,0,536.01,1-Stop,11.38,612.0,20808.0,184336.02,102
+"Iowa City, IA","Omaha, NE",34,0,229.48,1-Stop,10.02,612.0,20808.0,162272.31,102
+"Iowa City, IA","Orlando, FL",34,0,1071.04,1-Stop,13.76,612.0,20808.0,222845.73,102
+"Iowa City, IA","Philadelphia, PA",34,0,862.41,1-Stop,12.83,612.0,20808.0,207829.31,102
+"Iowa City, IA","Phoenix, AZ",34,0,1255.6,Nonstop,10.38,450.38,15312.91,168158.08,102
+"Iowa City, IA","Pittsburgh, PA",34,0,606.2,1-Stop,11.69,612.0,20808.0,189387.99,102
+"Iowa City, IA","Raleigh, NC",34,0,803.66,1-Stop,12.57,612.0,20808.0,203600.6,102
+"Iowa City, IA","San Antonio, TX",34,0,931.03,1-Stop,13.14,612.0,20808.0,212768.18,102
+"Iowa City, IA","San Diego, CA",34,0,1532.47,1-Stop,15.81,612.0,20808.0,256058.9,102
+"Iowa City, IA","San Francisco, CA",34,0,1654.54,1-Stop,16.35,612.0,20808.0,264845.19,102
+"Iowa City, IA","San Jose, CA",34,0,1637.12,1-Stop,16.28,612.0,20808.0,263591.46,102
+"Iowa City, IA","Seattle, WA",34,0,1557.77,1-Stop,15.92,612.0,20808.0,257880.07,102
+"Iowa City, IA","St. Louis, MO",34,0,220.82,1-Stop,9.98,612.0,20808.0,161648.95,102
+"Iowa City, IA","St. Petersburg, FL",34,0,1082.94,1-Stop,13.81,612.0,20808.0,223702.81,102
+"Iowa City, IA","Washington, DC",34,0,785.96,1-Stop,12.49,612.0,20808.0,202326.71,102
+"Kansas City, MO","Atlanta, GA",91,1,675.78,Nonstop,7.82,409.09,37227.49,362537.0,274
+"Kansas City, MO","Austin, TX",91,1,635.84,Nonstop,7.55,430.55,39180.14,350169.0,274
+"Kansas City, MO","Baltimore, MD",91,1,960.76,Nonstop,8.96,377.26,34330.41,415487.5,274
+"Kansas City, MO","Boston, MA",91,1,1247.73,Nonstop,10.47,354.86,32292.06,485444.0,274
+"Kansas City, MO","Cedar Rapids, IA",91,1,250.85,1-Stop,10.11,612.0,55692.0,469129.11,274
+"Kansas City, MO","Champaign, IL",91,1,344.68,1-Stop,10.53,612.0,55692.0,488469.62,274
+"Kansas City, MO","Charlotte, NC",91,1,801.41,Nonstop,8.56,389.48,35442.41,396935.5,274
+"Kansas City, MO","Chicago, IL",91,1,412.45,Nonstop,6.48,401.61,36546.38,300697.0,274
+"Kansas City, MO","Cleveland, OH",91,1,698.46,1-Stop,12.1,612.0,55692.0,561396.37,274
+"Kansas City, MO","Columbus, OH",91,1,619.53,1-Stop,11.75,612.0,55692.0,545125.74,274
+"Kansas City, MO","Dallas, TX",91,1,453.95,Nonstop,6.78,359.89,32750.3,314611.0,274
+"Kansas City, MO","Denver, CO",91,1,557.08,Nonstop,7.2,379.97,34577.3,333936.0,274
+"Kansas City, MO","Detroit, MI",91,1,643.11,Nonstop,7.62,347.14,31589.74,353261.0,274
+"Kansas City, MO","Fort Lauderdale, FL",91,1,1225.89,Nonstop,10.08,406.08,36953.23,467665.0,274
+"Kansas City, MO","Hartford, CT",91,1,1163.64,1-Stop,14.17,612.0,55692.0,657285.49,274
+"Kansas City, MO","Houston, TX",91,1,646.9,Nonstop,7.74,353.83,32198.11,359058.5,274
+"Kansas City, MO","Iowa City, IA",91,1,238.83,1-Stop,10.06,612.0,55692.0,466651.45,274
+"Kansas City, MO","Kansas City, MO",91,1,0.0,Local,0.0,0.0,0.0,0.0,0
+"Kansas City, MO","Las Vegas, NV",91,1,1140.48,Nonstop,9.5,353.98,32211.74,440610.0,274
+"Kansas City, MO","Lincoln, NE",91,1,162.98,1-Stop,9.72,612.0,55692.0,451016.42,274
+"Kansas City, MO","Los Angeles, CA",91,1,1354.09,Nonstop,10.45,486.73,44292.52,484671.0,274
+"Kansas City, MO","Milwaukee, WI",91,1,441.15,1-Stop,10.96,612.0,55692.0,508355.42,274
+"Kansas City, MO","Minneapolis, MN",91,1,411.78,Nonstop,6.68,437.98,39856.09,309973.0,274
+"Kansas City, MO","Nashville, TN",91,1,472.46,Nonstop,6.93,387.49,35261.78,321568.0,274
+"Kansas City, MO","New Bern, NC",91,1,1003.25,1-Stop,13.46,612.0,55692.0,624222.24,274
+"Kansas City, MO","New York, NY",91,1,1093.4,Nonstop,9.9,341.32,31059.96,459162.0,274
+"Kansas City, MO","Oklahoma City, OK",91,1,298.33,1-Stop,10.33,612.0,55692.0,478916.2,274
+"Kansas City, MO","Omaha, NE",91,1,165.38,1-Stop,9.74,612.0,55692.0,451510.21,274
+"Kansas City, MO","Orlando, FL",91,1,1049.71,Nonstop,9.4,402.19,36599.17,435972.0,274
+"Kansas City, MO","Philadelphia, PA",91,1,1034.09,Nonstop,9.45,361.87,32929.78,438291.0,274
+"Kansas City, MO","Phoenix, AZ",91,1,1047.35,Nonstop,8.58,385.13,35046.97,398095.0,274
+"Kansas City, MO","Pittsburgh, PA",91,1,778.91,1-Stop,12.46,612.0,55692.0,577979.33,274
+"Kansas City, MO","Raleigh, NC",91,1,902.72,1-Stop,13.01,612.0,55692.0,603499.9,274
+"Kansas City, MO","San Antonio, TX",91,1,704.91,1-Stop,12.13,612.0,55692.0,562725.7,274
+"Kansas City, MO","San Diego, CA",91,1,1334.03,Nonstop,10.22,404.46,36805.86,473849.0,274
+"Kansas City, MO","San Francisco, CA",91,1,1503.67,1-Stop,15.68,612.0,55692.0,727377.34,274
+"Kansas City, MO","San Jose, CA",91,1,1481.86,1-Stop,15.59,612.0,55692.0,722881.07,274
+"Kansas City, MO","Seattle, WA",91,1,1502.72,Nonstop,11.05,460.26,41884.06,512499.0,274
+"Kansas City, MO","St. Louis, MO",91,1,237.84,Nonstop,5.82,351.82,32015.8,270163.5,274
+"Kansas City, MO","St. Petersburg, FL",91,1,1040.53,Nonstop,9.08,453.7,41286.63,421285.0,274
+"Kansas City, MO","Washington, DC",91,1,940.39,Nonstop,8.98,359.64,32727.19,416260.5,274
+"Las Vegas, NV","Atlanta, GA",22,0,1741.99,Nonstop,11.98,388.93,8556.5,134153.42,66
+"Las Vegas, NV","Austin, TX",22,0,1083.21,Nonstop,9.35,422.55,9296.08,104673.25,66
+"Las Vegas, NV","Baltimore, MD",22,0,2100.64,Nonstop,13.42,405.6,8923.17,150199.58,66
+"Las Vegas, NV","Boston, MA",22,0,2369.4,Nonstop,14.7,480.15,10563.2,164566.5,66
+"Las Vegas, NV","Cedar Rapids, IA",22,0,1316.47,1-Stop,14.85,612.0,13464.0,166256.62,66
+"Las Vegas, NV","Champaign, IL",22,0,1481.07,1-Stop,15.58,612.0,13464.0,174446.36,66
+"Las Vegas, NV","Charlotte, NC",22,0,1915.62,Nonstop,12.82,368.13,8098.89,143482.58,66
+"Las Vegas, NV","Chicago, IL",22,0,1521.19,Nonstop,11.03,357.07,7855.63,123518.17,66
+"Las Vegas, NV","Cleveland, OH",22,0,1825.67,Nonstop,12.4,391.03,8602.75,138818.0,66
+"Las Vegas, NV","Columbus, OH",22,0,1758.2,Nonstop,11.97,438.26,9641.66,133966.83,66
+"Las Vegas, NV","Dallas, TX",22,0,1068.81,Nonstop,9.23,390.5,8590.96,103367.17,66
+"Las Vegas, NV","Denver, CO",22,0,605.01,Nonstop,7.55,412.31,9070.89,84522.25,66
+"Las Vegas, NV","Detroit, MI",22,0,1757.67,Nonstop,12.12,425.77,9366.99,135646.08,66
+"Las Vegas, NV","Fort Lauderdale, FL",22,0,2169.39,Nonstop,13.67,399.17,8781.78,152998.33,66
+"Las Vegas, NV","Hartford, CT",22,0,2290.39,1-Stop,19.18,612.0,13464.0,214714.83,66
+"Las Vegas, NV","Houston, TX",22,0,1225.82,Nonstop,9.8,428.15,9419.22,109711.0,66
+"Las Vegas, NV","Iowa City, IA",22,0,1319.95,1-Stop,14.87,612.0,13464.0,166429.83,66
+"Las Vegas, NV","Kansas City, MO",22,0,1140.48,Nonstop,9.5,353.98,7787.45,106352.5,66
+"Las Vegas, NV","Las Vegas, NV",22,0,0.0,Local,0.0,0.0,0.0,0.0,0
+"Las Vegas, NV","Lincoln, NE",22,0,1045.17,1-Stop,13.65,612.0,13464.0,152758.08,66
+"Las Vegas, NV","Los Angeles, CA",22,0,228.36,Nonstop,6.3,379.9,8357.8,70528.5,66
+"Las Vegas, NV","Milwaukee, WI",22,0,1517.44,Nonstop,11.08,398.61,8769.48,123984.62,66
+"Las Vegas, NV","Minneapolis, MN",22,0,1293.35,Nonstop,10.27,375.14,8253.02,114935.33,66
+"Las Vegas, NV","Nashville, TN",22,0,1576.24,Nonstop,11.27,385.72,8485.86,126130.33,66
+"Las Vegas, NV","New Bern, NC",22,0,2126.83,1-Stop,18.45,612.0,13464.0,206576.68,66
+"Las Vegas, NV","New York, NY",22,0,2227.37,Nonstop,14.23,392.31,8630.82,159342.17,66
+"Las Vegas, NV","Oklahoma City, OK",22,0,987.0,Nonstop,8.85,430.61,9473.53,99075.75,66
+"Las Vegas, NV","Omaha, NE",22,0,1090.98,Nonstop,9.33,392.95,8644.92,104486.67,66
+"Las Vegas, NV","Orlando, FL",22,0,2028.57,Nonstop,13.33,355.78,7827.09,149266.67,66
+"Las Vegas, NV","Philadelphia, PA",22,0,2171.86,Nonstop,13.9,347.3,7640.67,155610.5,66
+"Las Vegas, NV","Phoenix, AZ",22,0,256.19,Nonstop,6.18,397.24,8739.34,69222.42,66
+"Las Vegas, NV","Pittsburgh, PA",22,0,1915.14,Nonstop,12.48,400.25,8805.57,139750.92,66
+"Las Vegas, NV","Raleigh, NC",22,0,2028.89,Nonstop,13.01,412.66,9078.52,145628.29,66
+"Las Vegas, NV","San Antonio, TX",22,0,1071.61,Nonstop,9.22,476.1,10474.27,103180.58,66
+"Las Vegas, NV","San Diego, CA",22,0,264.69,Nonstop,6.23,380.81,8377.84,69782.17,66
+"Las Vegas, NV","San Francisco, CA",22,0,416.68,Nonstop,7.07,432.0,9504.06,79111.33,66
+"Las Vegas, NV","San Jose, CA",22,0,382.22,Nonstop,6.62,432.0,9504.06,74073.58,66
+"Las Vegas, NV","Seattle, WA",22,0,871.74,Nonstop,8.93,422.64,9298.08,100008.67,66
+"Las Vegas, NV","St. Louis, MO",22,0,1375.16,Nonstop,10.42,418.06,9197.25,116614.58,66
+"Las Vegas, NV","St. Petersburg, FL",22,0,1980.84,Nonstop,13.0,538.82,11853.96,145535.0,66
+"Las Vegas, NV","Washington, DC",22,0,2080.79,Nonstop,13.28,391.89,8621.47,148706.92,66
+"Lincoln, NE","Atlanta, GA",1,0,832.91,1-Stop,12.7,612.0,612.0,11304.6,3
+"Lincoln, NE","Austin, TX",1,0,730.58,1-Stop,12.25,612.0,612.0,10899.84,3
+"Lincoln, NE","Baltimore, MD",1,0,1065.39,1-Stop,13.74,612.0,612.0,12224.21,3
+"Lincoln, NE","Boston, MA",1,0,1324.37,1-Stop,14.89,612.0,612.0,13248.61,3
+"Lincoln, NE","Cedar Rapids, IA",1,0,272.91,1-Stop,10.21,612.0,612.0,9089.52,3
+"Lincoln, NE","Champaign, IL",1,0,447.09,1-Stop,10.99,612.0,612.0,9778.48,3
+"Lincoln, NE","Charlotte, NC",1,0,943.63,1-Stop,13.19,612.0,612.0,11742.58,3
+"Lincoln, NE","Chicago, IL",1,0,476.02,Nonstop,7.37,379.74,379.74,6556.33,3
+"Lincoln, NE","Cleveland, OH",1,0,781.34,1-Stop,12.47,612.0,612.0,11100.62,3
+"Lincoln, NE","Columbus, OH",1,0,722.67,1-Stop,12.21,612.0,612.0,10868.56,3
+"Lincoln, NE","Dallas, TX",1,0,554.85,1-Stop,11.47,612.0,612.0,10204.75,3
+"Lincoln, NE","Denver, CO",1,0,443.04,1-Stop,10.97,612.0,612.0,9762.48,3
+"Lincoln, NE","Detroit, MI",1,0,712.58,1-Stop,12.17,612.0,612.0,10828.64,3
+"Lincoln, NE","Fort Lauderdale, FL",1,0,1388.45,1-Stop,15.17,612.0,612.0,13502.08,3
+"Lincoln, NE","Hartford, CT",1,0,1245.3,1-Stop,14.53,612.0,612.0,12935.86,3
+"Lincoln, NE","Houston, TX",1,0,767.14,1-Stop,12.41,612.0,612.0,11044.45,3
+"Lincoln, NE","Iowa City, IA",1,0,274.93,1-Stop,10.22,612.0,612.0,9097.5,3
+"Lincoln, NE","Kansas City, MO",1,0,162.98,1-Stop,9.72,612.0,612.0,8654.69,3
+"Lincoln, NE","Las Vegas, NV",1,0,1045.17,1-Stop,13.65,612.0,612.0,12144.23,3
+"Lincoln, NE","Lincoln, NE",1,0,0.0,Local,0.0,0.0,0.0,0.0,0
+"Lincoln, NE","Los Angeles, CA",1,0,1266.62,1-Stop,14.63,612.0,612.0,13020.17,3
+"Lincoln, NE","Milwaukee, WI",1,0,477.14,1-Stop,11.12,612.0,612.0,9897.35,3
+"Lincoln, NE","Minneapolis, MN",1,0,336.31,1-Stop,10.49,612.0,612.0,9340.31,3
+"Lincoln, NE","Nashville, TN",1,0,624.78,1-Stop,11.78,612.0,612.0,10481.33,3
+"Lincoln, NE","New Bern, NC",1,0,1138.07,1-Stop,14.06,612.0,612.0,12511.71,3
+"Lincoln, NE","New York, NY",1,0,1184.17,1-Stop,14.26,612.0,612.0,12694.07,3
+"Lincoln, NE","Oklahoma City, OK",1,0,371.64,1-Stop,10.65,612.0,612.0,9480.04,3
+"Lincoln, NE","Omaha, NE",1,0,50.77,Drive,2.22,28.43,28.43,1971.57,3
+"Lincoln, NE","Orlando, FL",1,0,1211.61,1-Stop,14.38,612.0,612.0,12802.59,3
+"Lincoln, NE","Philadelphia, PA",1,0,1131.91,1-Stop,14.03,612.0,612.0,12487.31,3
+"Lincoln, NE","Phoenix, AZ",1,0,985.5,1-Stop,13.38,612.0,612.0,11908.21,3
+"Lincoln, NE","Pittsburgh, PA",1,0,874.82,1-Stop,12.89,612.0,612.0,11470.41,3
+"Lincoln, NE","Raleigh, NC",1,0,1036.85,1-Stop,13.61,612.0,612.0,12111.33,3
+"Lincoln, NE","San Antonio, TX",1,0,793.4,1-Stop,12.53,612.0,612.0,11148.36,3
+"Lincoln, NE","San Diego, CA",1,0,1258.71,1-Stop,14.59,612.0,612.0,12988.88,3
+"Lincoln, NE","San Francisco, CA",1,0,1386.22,1-Stop,15.16,612.0,612.0,13493.29,3
+"Lincoln, NE","San Jose, CA",1,0,1367.37,1-Stop,15.08,612.0,612.0,13418.7,3
+"Lincoln, NE","Seattle, WA",1,0,1345.95,1-Stop,14.98,612.0,612.0,13333.98,3
+"Lincoln, NE","St. Louis, MO",1,0,376.73,1-Stop,10.67,612.0,612.0,9500.17,3
+"Lincoln, NE","St. Petersburg, FL",1,0,1203.44,1-Stop,14.35,612.0,612.0,12770.27,3
+"Lincoln, NE","Washington, DC",1,0,1048.7,1-Stop,13.66,612.0,612.0,12158.21,3
+"Los Angeles, CA","Atlanta, GA",187,3,1932.38,Nonstop,12.82,432.68,80911.37,1304159.92,564
+"Los Angeles, CA","Austin, TX",187,3,1224.96,Nonstop,10.03,378.73,70821.99,1020941.83,564
+"Los Angeles, CA","Baltimore, MD",187,3,2314.75,Nonstop,14.33,387.8,72517.71,1458488.33,564
+"Los Angeles, CA","Boston, MA",187,3,2590.73,Nonstop,15.62,367.15,68657.02,1589073.92,564
+"Los Angeles, CA","Cedar Rapids, IA",187,3,1538.93,1-Stop,15.84,612.0,114444.0,1611768.12,564
+"Los Angeles, CA","Champaign, IL",187,3,1697.12,1-Stop,16.54,612.0,114444.0,1683308.54,564
+"Los Angeles, CA","Charlotte, NC",187,3,2115.0,Nonstop,13.7,413.55,77334.36,1394043.5,564
+"Los Angeles, CA","Chicago, IL",187,3,1742.22,Nonstop,11.94,374.76,70079.34,1215124.29,564
+"Los Angeles, CA","Cleveland, OH",187,3,2044.98,Nonstop,13.33,408.43,76375.56,1356733.33,564
+"Los Angeles, CA","Columbus, OH",187,3,1973.45,Nonstop,13.08,400.58,74908.46,1330446.62,564
+"Los Angeles, CA","Dallas, TX",187,3,1237.36,Nonstop,10.08,422.83,79068.38,1026029.58,564
+"Los Angeles, CA","Denver, CO",187,3,829.8,Nonstop,8.53,366.1,68461.57,868309.33,564
+"Los Angeles, CA","Detroit, MI",187,3,1978.98,Nonstop,13.05,351.07,65650.78,1327902.75,564
+"Los Angeles, CA","Fort Lauderdale, FL",187,3,2328.63,Nonstop,14.35,381.61,71360.43,1460184.25,564
+"Los Angeles, CA","Hartford, CT",187,3,2510.52,Nonstop,15.42,324.22,60629.14,1568722.92,564
+"Los Angeles, CA","Houston, TX",187,3,1370.69,Nonstop,10.52,331.71,62028.85,1070123.42,564
+"Los Angeles, CA","Iowa City, IA",187,3,1541.53,1-Stop,15.85,612.0,114444.0,1612943.28,564
+"Los Angeles, CA","Kansas City, MO",187,3,1354.09,Nonstop,10.45,486.73,91018.7,1063339.75,564
+"Los Angeles, CA","Las Vegas, NV",187,3,228.36,Nonstop,6.3,379.9,71041.34,641056.5,564
+"Los Angeles, CA","Lincoln, NE",187,3,1266.62,1-Stop,14.63,612.0,114444.0,1488615.29,564
+"Los Angeles, CA","Los Angeles, CA",187,3,0.0,Local,0.0,0.0,0.0,0.0,0
+"Los Angeles, CA","Milwaukee, WI",187,3,1741.12,Nonstop,12.28,451.45,84421.15,1249890.58,564
+"Los Angeles, CA","Minneapolis, MN",187,3,1521.19,Nonstop,11.25,345.8,64665.47,1144743.75,564
+"Los Angeles, CA","Nashville, TN",187,3,1776.51,Nonstop,12.17,344.26,64376.64,1238019.17,564
+"Los Angeles, CA","New Bern, NC",187,3,2328.02,1-Stop,19.35,612.0,114444.0,1968629.72,564
+"Los Angeles, CA","New York, NY",187,3,2445.26,Nonstop,15.2,382.12,71456.54,1546676.0,564
+"Los Angeles, CA","Oklahoma City, OK",187,3,1178.07,Nonstop,9.89,430.14,80435.28,1006526.54,564
+"Los Angeles, CA","Omaha, NE",187,3,1313.39,Nonstop,10.58,529.71,99055.96,1076907.08,564
+"Los Angeles, CA","Orlando, FL",187,3,2197.28,Nonstop,13.93,389.32,72802.9,1417786.33,564
+"Los Angeles, CA","Philadelphia, PA",187,3,2387.86,Nonstop,14.75,383.95,71798.19,1500886.25,564
+"Los Angeles, CA","Phoenix, AZ",187,3,356.82,Nonstop,5.7,419.02,78357.05,580003.5,564
+"Los Angeles, CA","Pittsburgh, PA",187,3,2131.83,Nonstop,13.53,419.63,78470.61,1377084.33,564
+"Los Angeles, CA","Raleigh, NC",187,3,2231.54,Nonstop,14.0,456.65,85393.67,1424570.0,564
+"Los Angeles, CA","San Antonio, TX",187,3,1201.67,Nonstop,9.85,453.56,84814.88,1002286.75,564
+"Los Angeles, CA","San Diego, CA",187,3,111.03,Drive,4.84,62.17,11626.57,492976.71,564
+"Los Angeles, CA","San Francisco, CA",187,3,347.46,Nonstop,6.68,413.24,77276.31,680062.58,564
+"Los Angeles, CA","San Jose, CA",187,3,305.92,Nonstop,6.37,413.24,77276.31,647840.17,564
+"Los Angeles, CA","Seattle, WA",187,3,960.64,Nonstop,9.28,382.37,71502.58,944625.58,564
+"Los Angeles, CA","St. Louis, MO",187,3,1585.85,Nonstop,11.41,369.44,69085.31,1160854.96,564
+"Los Angeles, CA","St. Petersburg, FL",187,3,2143.36,Nonstop,13.59,373.67,69876.69,1383020.04,564
+"Los Angeles, CA","Washington, DC",187,3,2293.8,Nonstop,14.17,416.59,77902.91,1441529.17,564
+"Milwaukee, WI","Atlanta, GA",16,0,669.41,Nonstop,7.72,344.33,5509.3,67057.83,48
+"Milwaukee, WI","Austin, TX",16,0,1035.31,1-Stop,13.6,612.0,9792.0,118195.9,48
+"Milwaukee, WI","Baltimore, MD",16,0,641.65,Nonstop,7.53,386.47,6183.48,65464.67,48
+"Milwaukee, WI","Boston, MA",16,0,855.46,Nonstop,8.8,381.73,6107.61,76472.0,48
+"Milwaukee, WI","Cedar Rapids, IA",16,0,205.01,1-Stop,9.91,612.0,9792.0,86128.05,48
+"Milwaukee, WI","Champaign, IL",16,0,202.47,1-Stop,9.9,612.0,9792.0,86029.99,48
+"Milwaukee, WI","Charlotte, NC",16,0,658.81,Nonstop,8.1,422.02,6752.26,70389.0,48
+"Milwaukee, WI","Chicago, IL",16,0,81.41,Drive,3.55,45.59,729.43,30870.64,48
+"Milwaukee, WI","Cleveland, OH",16,0,335.25,1-Stop,10.49,612.0,9792.0,91158.07,48
+"Milwaukee, WI","Columbus, OH",16,0,331.33,1-Stop,10.47,612.0,9792.0,91006.59,48
+"Milwaukee, WI","Dallas, TX",16,0,857.59,Nonstop,8.4,352.04,5632.58,72996.0,48
+"Milwaukee, WI","Denver, CO",16,0,912.46,Nonstop,8.68,407.48,6519.69,75458.17,48
+"Milwaukee, WI","Detroit, MI",16,0,251.63,Nonstop,6.17,358.81,5740.99,53588.33,48
+"Milwaukee, WI","Fort Lauderdale, FL",16,0,1248.42,1-Stop,14.55,612.0,9792.0,126426.71,48
+"Milwaukee, WI","Hartford, CT",16,0,781.51,1-Stop,12.47,612.0,9792.0,108393.53,48
+"Milwaukee, WI","Houston, TX",16,0,1005.95,Nonstop,9.48,418.34,6693.47,82410.17,48
+"Milwaukee, WI","Iowa City, IA",16,0,207.97,1-Stop,9.92,612.0,9792.0,86242.14,48
+"Milwaukee, WI","Kansas City, MO",16,0,441.15,1-Stop,10.96,612.0,9792.0,95248.14,48
+"Milwaukee, WI","Las Vegas, NV",16,0,1517.44,Nonstop,11.08,398.61,6377.81,96241.75,48
+"Milwaukee, WI","Lincoln, NE",16,0,477.14,1-Stop,11.12,612.0,9792.0,96638.14,48
+"Milwaukee, WI","Los Angeles, CA",16,0,1741.12,Nonstop,12.28,451.45,7223.2,106742.17,48
+"Milwaukee, WI","Milwaukee, WI",16,0,0.0,Local,0.0,0.0,0.0,0.0,0
+"Milwaukee, WI","Minneapolis, MN",16,0,298.1,Nonstop,6.32,421.26,6740.18,54891.83,48
+"Milwaukee, WI","Nashville, TN",16,0,479.14,Nonstop,6.79,389.56,6232.9,59019.58,48
+"Milwaukee, WI","New Bern, NC",16,0,798.84,1-Stop,12.55,612.0,9792.0,109062.98,48
+"Milwaukee, WI","New York, NY",16,0,732.09,Nonstop,8.48,364.99,5839.84,73647.75,48
+"Milwaukee, WI","Oklahoma City, OK",16,0,732.48,1-Stop,12.26,612.0,9792.0,106499.94,48
+"Milwaukee, WI","Omaha, NE",16,0,428.64,1-Stop,10.91,612.0,9792.0,94765.21,48
+"Milwaukee, WI","Orlando, FL",16,0,1065.74,Nonstop,9.36,420.64,6730.23,81323.92,48
+"Milwaukee, WI","Philadelphia, PA",16,0,692.21,Nonstop,8.12,350.39,5606.24,70533.83,48
+"Milwaukee, WI","Phoenix, AZ",16,0,1461.67,Nonstop,9.98,401.36,6421.71,86755.17,48
+"Milwaukee, WI","Pittsburgh, PA",16,0,445.38,1-Stop,10.98,612.0,9792.0,95411.72,48
+"Milwaukee, WI","Raleigh, NC",16,0,703.78,1-Stop,12.13,612.0,9792.0,105391.67,48
+"Milwaukee, WI","San Antonio, TX",16,0,1108.46,1-Stop,13.93,612.0,9792.0,121021.08,48
+"Milwaukee, WI","San Diego, CA",16,0,1735.65,1-Stop,16.71,612.0,9792.0,145244.68,48
+"Milwaukee, WI","San Francisco, CA",16,0,1838.33,1-Stop,17.17,612.0,9792.0,149210.26,48
+"Milwaukee, WI","San Jose, CA",16,0,1823.07,1-Stop,17.1,612.0,9792.0,148621.1,48
+"Milwaukee, WI","Seattle, WA",16,0,1687.17,Nonstop,11.96,407.96,6527.44,103917.92,48
+"Milwaukee, WI","St. Louis, MO",16,0,327.34,Nonstop,6.22,395.13,6322.08,54022.83,48
+"Milwaukee, WI","St. Petersburg, FL",16,0,1095.41,Nonstop,9.18,393.21,6291.28,79803.17,48
+"Milwaukee, WI","Washington, DC",16,0,634.11,Nonstop,7.62,378.04,6048.69,66188.83,48
+"Minneapolis, MN","Atlanta, GA",215,3,908.14,Nonstop,8.78,332.24,71430.78,941397.67,648
+"Minneapolis, MN","Austin, TX",215,3,1044.95,Nonstop,9.25,415.79,89394.15,991415.0,648
+"Minneapolis, MN","Baltimore, MD",215,3,937.47,Nonstop,8.85,400.56,86119.36,948543.0,648
+"Minneapolis, MN","Boston, MA",215,3,1121.02,Nonstop,9.78,355.88,76515.07,1048577.67,648
+"Minneapolis, MN","Cedar Rapids, IA",215,3,222.25,Nonstop,6.07,438.06,94182.21,650225.33,648
+"Minneapolis, MN","Champaign, IL",215,3,422.08,1-Stop,10.88,612.0,131580.0,1165681.33,648
+"Minneapolis, MN","Charlotte, NC",215,3,938.82,Nonstop,8.97,379.24,81537.49,961047.33,648
+"Minneapolis, MN","Chicago, IL",215,3,354.77,Nonstop,6.67,389.21,83680.6,714533.33,648
+"Minneapolis, MN","Cleveland, OH",215,3,629.79,Nonstop,7.77,512.62,110214.02,832431.33,648
+"Minneapolis, MN","Columbus, OH",215,3,627.16,Nonstop,7.62,478.51,102879.65,817247.5,648
+"Minneapolis, MN","Dallas, TX",215,3,863.83,Nonstop,8.7,393.86,84680.59,932466.0,648
+"Minneapolis, MN","Denver, CO",215,3,698.35,Nonstop,7.87,360.31,77466.63,843149.33,648
+"Minneapolis, MN","Detroit, MI",215,3,542.26,Nonstop,7.27,317.76,68318.55,778841.33,648
+"Minneapolis, MN","Fort Lauderdale, FL",215,3,1493.17,Nonstop,11.05,355.3,76389.61,1184339.0,648
+"Minneapolis, MN","Hartford, CT",215,3,1055.25,Nonstop,9.35,348.37,74899.2,1002133.0,648
+"Minneapolis, MN","Houston, TX",215,3,1057.81,Nonstop,9.53,362.95,78035.16,1021782.67,648
+"Minneapolis, MN","Iowa City, IA",215,3,245.49,Nonstop,6.07,438.06,94182.21,650225.33,648
+"Minneapolis, MN","Kansas City, MO",215,3,411.78,Nonstop,6.68,437.98,94165.48,716319.67,648
+"Minneapolis, MN","Las Vegas, NV",215,3,1293.35,Nonstop,10.27,375.14,80654.5,1100381.33,648
+"Minneapolis, MN","Lincoln, NE",215,3,336.31,1-Stop,10.49,612.0,131580.0,1124824.93,648
+"Minneapolis, MN","Los Angeles, CA",215,3,1521.19,Nonstop,11.25,345.8,74348.0,1205775.0,648
+"Minneapolis, MN","Milwaukee, WI",215,3,298.1,Nonstop,6.32,421.26,90571.23,677020.33,648
+"Minneapolis, MN","Minneapolis, MN",215,3,0.0,Local,0.0,0.0,0.0,0.0,0
+"Minneapolis, MN","Nashville, TN",215,3,697.58,Nonstop,7.95,359.93,77385.2,852081.0,648
+"Minneapolis, MN","New Bern, NC",215,3,1092.84,1-Stop,13.86,612.0,131580.0,1485201.0,648
+"Minneapolis, MN","New York, NY",215,3,1016.51,Nonstop,9.55,363.44,78138.78,1023569.0,648
+"Minneapolis, MN","Oklahoma City, OK",215,3,694.01,Nonstop,8.02,430.12,92475.8,859226.33,648
+"Minneapolis, MN","Omaha, NE",215,3,289.89,Nonstop,6.33,495.41,106513.02,678806.67,648
+"Minneapolis, MN","Orlando, FL",215,3,1309.55,Nonstop,10.5,429.55,92353.69,1125390.0,648
+"Minneapolis, MN","Philadelphia, PA",215,3,983.23,Nonstop,9.21,402.73,86586.72,986949.17,648
+"Minneapolis, MN","Phoenix, AZ",215,3,1278.12,Nonstop,9.33,443.24,95296.98,1000346.67,648
+"Minneapolis, MN","Pittsburgh, PA",215,3,741.97,Nonstop,8.07,375.91,80821.62,864585.33,648
+"Minneapolis, MN","Raleigh, NC",215,3,995.8,Nonstop,9.02,490.09,105369.61,967299.5,648
+"Minneapolis, MN","San Antonio, TX",215,3,1112.19,Nonstop,9.4,390.05,83859.79,1007492.0,648
+"Minneapolis, MN","San Diego, CA",215,3,1530.35,Nonstop,11.21,415.45,89321.75,1201309.17,648
+"Minneapolis, MN","San Francisco, CA",215,3,1581.34,Nonstop,11.4,399.54,85900.69,1221852.0,648
+"Minneapolis, MN","San Jose, CA",215,3,1569.76,Nonstop,11.4,381.02,81918.76,1221852.0,648
+"Minneapolis, MN","Seattle, WA",215,3,1390.88,Nonstop,10.73,356.04,76549.49,1150398.67,648
+"Minneapolis, MN","St. Louis, MO",215,3,466.27,Nonstop,6.85,429.45,92332.08,734183.0,648
+"Minneapolis, MN","St. Petersburg, FL",215,3,1325.29,Nonstop,10.35,420.44,90394.06,1109313.0,648
+"Minneapolis, MN","Washington, DC",215,3,931.28,Nonstop,8.92,337.39,72538.59,955688.33,648
+"Nashville, TN","Atlanta, GA",18,0,214.57,Nonstop,29.8,445.93,8026.76,254492.0,54
+"Nashville, TN","Austin, TX",18,0,752.21,Nonstop,7.98,371.72,6691.01,68177.67,54
+"Nashville, TN","Baltimore, MD",18,0,595.95,Nonstop,7.33,413.99,7451.89,62626.67,54
+"Nashville, TN","Boston, MA",18,0,941.77,Nonstop,9.1,375.17,6753.1,77714.0,54
+"Nashville, TN","Cedar Rapids, IA",18,0,479.92,Nonstop,6.92,410.78,7394.04,59068.33,54
+"Nashville, TN","Champaign, IL",18,0,284.87,1-Stop,10.27,612.0,11016.0,87672.44,54
+"Nashville, TN","Charlotte, NC",18,0,339.39,Nonstop,6.57,394.93,7108.65,56079.33,54
+"Nashville, TN","Chicago, IL",18,0,397.84,Nonstop,6.57,416.2,7491.63,56079.33,54
+"Nashville, TN","Cleveland, OH",18,0,459.36,Nonstop,6.74,379.11,6823.97,57573.83,54
+"Nashville, TN","Columbus, OH",18,0,333.43,Nonstop,6.24,370.94,6676.91,53303.83,54
+"Nashville, TN","Dallas, TX",18,0,616.3,Nonstop,7.37,372.53,6705.46,62911.33,54
+"Nashville, TN","Denver, CO",18,0,1020.54,Nonstop,9.12,399.53,7191.57,77856.33,54
+"Nashville, TN","Detroit, MI",18,0,470.59,Nonstop,6.95,398.07,7165.29,59353.0,54
+"Nashville, TN","Fort Lauderdale, FL",18,0,796.58,Nonstop,8.28,433.13,7796.32,70739.67,54
+"Nashville, TN","Hartford, CT",18,0,849.64,Nonstop,8.43,372.56,6706.0,72020.67,54
+"Nashville, TN","Houston, TX",18,0,665.45,Nonstop,7.72,371.28,6683.06,65900.33,54
+"Nashville, TN","Iowa City, IA",18,0,457.68,Nonstop,6.92,410.78,7394.04,59068.33,54
+"Nashville, TN","Kansas City, MO",18,0,472.46,Nonstop,6.93,387.49,6974.86,59210.67,54
+"Nashville, TN","Las Vegas, NV",18,0,1576.24,Nonstop,11.27,385.72,6942.97,96217.33,54
+"Nashville, TN","Lincoln, NE",18,0,624.78,1-Stop,11.78,612.0,11016.0,100573.71,54
+"Nashville, TN","Los Angeles, CA",18,0,1776.51,Nonstop,12.17,344.26,6196.68,103903.33,54
+"Nashville, TN","Milwaukee, WI",18,0,479.14,Nonstop,6.79,389.56,7012.01,58000.83,54
+"Nashville, TN","Minneapolis, MN",18,0,697.58,Nonstop,7.95,359.93,6478.76,67893.0,54
+"Nashville, TN","Nashville, TN",18,0,0.0,Local,0.0,0.0,0.0,0.0,0
+"Nashville, TN","New Bern, NC",18,0,551.51,1-Stop,11.45,612.0,11016.0,97792.77,54
+"Nashville, TN","New York, NY",18,0,758.3,Nonstop,8.42,360.87,6495.61,71878.33,54
+"Nashville, TN","Oklahoma City, OK",18,0,603.33,1-Stop,11.68,612.0,11016.0,99759.64,54
+"Nashville, TN","Omaha, NE",18,0,605.7,1-Stop,11.69,612.0,11016.0,99849.62,54
+"Nashville, TN","Orlando, FL",18,0,613.36,Nonstop,7.55,465.53,8379.6,64477.0,54
+"Nashville, TN","Philadelphia, PA",18,0,683.1,Nonstop,8.0,429.34,7728.15,68320.0,54
+"Nashville, TN","Phoenix, AZ",18,0,1442.81,Nonstop,10.92,441.45,7946.13,93299.5,54
+"Nashville, TN","Pittsburgh, PA",18,0,471.56,Nonstop,6.73,434.91,7828.37,57502.67,54
+"Nashville, TN","Raleigh, NC",18,0,455.81,Nonstop,6.88,385.01,6930.14,58783.67,54
+"Nashville, TN","San Antonio, TX",18,0,823.31,Nonstop,8.32,463.57,8344.24,71024.33,54
+"Nashville, TN","San Diego, CA",18,0,1740.22,Nonstop,11.9,358.27,6448.78,101626.0,54
+"Nashville, TN","San Francisco, CA",18,0,1958.8,Nonstop,12.97,433.32,7799.77,110735.33,54
+"Nashville, TN","San Jose, CA",18,0,1934.25,Nonstop,12.97,433.32,7799.77,110735.33,54
+"Nashville, TN","Seattle, WA",18,0,1970.62,Nonstop,13.11,429.55,7731.86,111945.17,54
+"Nashville, TN","St. Louis, MO",18,0,253.67,Nonstop,6.05,430.07,7741.27,51667.0,54
+"Nashville, TN","St. Petersburg, FL",18,0,628.26,Nonstop,7.42,338.11,6085.98,63338.33,54
+"Nashville, TN","Washington, DC",18,0,566.12,Nonstop,7.33,363.49,6542.73,62626.67,54
+"New Bern, NC","Atlanta, GA",2,0,429.17,1-Stop,10.91,612.0,1224.0,10907.44,6
+"New Bern, NC","Austin, TX",2,0,1246.66,1-Stop,14.54,612.0,1224.0,14540.73,6
+"New Bern, NC","Baltimore, MD",2,0,289.78,1-Stop,10.29,612.0,1224.0,10287.91,6
+"New Bern, NC","Boston, MA",2,0,595.29,1-Stop,11.65,612.0,1224.0,11645.73,6
+"New Bern, NC","Cedar Rapids, IA",2,0,920.26,1-Stop,13.09,612.0,1224.0,13090.02,6
+"New Bern, NC","Champaign, IL",2,0,703.19,1-Stop,12.13,612.0,1224.0,12125.28,6
+"New Bern, NC","Charlotte, NC",2,0,214.77,Nonstop,6.27,366.5,733.01,6266.67,6
+"New Bern, NC","Chicago, IL",2,0,738.44,1-Stop,12.28,612.0,1224.0,12281.97,6
+"New Bern, NC","Cleveland, OH",2,0,508.23,1-Stop,11.26,612.0,1224.0,11258.79,6
+"New Bern, NC","Columbus, OH",2,0,467.67,1-Stop,11.08,612.0,1224.0,11078.55,6
+"New Bern, NC","Dallas, TX",2,0,1142.07,1-Stop,14.08,612.0,1224.0,14075.88,6
+"New Bern, NC","Denver, CO",2,0,1559.95,1-Stop,15.93,612.0,1224.0,15933.1,6
+"New Bern, NC","Detroit, MI",2,0,594.46,1-Stop,11.64,612.0,1224.0,11642.05,6
+"New Bern, NC","Fort Lauderdale, FL",2,0,647.82,1-Stop,11.88,612.0,1224.0,11879.19,6
+"New Bern, NC","Hartford, CT",2,0,516.59,1-Stop,11.3,612.0,1224.0,11295.95,6
+"New Bern, NC","Houston, TX",2,0,1128.97,1-Stop,14.02,612.0,1224.0,14017.65,6
+"New Bern, NC","Iowa City, IA",2,0,904.15,1-Stop,13.02,612.0,1224.0,13018.44,6
+"New Bern, NC","Kansas City, MO",2,0,1003.25,1-Stop,13.46,612.0,1224.0,13458.87,6
+"New Bern, NC","Las Vegas, NV",2,0,2126.83,1-Stop,18.45,612.0,1224.0,18452.58,6
+"New Bern, NC","Lincoln, NE",2,0,1138.07,1-Stop,14.06,612.0,1224.0,14058.1,6
+"New Bern, NC","Los Angeles, CA",2,0,2328.02,1-Stop,19.35,612.0,1224.0,19346.76,6
+"New Bern, NC","Milwaukee, WI",2,0,798.84,1-Stop,12.55,612.0,1224.0,12550.4,6
+"New Bern, NC","Minneapolis, MN",2,0,1092.84,1-Stop,13.86,612.0,1224.0,13857.07,6
+"New Bern, NC","Nashville, TN",2,0,551.51,1-Stop,11.45,612.0,1224.0,11451.14,6
+"New Bern, NC","New Bern, NC",2,0,0.0,Local,0.0,0.0,0.0,0.0,0
+"New Bern, NC","New York, NY",2,0,420.63,1-Stop,10.87,612.0,1224.0,10869.48,6
+"New Bern, NC","Oklahoma City, OK",2,0,1153.21,1-Stop,14.13,612.0,1224.0,14125.38,6
+"New Bern, NC","Omaha, NE",2,0,1107.47,1-Stop,13.92,612.0,1224.0,13922.08,6
+"New Bern, NC","Orlando, FL",2,0,520.41,1-Stop,11.31,612.0,1224.0,11312.92,6
+"New Bern, NC","Philadelphia, PA",2,0,349.74,1-Stop,10.55,612.0,1224.0,10554.38,6
+"New Bern, NC","Phoenix, AZ",2,0,1992.95,1-Stop,17.86,612.0,1224.0,17857.54,6
+"New Bern, NC","Pittsburgh, PA",2,0,402.12,1-Stop,10.79,612.0,1224.0,10787.21,6
+"New Bern, NC","Raleigh, NC",2,0,101.26,Drive,4.42,56.71,113.41,4418.68,6
+"New Bern, NC","San Antonio, TX",2,0,1310.35,1-Stop,14.82,612.0,1224.0,14823.76,6
+"New Bern, NC","San Diego, CA",2,0,2290.89,1-Stop,19.18,612.0,1224.0,19181.72,6
+"New Bern, NC","San Francisco, CA",2,0,2504.42,1-Stop,20.13,612.0,1224.0,20130.74,6
+"New Bern, NC","San Jose, CA",2,0,2481.1,1-Stop,20.03,612.0,1224.0,20027.09,6
+"New Bern, NC","Seattle, WA",2,0,2461.9,1-Stop,19.94,612.0,1224.0,19941.78,6
+"New Bern, NC","St. Louis, MO",2,0,766.16,1-Stop,12.41,612.0,1224.0,12405.17,6
+"New Bern, NC","St. Petersburg, FL",2,0,604.85,1-Stop,11.69,612.0,1224.0,11688.21,6
+"New Bern, NC","Washington, DC",2,0,262.56,1-Stop,10.17,612.0,1224.0,10166.92,6
+"New York, NY","Atlanta, GA",297,3,745.6,Nonstop,8.22,367.8,109235.66,1495679.83,894
+"New York, NY","Austin, TX",297,3,1510.42,Nonstop,11.34,357.79,106262.22,2064523.58,894
+"New York, NY","Baltimore, MD",297,3,169.0,Nonstop,5.98,384.88,114309.54,1089146.17,894
+"New York, NY","Boston, MA",297,3,190.44,Nonstop,6.3,365.42,108529.79,1146789.0,894
+"New York, NY","Cedar Rapids, IA",297,3,918.61,1-Stop,13.08,612.0,181764.0,2381445.26,894
+"New York, NY","Champaign, IL",297,3,748.87,1-Stop,12.33,612.0,181764.0,2244124.89,894
+"New York, NY","Charlotte, NC",297,3,530.48,Nonstop,7.59,351.89,104511.3,1381911.08,894
+"New York, NY","Chicago, IL",297,3,710.88,Nonstop,8.12,365.2,108465.22,1477476.83,894
+"New York, NY","Cleveland, OH",297,3,403.41,Nonstop,7.02,361.52,107370.74,1278760.75,894
+"New York, NY","Columbus, OH",297,3,476.1,Nonstop,7.53,353.45,104973.47,1371292.67,894
+"New York, NY","Dallas, TX",297,3,1370.37,Nonstop,10.68,367.6,109175.84,1943170.25,894
+"New York, NY","Denver, CO",297,3,1627.22,Nonstop,11.7,363.79,108046.13,2129751.0,894
+"New York, NY","Detroit, MI",297,3,480.61,Nonstop,7.53,363.46,107946.16,1371292.67,894
+"New York, NY","Fort Lauderdale, FL",297,3,1067.53,Nonstop,9.78,380.04,112871.14,1780860.17,894
+"New York, NY","Hartford, CT",297,3,100.55,Drive,4.39,56.31,16723.68,798691.13,894
+"New York, NY","Houston, TX",297,3,1417.33,Nonstop,11.08,376.53,111829.41,2017499.17,894
+"New York, NY","Iowa City, IA",297,3,911.81,1-Stop,13.05,612.0,181764.0,2375947.18,894
+"New York, NY","Kansas City, MO",297,3,1093.4,Nonstop,9.9,341.32,101371.51,1802097.0,894
+"New York, NY","Las Vegas, NV",297,3,2227.37,Nonstop,14.23,392.31,116516.04,2590893.67,894
+"New York, NY","Lincoln, NE",297,3,1184.17,1-Stop,14.26,612.0,181764.0,2596293.83,894
+"New York, NY","Los Angeles, CA",297,3,2445.26,Nonstop,15.2,382.12,113489.8,2766856.0,894
+"New York, NY","Milwaukee, WI",297,3,732.09,Nonstop,8.48,364.99,108402.03,1542704.25,894
+"New York, NY","Minneapolis, MN",297,3,1016.51,Nonstop,9.55,363.44,107940.54,1738386.5,894
+"New York, NY","Nashville, TN",297,3,758.3,Nonstop,8.42,360.87,107177.56,1532085.83,894
+"New York, NY","New Bern, NC",297,3,420.63,1-Stop,10.87,612.0,181764.0,1978571.33,894
+"New York, NY","New York, NY",297,3,0.0,Local,0.0,0.0,0.0,0.0,0
+"New York, NY","Oklahoma City, OK",297,3,1324.21,Nonstop,10.95,413.34,122761.98,1993228.5,894
+"New York, NY","Omaha, NE",297,3,1140.9,Nonstop,10.03,451.74,134166.34,1826367.67,894
+"New York, NY","Orlando, FL",297,3,938.6,Nonstop,9.32,370.3,109978.93,1695912.83,894
+"New York, NY","Philadelphia, PA",297,3,80.56,Drive,3.52,45.12,13399.29,639924.8,894
+"New York, NY","Phoenix, AZ",297,3,2139.37,Nonstop,13.48,453.3,134628.94,2454371.17,894
+"New York, NY","Pittsburgh, PA",297,3,314.85,Nonstop,6.78,415.93,123532.65,1234770.17,894
+"New York, NY","Raleigh, NC",297,3,423.12,Nonstop,7.23,352.47,104683.34,1316683.67,894
+"New York, NY","San Antonio, TX",297,3,1581.14,Nonstop,11.87,273.27,81161.19,2160089.33,894
+"New York, NY","San Diego, CA",297,3,2427.43,Nonstop,15.02,422.2,125393.23,2735000.75,894
+"New York, NY","San Francisco, CA",297,3,2565.7,Nonstop,15.42,383.75,113973.1,2806295.83,894
+"New York, NY","San Jose, CA",297,3,2548.78,Nonstop,15.42,375.67,111573.99,2806295.83,894
+"New York, NY","Seattle, WA",297,3,2401.73,Nonstop,15.02,374.53,111236.89,2733483.83,894
+"New York, NY","St. Louis, MO",297,3,871.66,Nonstop,8.96,328.08,97440.63,1630685.42,894
+"New York, NY","St. Petersburg, FL",297,3,1019.68,Nonstop,9.47,339.94,100963.15,1723217.33,894
+"New York, NY","Washington, DC",297,3,203.28,Nonstop,6.42,320.83,95285.35,1168025.83,894
+"Oklahoma City, OK","Atlanta, GA",28,0,755.47,Nonstop,8.02,373.41,10455.46,97041.75,84
+"Oklahoma City, OK","Austin, TX",28,0,359.52,Nonstop,6.35,453.54,12699.02,76866.75,84
+"Oklahoma City, OK","Baltimore, MD",28,0,1175.11,1-Stop,14.22,612.0,17136.0,172166.14,84
+"Oklahoma City, OK","Boston, MA",28,0,1492.85,1-Stop,15.63,612.0,17136.0,189260.37,84
+"Oklahoma City, OK","Cedar Rapids, IA",28,0,549.01,1-Stop,11.44,612.0,17136.0,138481.85,84
+"Oklahoma City, OK","Champaign, IL",28,0,599.45,1-Stop,11.66,612.0,17136.0,141195.4,84
+"Oklahoma City, OK","Charlotte, NC",28,0,939.04,Nonstop,9.17,464.98,13019.42,110962.5,84
+"Oklahoma City, OK","Chicago, IL",28,0,692.54,Nonstop,7.62,411.24,11514.62,92199.75,84
+"Oklahoma City, OK","Cleveland, OH",28,0,950.17,1-Stop,13.22,612.0,17136.0,160064.3,84
+"Oklahoma City, OK","Columbus, OH",28,0,850.84,1-Stop,12.78,612.0,17136.0,154720.18,84
+"Oklahoma City, OK","Dallas, TX",28,0,190.37,Nonstop,5.97,409.57,11467.86,72226.5,84
+"Oklahoma City, OK","Denver, CO",28,0,503.92,Nonstop,7.17,435.31,12188.72,86752.5,84
+"Oklahoma City, OK","Detroit, MI",28,0,909.21,1-Stop,13.04,612.0,17136.0,157860.45,84
+"Oklahoma City, OK","Fort Lauderdale, FL",28,0,1214.24,1-Stop,14.4,612.0,17136.0,174271.29,84
+"Oklahoma City, OK","Hartford, CT",28,0,1404.41,1-Stop,15.24,612.0,17136.0,184502.01,84
+"Oklahoma City, OK","Houston, TX",28,0,413.86,Nonstop,6.57,349.94,9798.32,79489.5,84
+"Oklahoma City, OK","Iowa City, IA",28,0,536.01,1-Stop,11.38,612.0,17136.0,137782.49,84
+"Oklahoma City, OK","Kansas City, MO",28,0,298.33,1-Stop,10.33,612.0,17136.0,124995.27,84
+"Oklahoma City, OK","Las Vegas, NV",28,0,987.0,Nonstop,8.85,430.61,12057.22,107129.25,84
+"Oklahoma City, OK","Lincoln, NE",28,0,371.64,1-Stop,10.65,612.0,17136.0,128939.13,84
+"Oklahoma City, OK","Los Angeles, CA",28,0,1178.07,Nonstop,9.89,430.14,12043.78,119738.62,84
+"Oklahoma City, OK","Milwaukee, WI",28,0,732.48,1-Stop,12.26,612.0,17136.0,148352.33,84
+"Oklahoma City, OK","Minneapolis, MN",28,0,694.01,Nonstop,8.02,430.12,12043.36,97041.75,84
+"Oklahoma City, OK","Nashville, TN",28,0,603.33,1-Stop,11.68,612.0,17136.0,141404.04,84
+"Oklahoma City, OK","New Bern, NC",28,0,1153.21,1-Stop,14.13,612.0,17136.0,170987.73,84
+"Oklahoma City, OK","New York, NY",28,0,1324.21,Nonstop,10.95,413.34,11573.52,132549.75,84
+"Oklahoma City, OK","Oklahoma City, OK",28,0,0.0,Local,0.0,0.0,0.0,0.0,0
+"Oklahoma City, OK","Omaha, NE",28,0,409.2,1-Stop,10.82,612.0,17136.0,130960.0,84
+"Oklahoma City, OK","Orlando, FL",28,0,1058.08,1-Stop,13.7,612.0,17136.0,165869.55,84
+"Oklahoma City, OK","Philadelphia, PA",28,0,1256.61,1-Stop,14.58,612.0,17136.0,176550.59,84
+"Oklahoma City, OK","Phoenix, AZ",28,0,839.77,Nonstop,8.27,365.66,10238.46,100068.0,84
+"Oklahoma City, OK","Pittsburgh, PA",28,0,1012.26,1-Stop,13.5,612.0,17136.0,163404.54,84
+"Oklahoma City, OK","Raleigh, NC",28,0,1058.93,1-Stop,13.71,612.0,17136.0,165915.45,84
+"Oklahoma City, OK","San Antonio, TX",28,0,421.82,Nonstop,6.52,340.24,9526.72,78884.25,84
+"Oklahoma City, OK","San Diego, CA",28,0,1137.73,1-Stop,14.06,612.0,17136.0,170154.9,84
+"Oklahoma City, OK","San Francisco, CA",28,0,1385.83,1-Stop,15.16,612.0,17136.0,183502.51,84
+"Oklahoma City, OK","San Jose, CA",28,0,1357.58,1-Stop,15.03,612.0,17136.0,181982.66,84
+"Oklahoma City, OK","Seattle, WA",28,0,1522.43,Nonstop,11.3,471.84,13211.52,136786.5,84
+"Oklahoma City, OK","St. Louis, MO",28,0,458.71,Nonstop,6.72,407.11,11399.08,81305.25,84
+"Oklahoma City, OK","St. Petersburg, FL",28,0,1022.68,1-Stop,13.55,612.0,17136.0,163965.13,84
+"Oklahoma City, OK","Washington, DC",28,0,1149.45,Nonstop,9.88,421.67,11806.62,119637.75,84
+"Omaha, NE","Atlanta, GA",25,0,816.86,Nonstop,8.31,445.83,11145.87,95213.5,75
+"Omaha, NE","Austin, TX",25,0,766.04,1-Stop,12.4,612.0,15300.0,142157.05,75
+"Omaha, NE","Baltimore, MD",25,0,1025.35,1-Stop,13.56,612.0,15300.0,155364.42,75
+"Omaha, NE","Boston, MA",25,0,1278.49,1-Stop,14.68,612.0,15300.0,168257.59,75
+"Omaha, NE","Cedar Rapids, IA",25,0,225.57,1-Stop,10.0,612.0,15300.0,114628.84,75
+"Omaha, NE","Champaign, IL",25,0,410.36,1-Stop,10.82,612.0,15300.0,124041.16,75
+"Omaha, NE","Charlotte, NC",25,0,916.97,Nonstop,9.08,453.58,11339.44,104095.0,75
+"Omaha, NE","Chicago, IL",25,0,431.01,Nonstop,6.58,394.77,9869.29,75445.0,75
+"Omaha, NE","Cleveland, OH",25,0,737.61,1-Stop,12.28,612.0,15300.0,140709.09,75
+"Omaha, NE","Columbus, OH",25,0,683.49,1-Stop,12.04,612.0,15300.0,137952.48,75
+"Omaha, NE","Dallas, TX",25,0,587.87,Nonstop,7.28,357.89,8947.25,83467.0,75
+"Omaha, NE","Denver, CO",25,0,487.21,Nonstop,6.92,425.77,10644.26,79265.0,75
+"Omaha, NE","Detroit, MI",25,0,666.93,Nonstop,7.77,474.02,11850.47,89006.0,75
+"Omaha, NE","Fort Lauderdale, FL",25,0,1380.39,1-Stop,15.14,612.0,15300.0,173447.85,75
+"Omaha, NE","Hartford, CT",25,0,1200.31,1-Stop,14.33,612.0,15300.0,164275.6,75
+"Omaha, NE","Houston, TX",25,0,795.2,Nonstop,8.18,349.94,8748.5,93781.0,75
+"Omaha, NE","Iowa City, IA",25,0,229.48,1-Stop,10.02,612.0,15300.0,114828.07,75
+"Omaha, NE","Kansas City, MO",25,0,165.38,1-Stop,9.74,612.0,15300.0,111563.32,75
+"Omaha, NE","Las Vegas, NV",25,0,1090.98,Nonstop,9.33,392.95,9823.77,106960.0,75
+"Omaha, NE","Lincoln, NE",25,0,50.77,Drive,2.22,28.43,710.73,25386.75,75
+"Omaha, NE","Los Angeles, CA",25,0,1313.39,Nonstop,10.58,529.71,13242.78,121285.0,75
+"Omaha, NE","Milwaukee, WI",25,0,428.64,1-Stop,10.91,612.0,15300.0,124972.3,75
+"Omaha, NE","Minneapolis, MN",25,0,289.89,Nonstop,6.33,495.41,12385.23,72580.0,75
+"Omaha, NE","Nashville, TN",25,0,605.7,1-Stop,11.69,612.0,15300.0,133990.24,75
+"Omaha, NE","New Bern, NC",25,0,1107.47,1-Stop,13.92,612.0,15300.0,159547.07,75
+"Omaha, NE","New York, NY",25,0,1140.9,Nonstop,10.03,451.74,11293.46,114982.0,75
+"Omaha, NE","Oklahoma City, OK",25,0,409.2,1-Stop,10.82,612.0,15300.0,123981.96,75
+"Omaha, NE","Omaha, NE",25,0,0.0,Local,0.0,0.0,0.0,0.0,0
+"Omaha, NE","Orlando, FL",25,0,1201.73,1-Stop,14.34,612.0,15300.0,164348.13,75
+"Omaha, NE","Philadelphia, PA",25,0,1090.16,1-Stop,13.85,612.0,15300.0,158665.45,75
+"Omaha, NE","Phoenix, AZ",25,0,1035.24,Nonstop,8.27,312.18,7804.38,94736.0,75
+"Omaha, NE","Pittsburgh, PA",25,0,833.33,1-Stop,12.7,612.0,15300.0,145584.09,75
+"Omaha, NE","Raleigh, NC",25,0,1006.21,1-Stop,13.47,612.0,15300.0,154389.72,75
+"Omaha, NE","San Antonio, TX",25,0,830.59,1-Stop,12.69,612.0,15300.0,145444.62,75
+"Omaha, NE","San Diego, CA",25,0,1307.03,1-Stop,14.81,612.0,15300.0,169711.27,75
+"Omaha, NE","San Francisco, CA",25,0,1426.71,1-Stop,15.34,612.0,15300.0,175807.07,75
+"Omaha, NE","San Jose, CA",25,0,1408.67,1-Stop,15.26,612.0,15300.0,174888.35,75
+"Omaha, NE","Seattle, WA",25,0,1366.53,Nonstop,10.72,421.71,10542.77,122813.0,75
+"Omaha, NE","St. Louis, MO",25,0,353.65,Nonstop,6.2,348.61,8715.25,71052.0,75
+"Omaha, NE","St. Petersburg, FL",25,0,1197.5,1-Stop,14.32,612.0,15300.0,164132.72,75
+"Omaha, NE","Washington, DC",25,0,1009.62,Nonstop,9.23,445.85,11146.29,105814.0,75
+"Orlando, FL","Atlanta, GA",92,4,401.52,Nonstop,6.8,365.3,33607.58,354212.0,280
+"Orlando, FL","Austin, TX",92,4,991.1,Nonstop,8.98,429.32,39497.85,467941.83,280
+"Orlando, FL","Baltimore, MD",92,4,791.18,Nonstop,8.33,404.89,37250.29,434083.33,280
+"Orlando, FL","Boston, MA",92,4,1115.69,Nonstop,9.98,376.91,34675.54,520031.83,280
+"Orlando, FL","Cedar Rapids, IA",92,4,1093.25,1-Stop,13.86,612.0,56304.0,721909.47,280
+"Orlando, FL","Champaign, IL",92,4,889.98,1-Stop,12.96,612.0,56304.0,674851.18,280
+"Orlando, FL","Charlotte, NC",92,4,463.32,Nonstop,7.22,366.22,33692.23,375916.17,280
+"Orlando, FL","Chicago, IL",92,4,986.21,Nonstop,8.98,392.55,36114.78,467941.83,280
+"Orlando, FL","Cleveland, OH",92,4,895.63,Nonstop,8.83,390.12,35891.18,460128.33,280
+"Orlando, FL","Columbus, OH",92,4,794.42,Nonstop,8.28,401.77,36962.88,431478.83,280
+"Orlando, FL","Dallas, TX",92,4,961.08,Nonstop,8.85,390.88,35960.79,460996.5,280
+"Orlando, FL","Denver, CO",92,4,1549.12,Nonstop,11.27,376.65,34651.92,586880.67,280
+"Orlando, FL","Detroit, MI",92,4,957.38,Nonstop,9.1,377.01,34684.47,474019.0,280
+"Orlando, FL","Fort Lauderdale, FL",92,4,183.71,Nonstop,6.02,400.19,36817.53,313408.17,280
+"Orlando, FL","Hartford, CT",92,4,1036.17,Nonstop,9.55,445.67,41001.4,497459.5,280
+"Orlando, FL","Houston, TX",92,4,847.87,Nonstop,8.47,377.7,34748.74,441028.67,280
+"Orlando, FL","Iowa City, IA",92,4,1071.04,1-Stop,13.76,612.0,56304.0,716766.55,280
+"Orlando, FL","Kansas City, MO",92,4,1049.71,Nonstop,9.4,402.19,37001.36,489646.0,280
+"Orlando, FL","Las Vegas, NV",92,4,2028.57,Nonstop,13.33,355.78,32731.46,694533.33,280
+"Orlando, FL","Lincoln, NE",92,4,1211.61,1-Stop,14.38,612.0,56304.0,749311.17,280
+"Orlando, FL","Los Angeles, CA",92,4,2197.28,Nonstop,13.93,389.32,35817.47,725787.33,280
+"Orlando, FL","Milwaukee, WI",92,4,1065.74,Nonstop,9.36,420.64,38698.84,487475.58,280
+"Orlando, FL","Minneapolis, MN",92,4,1309.55,Nonstop,10.5,429.55,39518.79,546945.0,280
+"Orlando, FL","Nashville, TN",92,4,613.36,Nonstop,7.55,465.53,42829.05,393279.5,280
+"Orlando, FL","New Bern, NC",92,4,520.41,1-Stop,11.31,612.0,56304.0,589289.97,280
+"Orlando, FL","New York, NY",92,4,938.6,Nonstop,9.32,370.3,34067.55,485305.17,280
+"Orlando, FL","Oklahoma City, OK",92,4,1058.08,1-Stop,13.7,612.0,56304.0,713766.63,280
+"Orlando, FL","Omaha, NE",92,4,1201.73,1-Stop,14.34,612.0,56304.0,747023.92,280
+"Orlando, FL","Orlando, FL",92,4,0.0,Local,0.0,0.0,0.0,0.0,0
+"Orlando, FL","Philadelphia, PA",92,4,863.88,Nonstop,8.92,467.98,43054.07,464469.17,280
+"Orlando, FL","Phoenix, AZ",92,4,1842.18,Nonstop,11.5,432.28,39769.51,599035.0,280
+"Orlando, FL","Pittsburgh, PA",92,4,825.93,Nonstop,8.4,355.8,32733.51,437556.0,280
+"Orlando, FL","Raleigh, NC",92,4,525.22,Nonstop,7.33,450.6,41455.32,381993.33,280
+"Orlando, FL","San Antonio, TX",92,4,1035.04,Nonstop,9.2,501.64,46150.55,479228.0,280
+"Orlando, FL","San Diego, CA",92,4,2136.66,Nonstop,13.87,405.11,37270.12,722314.67,280
+"Orlando, FL","San Francisco, CA",92,4,2437.23,Nonstop,15.03,471.13,43343.64,783086.33,280
+"Orlando, FL","San Jose, CA",92,4,2406.84,Nonstop,15.03,471.13,43343.64,783086.33,280
+"Orlando, FL","Seattle, WA",92,4,2546.27,Nonstop,15.25,454.41,41805.85,794372.5,280
+"Orlando, FL","St. Louis, MO",92,4,861.43,Nonstop,8.62,385.17,35435.85,448842.17,280
+"Orlando, FL","St. Petersburg, FL",92,4,93.39,Drive,4.08,52.3,4811.53,212280.5,280
+"Orlando, FL","Washington, DC",92,4,758.4,Nonstop,8.27,339.09,31196.28,430610.67,280
+"Philadelphia, PA","Atlanta, GA",61,0,665.2,Nonstop,7.92,404.38,24667.12,206031.25,183
+"Philadelphia, PA","Austin, TX",61,0,1434.61,Nonstop,11.1,453.51,27664.35,288877.5,183
+"Philadelphia, PA","Baltimore, MD",61,0,89.18,Drive,3.89,49.94,3046.37,101275.51,183
+"Philadelphia, PA","Boston, MA",61,0,270.95,Nonstop,6.65,393.11,23979.63,173066.25,183
+"Philadelphia, PA","Cedar Rapids, IA",61,0,870.8,1-Stop,12.87,612.0,37332.0,334948.04,183
+"Philadelphia, PA","Champaign, IL",61,0,690.91,1-Stop,12.07,612.0,37332.0,314139.82,183
+"Philadelphia, PA","Charlotte, NC",61,0,450.05,Nonstop,7.13,389.54,23762.03,185645.0,183
+"Philadelphia, PA","Chicago, IL",61,0,663.46,Nonstop,7.73,415.36,25336.91,201260.0,183
+"Philadelphia, PA","Cleveland, OH",61,0,357.7,Nonstop,6.97,371.23,22645.09,181307.5,183
+"Philadelphia, PA","Columbus, OH",61,0,414.58,Nonstop,7.13,367.76,22433.66,185645.0,183
+"Philadelphia, PA","Dallas, TX",61,0,1297.18,Nonstop,10.47,371.67,22672.01,272395.0,183
+"Philadelphia, PA","Denver, CO",61,0,1574.55,Nonstop,11.4,391.73,23895.78,296685.0,183
+"Philadelphia, PA","Detroit, MI",61,0,441.56,Nonstop,7.2,420.86,25672.73,187380.0,183
+"Philadelphia, PA","Fort Lauderdale, FL",61,0,997.53,Nonstop,9.32,424.6,25900.7,242466.25,183
+"Philadelphia, PA","Hartford, CT",61,0,180.84,Nonstop,6.32,439.75,26824.9,164391.25,183
+"Philadelphia, PA","Houston, TX",61,0,1339.58,Nonstop,10.75,396.68,24197.22,279768.75,183
+"Philadelphia, PA","Iowa City, IA",61,0,862.41,1-Stop,12.83,612.0,37332.0,333977.02,183
+"Philadelphia, PA","Kansas City, MO",61,0,1034.09,Nonstop,9.45,361.87,22073.81,245936.25,183
+"Philadelphia, PA","Las Vegas, NV",61,0,2171.86,Nonstop,13.9,347.3,21185.5,361747.5,183
+"Philadelphia, PA","Lincoln, NE",61,0,1131.91,1-Stop,14.03,612.0,37332.0,365148.73,183
+"Philadelphia, PA","Los Angeles, CA",61,0,2387.86,Nonstop,14.75,383.95,23420.8,383868.75,183
+"Philadelphia, PA","Milwaukee, WI",61,0,692.21,Nonstop,8.12,350.39,21373.79,211236.25,183
+"Philadelphia, PA","Minneapolis, MN",61,0,983.23,Nonstop,9.21,402.73,24566.46,239646.88,183
+"Philadelphia, PA","Nashville, TN",61,0,683.1,Nonstop,8.0,429.34,26189.84,208200.0,183
+"Philadelphia, PA","New Bern, NC",61,0,349.74,1-Stop,10.55,612.0,37332.0,274677.76,183
+"Philadelphia, PA","New York, NY",61,0,80.56,Drive,3.52,45.12,2752.04,91490.65,183
+"Philadelphia, PA","Oklahoma City, OK",61,0,1256.61,1-Stop,14.58,612.0,37332.0,379572.83,183
+"Philadelphia, PA","Omaha, NE",61,0,1090.16,1-Stop,13.85,612.0,37332.0,360320.1,183
+"Philadelphia, PA","Orlando, FL",61,0,863.88,Nonstop,8.92,467.98,28546.72,232056.25,183
+"Philadelphia, PA","Philadelphia, PA",61,0,0.0,Local,0.0,0.0,0.0,0.0,0
+"Philadelphia, PA","Phoenix, AZ",61,0,2077.42,Nonstop,13.2,443.56,27056.98,343530.0,183
+"Philadelphia, PA","Pittsburgh, PA",61,0,257.12,Nonstop,6.4,329.94,20126.52,166560.0,183
+"Philadelphia, PA","Raleigh, NC",61,0,344.66,Nonstop,6.87,378.49,23088.07,178705.0,183
+"Philadelphia, PA","San Antonio, TX",61,0,1504.93,1-Stop,15.69,612.0,37332.0,408294.82,183
+"Philadelphia, PA","San Diego, CA",61,0,2367.37,Nonstop,14.85,348.3,21246.3,386471.25,183
+"Philadelphia, PA","San Francisco, CA",61,0,2516.75,Nonstop,15.22,367.8,22435.65,396230.62,183
+"Philadelphia, PA","San Jose, CA",61,0,2498.81,Nonstop,15.22,367.8,22435.65,396230.62,183
+"Philadelphia, PA","Seattle, WA",61,0,2372.95,Nonstop,14.85,391.33,23871.06,386471.25,183
+"Philadelphia, PA","St. Louis, MO",61,0,807.92,Nonstop,8.54,460.49,28089.87,222296.88,183
+"Philadelphia, PA","St. Petersburg, FL",61,0,943.51,Nonstop,9.12,435.91,26590.21,237261.25,183
+"Philadelphia, PA","Washington, DC",61,0,122.97,Drive,5.37,68.86,4200.73,139651.75,183
+"Phoenix, AZ","Atlanta, GA",134,1,1588.3,Nonstop,11.64,416.37,55793.45,811540.58,403
+"Phoenix, AZ","Austin, TX",134,1,868.36,Nonstop,8.72,396.86,53179.21,607638.83,403
+"Phoenix, AZ","Baltimore, MD",134,1,2000.34,Nonstop,13.1,407.88,54656.18,913201.0,403
+"Phoenix, AZ","Boston, MA",134,1,2294.88,Nonstop,14.37,452.19,60593.04,1001500.33,403
+"Phoenix, AZ","Cedar Rapids, IA",134,1,1256.68,Nonstop,10.38,450.38,60350.87,723822.17,403
+"Phoenix, AZ","Champaign, IL",134,1,1391.74,1-Stop,15.19,612.0,82008.0,1058582.85,403
+"Phoenix, AZ","Charlotte, NC",134,1,1778.64,Nonstop,11.92,469.3,62886.25,831291.75,403
+"Phoenix, AZ","Chicago, IL",134,1,1451.52,Nonstop,10.68,402.34,53914.08,744735.17,403
+"Phoenix, AZ","Cleveland, OH",134,1,1745.69,Nonstop,11.89,440.11,58974.34,828968.08,403
+"Phoenix, AZ","Columbus, OH",134,1,1663.68,Nonstop,11.58,466.76,62545.24,806893.25,403
+"Phoenix, AZ","Dallas, TX",134,1,884.12,Nonstop,8.62,405.3,54310.13,601248.75,403
+"Phoenix, AZ","Denver, CO",134,1,585.36,Nonstop,7.6,416.95,55871.27,529796.0,403
+"Phoenix, AZ","Detroit, MI",134,1,1686.97,Nonstop,10.78,357.98,47969.96,751706.17,403
+"Phoenix, AZ","Fort Lauderdale, FL",134,1,1972.01,Nonstop,11.6,502.11,67282.08,808636.0,403
+"Phoenix, AZ","Hartford, CT",134,1,2210.98,1-Stop,18.83,612.0,82008.0,1312400.15,403
+"Phoenix, AZ","Houston, TX",134,1,1013.98,Nonstop,8.82,443.96,59491.18,614609.83,403
+"Phoenix, AZ","Iowa City, IA",134,1,1255.6,Nonstop,10.38,450.38,60350.87,723822.17,403
+"Phoenix, AZ","Kansas City, MO",134,1,1047.35,Nonstop,8.58,385.13,51607.62,598344.17,403
+"Phoenix, AZ","Las Vegas, NV",134,1,256.19,Nonstop,6.18,397.24,53230.53,431040.17,403
+"Phoenix, AZ","Lincoln, NE",134,1,985.5,1-Stop,13.38,612.0,82008.0,932720.5,403
+"Phoenix, AZ","Los Angeles, CA",134,1,356.82,Nonstop,5.7,419.02,56148.9,397347.0,403
+"Phoenix, AZ","Milwaukee, WI",134,1,1461.67,Nonstop,9.98,401.36,53781.86,695938.17,403
+"Phoenix, AZ","Minneapolis, MN",134,1,1278.12,Nonstop,9.33,443.24,59394.4,650626.67,403
+"Phoenix, AZ","Nashville, TN",134,1,1442.81,Nonstop,10.92,441.45,59154.51,761581.75,403
+"Phoenix, AZ","New Bern, NC",134,1,1992.95,1-Stop,17.86,612.0,82008.0,1244849.21,403
+"Phoenix, AZ","New York, NY",134,1,2139.37,Nonstop,13.48,453.3,60741.68,939923.17,403
+"Phoenix, AZ","Oklahoma City, OK",134,1,839.77,Nonstop,8.27,365.66,48998.33,576269.33,403
+"Phoenix, AZ","Omaha, NE",134,1,1035.24,Nonstop,8.27,312.18,41831.49,576269.33,403
+"Phoenix, AZ","Orlando, FL",134,1,1842.18,Nonstop,11.5,432.28,57925.15,801665.0,403
+"Phoenix, AZ","Philadelphia, PA",134,1,2077.42,Nonstop,13.2,443.56,59436.64,920172.0,403
+"Phoenix, AZ","Phoenix, AZ",134,1,0.0,Local,0.0,0.0,0.0,0.0,0
+"Phoenix, AZ","Pittsburgh, PA",134,1,1824.52,Nonstop,12.12,510.43,68397.2,844652.83,403
+"Phoenix, AZ","Raleigh, NC",134,1,1898.57,1-Stop,17.44,612.0,82008.0,1215610.31,403
+"Phoenix, AZ","San Antonio, TX",134,1,846.81,Nonstop,8.14,419.79,56252.39,567555.58,403
+"Phoenix, AZ","San Diego, CA",134,1,298.92,Nonstop,6.23,369.7,49540.27,434525.67,403
+"Phoenix, AZ","San Francisco, CA",134,1,652.99,Nonstop,7.68,449.7,60260.43,535605.17,403
+"Phoenix, AZ","San Jose, CA",134,1,614.5,Nonstop,7.37,449.08,60176.13,513530.33,403
+"Phoenix, AZ","Seattle, WA",134,1,1114.66,Nonstop,9.74,417.31,55918.91,679091.58,403
+"Phoenix, AZ","St. Louis, MO",134,1,1269.69,Nonstop,9.12,402.24,53900.18,635522.83,403
+"Phoenix, AZ","St. Petersburg, FL",134,1,1787.15,Nonstop,11.87,401.15,53754.72,827225.33,403
+"Phoenix, AZ","Washington, DC",134,1,1977.17,Nonstop,12.67,416.9,55864.02,882993.33,403
+"Pittsburgh, PA","Atlanta, GA",14,0,521.55,Nonstop,7.07,454.25,6359.54,59112.67,42
+"Pittsburgh, PA","Austin, TX",14,0,1218.13,1-Stop,14.41,612.0,8568.0,120572.42,42
+"Pittsburgh, PA","Baltimore, MD",14,0,196.54,Nonstop,5.8,418.0,5851.98,48517.0,42
+"Pittsburgh, PA","Boston, MA",14,0,481.69,Nonstop,7.27,418.95,5865.31,60785.67,42
+"Pittsburgh, PA","Cedar Rapids, IA",14,0,615.35,1-Stop,11.73,612.0,8568.0,98162.48,42
+"Pittsburgh, PA","Champaign, IL",14,0,434.75,1-Stop,10.93,612.0,8568.0,91447.92,42
+"Pittsburgh, PA","Charlotte, NC",14,0,362.88,Nonstop,6.72,405.65,5679.05,56184.92,42
+"Pittsburgh, PA","Chicago, IL",14,0,409.03,Nonstop,6.48,387.49,5424.93,54163.38,42
+"Pittsburgh, PA","Cleveland, OH",14,0,114.61,Drive,5.0,64.18,898.58,41836.37,42
+"Pittsburgh, PA","Columbus, OH",14,0,161.75,1-Stop,9.72,612.0,8568.0,81298.47,42
+"Pittsburgh, PA","Dallas, TX",14,0,1068.95,Nonstop,9.43,432.98,6061.78,78909.83,42
+"Pittsburgh, PA","Denver, CO",14,0,1317.43,Nonstop,10.18,388.39,5437.53,85113.88,42
+"Pittsburgh, PA","Detroit, MI",14,0,205.04,Nonstop,5.98,376.33,5268.67,50050.58,42
+"Pittsburgh, PA","Fort Lauderdale, FL",14,0,989.46,Nonstop,9.1,440.15,6162.1,76121.5,42
+"Pittsburgh, PA","Hartford, CT",14,0,392.26,1-Stop,10.74,612.0,8568.0,89868.34,42
+"Pittsburgh, PA","Houston, TX",14,0,1136.88,Nonstop,9.72,403.31,5646.38,81279.92,42
+"Pittsburgh, PA","Iowa City, IA",14,0,606.2,1-Stop,11.69,612.0,8568.0,97822.2,42
+"Pittsburgh, PA","Kansas City, MO",14,0,778.91,1-Stop,12.46,612.0,8568.0,104243.15,42
+"Pittsburgh, PA","Las Vegas, NV",14,0,1915.14,Nonstop,12.48,400.25,5603.55,104423.08,42
+"Pittsburgh, PA","Lincoln, NE",14,0,874.82,1-Stop,12.89,612.0,8568.0,107808.95,42
+"Pittsburgh, PA","Los Angeles, CA",14,0,2131.83,Nonstop,13.53,419.63,5874.81,113206.33,42
+"Pittsburgh, PA","Milwaukee, WI",14,0,445.38,1-Stop,10.98,612.0,8568.0,91843.39,42
+"Pittsburgh, PA","Minneapolis, MN",14,0,741.97,Nonstop,8.07,375.91,5262.8,67477.67,42
+"Pittsburgh, PA","Nashville, TN",14,0,471.56,Nonstop,6.73,434.91,6088.73,56324.33,42
+"Pittsburgh, PA","New Bern, NC",14,0,402.12,1-Stop,10.79,612.0,8568.0,90234.98,42
+"Pittsburgh, PA","New York, NY",14,0,314.85,Nonstop,6.78,415.93,5823.09,56742.58,42
+"Pittsburgh, PA","Oklahoma City, OK",14,0,1012.26,1-Stop,13.5,612.0,8568.0,112918.54,42
+"Pittsburgh, PA","Omaha, NE",14,0,833.33,1-Stop,12.7,612.0,8568.0,106266.22,42
+"Pittsburgh, PA","Orlando, FL",14,0,825.93,Nonstop,8.4,355.8,4981.19,70266.0,42
+"Pittsburgh, PA","Philadelphia, PA",14,0,257.12,Nonstop,6.4,329.94,4619.2,53536.0,42
+"Pittsburgh, PA","Phoenix, AZ",14,0,1824.52,Nonstop,12.12,510.43,7145.98,101355.92,42
+"Pittsburgh, PA","Pittsburgh, PA",14,0,0.0,Local,0.0,0.0,0.0,0.0,0
+"Pittsburgh, PA","Raleigh, NC",14,0,330.35,Nonstop,6.57,317.5,4445.06,54930.17,42
+"Pittsburgh, PA","San Antonio, TX",14,0,1290.47,1-Stop,14.74,612.0,8568.0,123261.77,42
+"Pittsburgh, PA","San Diego, CA",14,0,2112.89,1-Stop,18.39,612.0,8568.0,153837.47,42
+"Pittsburgh, PA","San Francisco, CA",14,0,2260.03,Nonstop,14.05,452.89,6340.52,117528.25,42
+"Pittsburgh, PA","San Jose, CA",14,0,2241.88,Nonstop,14.05,452.89,6340.52,117528.25,42
+"Pittsburgh, PA","Seattle, WA",14,0,2132.4,Nonstop,13.56,380.16,5322.3,113415.46,42
+"Pittsburgh, PA","St. Louis, MO",14,0,557.39,Nonstop,7.08,458.7,6421.8,59252.08,42
+"Pittsburgh, PA","St. Petersburg, FL",14,0,888.23,Nonstop,8.48,348.94,4885.12,70963.08,42
+"Pittsburgh, PA","Washington, DC",14,0,189.6,Nonstop,5.92,392.64,5496.95,49562.62,42
+"Raleigh, NC","Atlanta, GA",84,2,355.16,Nonstop,6.53,383.04,32175.49,315886.67,254
+"Raleigh, NC","Austin, TX",84,2,1167.77,Nonstop,9.75,433.34,36400.49,471412.5,254
+"Raleigh, NC","Baltimore, MD",84,2,266.79,Nonstop,6.03,450.38,37832.21,291711.67,254
+"Raleigh, NC","Boston, MA",84,2,609.42,Nonstop,7.88,411.68,34581.0,381159.17,254
+"Raleigh, NC","Cedar Rapids, IA",84,2,820.03,1-Stop,12.64,612.0,51408.0,611365.0,254
+"Raleigh, NC","Champaign, IL",84,2,602.4,1-Stop,11.68,612.0,51408.0,564599.18,254
+"Raleigh, NC","Charlotte, NC",84,2,129.44,Drive,5.65,72.49,6089.03,273102.66,254
+"Raleigh, NC","Chicago, IL",84,2,641.05,Nonstop,7.45,360.92,30317.38,360207.5,254
+"Raleigh, NC","Cleveland, OH",84,2,428.05,Nonstop,6.96,373.8,31399.2,336435.42,254
+"Raleigh, NC","Columbus, OH",84,2,374.01,1-Stop,10.66,612.0,51408.0,515521.08,254
+"Raleigh, NC","Dallas, TX",84,2,1055.67,Nonstop,9.15,438.32,36818.88,442402.5,254
+"Raleigh, NC","Denver, CO",84,2,1459.61,Nonstop,10.82,420.17,35293.88,523388.75,254
+"Raleigh, NC","Detroit, MI",84,2,510.5,Nonstop,7.2,384.81,32324.15,348120.0,254
+"Raleigh, NC","Fort Lauderdale, FL",84,2,673.31,Nonstop,7.9,414.95,34855.64,381965.0,254
+"Raleigh, NC","Hartford, CT",84,2,523.3,Nonstop,7.38,398.71,33491.64,356581.25,254
+"Raleigh, NC","Houston, TX",84,2,1055.38,Nonstop,9.4,459.78,38621.35,454490.0,254
+"Raleigh, NC","Iowa City, IA",84,2,803.66,1-Stop,12.57,612.0,51408.0,607847.44,254
+"Raleigh, NC","Kansas City, MO",84,2,902.72,1-Stop,13.01,612.0,51408.0,629133.68,254
+"Raleigh, NC","Las Vegas, NV",84,2,2028.89,Nonstop,13.01,412.66,34663.43,628952.92,254
+"Raleigh, NC","Lincoln, NE",84,2,1036.85,1-Stop,13.61,612.0,51408.0,657958.11,254
+"Raleigh, NC","Los Angeles, CA",84,2,2231.54,Nonstop,14.0,456.65,38358.65,676900.0,254
+"Raleigh, NC","Milwaukee, WI",84,2,703.78,1-Stop,12.13,612.0,51408.0,586385.18,254
+"Raleigh, NC","Minneapolis, MN",84,2,995.8,Nonstop,9.02,490.09,41167.66,436358.75,254
+"Raleigh, NC","Nashville, TN",84,2,455.81,Nonstop,6.88,385.01,32340.66,332809.17,254
+"Raleigh, NC","New Bern, NC",84,2,101.26,Drive,4.42,56.71,4763.34,213643.34,254
+"Raleigh, NC","New York, NY",84,2,423.12,Nonstop,7.23,352.47,29607.41,349731.67,254
+"Raleigh, NC","Oklahoma City, OK",84,2,1058.93,1-Stop,13.71,612.0,51408.0,662702.37,254
+"Raleigh, NC","Omaha, NE",84,2,1006.21,1-Stop,13.47,612.0,51408.0,651373.72,254
+"Raleigh, NC","Orlando, FL",84,2,525.22,Nonstop,7.33,450.6,37850.51,354566.67,254
+"Raleigh, NC","Philadelphia, PA",84,2,344.66,Nonstop,6.87,378.49,31793.41,332003.33,254
+"Raleigh, NC","Phoenix, AZ",84,2,1898.57,1-Stop,17.44,612.0,51408.0,843132.38,254
+"Raleigh, NC","Pittsburgh, PA",84,2,330.35,Nonstop,6.57,317.5,26670.38,317498.33,254
+"Raleigh, NC","Raleigh, NC",84,2,0.0,Local,0.0,0.0,0.0,0.0,0
+"Raleigh, NC","San Antonio, TX",84,2,1233.36,1-Stop,14.48,612.0,51408.0,700185.59,254
+"Raleigh, NC","San Diego, CA",84,2,2196.03,1-Stop,18.76,612.0,51408.0,907051.89,254
+"Raleigh, NC","San Francisco, CA",84,2,2404.68,Nonstop,14.72,381.11,32013.24,711953.75,254
+"Raleigh, NC","San Jose, CA",84,2,2381.63,Nonstop,14.72,381.11,32013.24,711953.75,254
+"Raleigh, NC","Seattle, WA",84,2,2361.42,Nonstop,14.5,428.21,35969.89,701075.0,254
+"Raleigh, NC","St. Louis, MO",84,2,665.4,Nonstop,7.68,655.54,55064.97,371086.25,254
+"Raleigh, NC","St. Petersburg, FL",84,2,601.09,Nonstop,7.53,456.2,38320.88,364236.67,254
+"Raleigh, NC","Washington, DC",84,2,233.43,Nonstop,6.08,419.4,35229.2,294129.17,254
+"San Antonio, TX","Atlanta, GA",143,0,881.25,Nonstop,8.62,474.06,67791.06,706049.67,429
+"San Antonio, TX","Austin, TX",143,0,73.96,Drive,3.23,41.42,5922.37,264433.18,429
+"San Antonio, TX","Baltimore, MD",143,0,1416.81,Nonstop,10.81,373.53,53415.16,885634.83,429
+"San Antonio, TX","Boston, MA",143,0,1765.04,Nonstop,12.52,361.85,51744.9,1025615.67,429
+"San Antonio, TX","Cedar Rapids, IA",143,0,947.63,1-Stop,13.21,612.0,87516.0,1082564.15,429
+"San Antonio, TX","Champaign, IL",143,0,939.32,1-Stop,13.17,612.0,87516.0,1079538.16,429
+"San Antonio, TX","Charlotte, NC",143,0,1103.95,Nonstop,9.65,432.97,61914.03,790721.0,429
+"San Antonio, TX","Chicago, IL",143,0,1053.01,Nonstop,9.02,443.78,63460.04,739508.5,429
+"San Antonio, TX","Cleveland, OH",143,0,1257.0,1-Stop,14.59,612.0,87516.0,1195230.1,429
+"San Antonio, TX","Columbus, OH",143,0,1139.26,1-Stop,14.06,612.0,87516.0,1152353.45,429
+"San Antonio, TX","Dallas, TX",143,0,252.76,Nonstop,5.97,420.94,60194.68,488908.67,429
+"San Antonio, TX","Denver, CO",143,0,802.64,Nonstop,8.16,368.77,52733.91,668493.83,429
+"San Antonio, TX","Detroit, MI",143,0,1238.23,Nonstop,10.16,404.43,57833.49,832373.83,429
+"San Antonio, TX","Fort Lauderdale, FL",143,0,1143.48,1-Stop,14.08,612.0,87516.0,1153889.43,429
+"San Antonio, TX","Hartford, CT",143,0,1672.94,1-Stop,16.44,612.0,87516.0,1346708.95,429
+"San Antonio, TX","Houston, TX",143,0,188.92,Nonstop,5.67,399.36,57108.9,464326.67,429
+"San Antonio, TX","Iowa City, IA",143,0,931.03,1-Stop,13.14,612.0,87516.0,1076518.99,429
+"San Antonio, TX","Kansas City, MO",143,0,704.91,1-Stop,12.13,612.0,87516.0,994173.01,429
+"San Antonio, TX","Las Vegas, NV",143,0,1071.61,Nonstop,9.22,476.1,68082.73,755213.67,429
+"San Antonio, TX","Lincoln, NE",143,0,793.4,1-Stop,12.53,612.0,87516.0,1026400.41,429
+"San Antonio, TX","Los Angeles, CA",143,0,1201.67,Nonstop,9.85,453.56,64858.43,807109.0,429
+"San Antonio, TX","Milwaukee, WI",143,0,1108.46,1-Stop,13.93,612.0,87516.0,1141135.47,429
+"San Antonio, TX","Minneapolis, MN",143,0,1112.19,Nonstop,9.4,390.05,55776.51,770236.0,429
+"San Antonio, TX","Nashville, TN",143,0,823.31,Nonstop,8.32,463.57,66290.34,681467.67,429
+"San Antonio, TX","New Bern, NC",143,0,1310.35,1-Stop,14.82,612.0,87516.0,1214659.02,429
+"San Antonio, TX","New York, NY",143,0,1581.14,Nonstop,11.87,273.27,39077.61,972354.67,429
+"San Antonio, TX","Oklahoma City, OK",143,0,421.82,Nonstop,6.52,340.24,48654.32,533975.67,429
+"San Antonio, TX","Omaha, NE",143,0,830.59,1-Stop,12.69,612.0,87516.0,1039941.75,429
+"San Antonio, TX","Orlando, FL",143,0,1035.04,Nonstop,9.2,501.64,71734.0,753848.0,429
+"San Antonio, TX","Philadelphia, PA",143,0,1504.93,1-Stop,15.69,612.0,87516.0,1285520.76,429
+"San Antonio, TX","Phoenix, AZ",143,0,846.81,Nonstop,8.14,419.79,60030.54,667128.17,429
+"San Antonio, TX","Pittsburgh, PA",143,0,1290.47,1-Stop,14.74,612.0,87516.0,1207420.13,429
+"San Antonio, TX","Raleigh, NC",143,0,1233.36,1-Stop,14.48,612.0,87516.0,1186622.7,429
+"San Antonio, TX","San Antonio, TX",143,0,0.0,Local,0.0,0.0,0.0,0.0,0
+"San Antonio, TX","San Diego, CA",143,0,1126.6,Nonstop,9.3,346.68,49575.24,762042.0,429
+"San Antonio, TX","San Francisco, CA",143,0,1487.72,Nonstop,11.29,446.56,63858.08,925239.17,429
+"San Antonio, TX","San Jose, CA",143,0,1451.81,Nonstop,11.29,446.56,63858.08,925239.17,429
+"San Antonio, TX","Seattle, WA",143,0,1786.23,Nonstop,12.28,411.71,58874.12,1006496.33,429
+"San Antonio, TX","St. Louis, MO",143,0,793.12,Nonstop,8.04,399.04,57062.72,658934.17,429
+"San Antonio, TX","St. Petersburg, FL",143,0,967.53,Nonstop,8.78,325.25,46510.75,719706.33,429
+"San Antonio, TX","Washington, DC",143,0,1385.62,Nonstop,10.63,384.46,54977.11,871295.33,429
+"San Diego, CA","Atlanta, GA",61,3,1887.21,Nonstop,12.57,358.36,21860.01,497074.5,186
+"San Diego, CA","Austin, TX",61,3,1154.92,Nonstop,9.68,420.84,25671.34,383024.25,186
+"San Diego, CA","Baltimore, MD",61,3,2291.83,Nonstop,14.12,410.8,25058.66,558384.75,186
+"San Diego, CA","Boston, MA",61,3,2578.51,Nonstop,15.6,400.4,24424.41,617058.0,186
+"San Diego, CA","Cedar Rapids, IA",61,3,1531.59,1-Stop,15.81,612.0,37332.0,625248.04,186
+"San Diego, CA","Champaign, IL",61,3,1678.61,1-Stop,16.46,612.0,37332.0,651095.44,186
+"San Diego, CA","Charlotte, NC",61,3,2076.77,Nonstop,13.57,388.53,23700.55,536629.5,186
+"San Diego, CA","Chicago, IL",61,3,1731.39,Nonstop,11.82,371.02,22632.3,467408.25,186
+"San Diego, CA","Cleveland, OH",61,3,2030.31,1-Stop,18.02,612.0,37332.0,712923.17,186
+"San Diego, CA","Columbus, OH",61,3,1952.92,1-Stop,17.68,612.0,37332.0,699318.3,186
+"San Diego, CA","Dallas, TX",61,3,1181.31,Nonstop,9.75,371.51,22662.3,385661.25,186
+"San Diego, CA","Denver, CO",61,3,832.61,Nonstop,8.43,377.74,23042.12,333580.5,186
+"San Diego, CA","Detroit, MI",61,3,1967.96,Nonstop,12.92,422.47,25770.92,510918.75,186
+"San Diego, CA","Fort Lauderdale, FL",61,3,2262.36,Nonstop,14.07,317.3,19355.3,556407.0,186
+"San Diego, CA","Hartford, CT",61,3,2496.26,1-Stop,20.09,612.0,37332.0,794836.7,186
+"San Diego, CA","Houston, TX",61,3,1301.02,Nonstop,10.06,377.27,23013.17,397857.38,186
+"San Diego, CA","Iowa City, IA",61,3,1532.47,1-Stop,15.81,612.0,37332.0,625403.51,186
+"San Diego, CA","Kansas City, MO",61,3,1334.03,Nonstop,10.22,404.46,24672.06,404120.25,186
+"San Diego, CA","Las Vegas, NV",61,3,264.69,Nonstop,6.23,380.81,23229.47,246559.5,186
+"San Diego, CA","Lincoln, NE",61,3,1258.71,1-Stop,14.59,612.0,37332.0,577275.52,186
+"San Diego, CA","Los Angeles, CA",61,3,111.03,Drive,4.84,62.17,3792.63,191633.76,186
+"San Diego, CA","Milwaukee, WI",61,3,1735.65,1-Stop,16.71,612.0,37332.0,661122.36,186
+"San Diego, CA","Minneapolis, MN",61,3,1530.35,Nonstop,11.21,415.45,25342.45,443345.62,186
+"San Diego, CA","Nashville, TN",61,3,1740.22,Nonstop,11.9,358.27,21854.2,470704.5,186
+"San Diego, CA","New Bern, NC",61,3,2290.89,1-Stop,19.18,612.0,37332.0,758732.92,186
+"San Diego, CA","New York, NY",61,3,2427.43,Nonstop,15.02,422.2,25754.16,594313.88,186
+"San Diego, CA","Oklahoma City, OK",61,3,1137.73,1-Stop,14.06,612.0,37332.0,556008.02,186
+"San Diego, CA","Omaha, NE",61,3,1307.03,1-Stop,14.81,612.0,37332.0,585770.46,186
+"San Diego, CA","Orlando, FL",61,3,2136.66,Nonstop,13.87,405.11,24711.71,548496.0,186
+"San Diego, CA","Philadelphia, PA",61,3,2367.37,Nonstop,14.85,348.3,21246.3,587391.75,186
+"San Diego, CA","Phoenix, AZ",61,3,298.92,Nonstop,6.23,369.7,22551.92,246559.5,186
+"San Diego, CA","Pittsburgh, PA",61,3,2112.89,1-Stop,18.39,612.0,37332.0,727440.65,186
+"San Diego, CA","Raleigh, NC",61,3,2196.03,1-Stop,18.76,612.0,37332.0,742056.61,186
+"San Diego, CA","San Antonio, TX",61,3,1126.6,Nonstop,9.3,346.68,21147.48,367861.5,186
+"San Diego, CA","San Diego, CA",61,3,0.0,Local,0.0,0.0,0.0,0.0,0
+"San Diego, CA","San Francisco, CA",61,3,457.91,Nonstop,6.97,381.94,23298.22,275566.5,186
+"San Diego, CA","San Jose, CA",61,3,416.42,Nonstop,6.62,381.94,23298.22,261722.25,186
+"San Diego, CA","Seattle, WA",61,3,1063.78,Nonstop,9.53,417.72,25481.04,377091.0,186
+"San Diego, CA","St. Louis, MO",61,3,1561.03,Nonstop,11.02,521.01,31781.61,435764.25,186
+"San Diego, CA","St. Petersburg, FL",61,3,2079.36,1-Stop,18.24,612.0,37332.0,721546.37,186
+"San Diego, CA","Washington, DC",61,3,2269.51,Nonstop,14.12,444.29,27101.86,558384.75,186
+"San Francisco, CA","Atlanta, GA",63,0,2135.54,Nonstop,13.5,420.83,26512.54,501187.5,189
+"San Francisco, CA","Austin, TX",63,0,1499.88,Nonstop,11.19,417.28,26288.65,415490.62,189
+"San Francisco, CA","Baltimore, MD",63,0,2451.58,Nonstop,14.97,408.78,25753.03,555637.5,189
+"San Francisco, CA","Boston, MA",63,0,2692.96,Nonstop,15.99,434.24,27356.89,593690.62,189
+"San Francisco, CA","Cedar Rapids, IA",63,0,1647.12,1-Stop,16.32,612.0,38556.0,605900.62,189
+"San Francisco, CA","Champaign, IL",63,0,1832.61,1-Stop,17.14,612.0,38556.0,636505.42,189
+"San Francisco, CA","Charlotte, NC",63,0,2297.12,Nonstop,14.32,413.22,26033.17,531506.25,189
+"San Francisco, CA","Chicago, IL",63,0,1854.89,Nonstop,12.52,400.89,25256.26,464681.25,189
+"San Francisco, CA","Cleveland, OH",63,0,2162.43,Nonstop,13.61,406.84,25631.16,505209.38,189
+"San Francisco, CA","Columbus, OH",63,0,2108.88,1-Stop,18.37,612.0,38556.0,682089.65,189
+"San Francisco, CA","Dallas, TX",63,0,1480.65,Nonstop,11.02,430.74,27136.82,408993.75,189
+"San Francisco, CA","Denver, CO",63,0,947.42,Nonstop,8.9,391.64,24673.29,330412.5,189
+"San Francisco, CA","Detroit, MI",63,0,2087.09,Nonstop,13.28,335.75,21152.52,493143.75,189
+"San Francisco, CA","Fort Lauderdale, FL",63,0,2581.8,Nonstop,15.44,326.07,20542.19,573271.88,189
+"San Francisco, CA","Hartford, CT",63,0,2619.76,1-Stop,20.64,612.0,38556.0,766386.0,189
+"San Francisco, CA","Houston, TX",63,0,1642.3,Nonstop,11.69,477.68,30093.84,434053.12,189
+"San Francisco, CA","Iowa City, IA",63,0,1654.54,1-Stop,16.35,612.0,38556.0,607124.29,189
+"San Francisco, CA","Kansas City, MO",63,0,1503.67,1-Stop,15.68,612.0,38556.0,582231.22,189
+"San Francisco, CA","Las Vegas, NV",63,0,416.68,Nonstop,7.07,432.0,27216.18,262350.0,189
+"San Francisco, CA","Lincoln, NE",63,0,1386.22,1-Stop,15.16,612.0,38556.0,562851.96,189
+"San Francisco, CA","Los Angeles, CA",63,0,347.46,Nonstop,6.68,413.24,26034.27,248118.75,189
+"San Francisco, CA","Milwaukee, WI",63,0,1838.33,1-Stop,17.17,612.0,38556.0,637448.89,189
+"San Francisco, CA","Minneapolis, MN",63,0,1581.34,Nonstop,11.4,399.54,25170.9,423225.0,189
+"San Francisco, CA","Nashville, TN",63,0,1958.8,Nonstop,12.97,433.32,27299.19,481387.5,189
+"San Francisco, CA","New Bern, NC",63,0,2504.42,1-Stop,20.13,612.0,38556.0,747353.83,189
+"San Francisco, CA","New York, NY",63,0,2565.7,Nonstop,15.42,383.75,24176.11,572343.75,189
+"San Francisco, CA","Oklahoma City, OK",63,0,1385.83,1-Stop,15.16,612.0,38556.0,562786.5,189
+"San Francisco, CA","Omaha, NE",63,0,1426.71,1-Stop,15.34,612.0,38556.0,569532.07,189
+"San Francisco, CA","Orlando, FL",63,0,2437.23,Nonstop,15.03,471.13,29680.97,558112.5,189
+"San Francisco, CA","Philadelphia, PA",63,0,2516.75,Nonstop,15.22,367.8,23171.25,565228.12,189
+"San Francisco, CA","Phoenix, AZ",63,0,652.99,Nonstop,7.68,449.7,28331.39,285243.75,189
+"San Francisco, CA","Pittsburgh, PA",63,0,2260.03,Nonstop,14.05,452.89,28532.33,521606.25,189
+"San Francisco, CA","Raleigh, NC",63,0,2404.68,Nonstop,14.72,381.11,24009.93,546665.62,189
+"San Francisco, CA","San Antonio, TX",63,0,1487.72,Nonstop,11.29,446.56,28133.28,419203.13,189
+"San Francisco, CA","San Diego, CA",63,0,457.91,Nonstop,6.97,381.94,24062.1,258637.5,189
+"San Francisco, CA","San Francisco, CA",63,0,0.0,Local,0.0,0.0,0.0,0.0,0
+"San Francisco, CA","San Jose, CA",63,0,41.54,Drive,1.81,23.26,1465.5,67293.44,189
+"San Francisco, CA","Seattle, WA",63,0,679.9,Nonstop,8.12,422.78,26634.97,301331.25,189
+"San Francisco, CA","St. Louis, MO",63,0,1741.47,1-Stop,16.74,612.0,38556.0,621468.22,189
+"San Francisco, CA","St. Petersburg, FL",63,0,2392.35,Nonstop,14.64,434.45,27370.35,543571.88,189
+"San Francisco, CA","Washington, DC",63,0,2434.82,Nonstop,14.67,404.72,25497.11,544500.0,189
+"San Jose, CA","Atlanta, GA",10,0,2108.91,Nonstop,13.32,420.83,4208.34,89088.5,30
+"San Jose, CA","Austin, TX",10,0,1465.07,Nonstop,10.93,415.57,4155.67,73144.0,30
+"San Jose, CA","Baltimore, MD",10,0,2432.67,Nonstop,14.97,408.78,4087.78,100127.0,30
+"San Jose, CA","Boston, MA",10,0,2678.25,Nonstop,15.98,434.24,4342.36,106928.5,30
+"San Jose, CA","Cedar Rapids, IA",10,0,1630.23,1-Stop,16.25,612.0,6120.0,108682.21,30
+"San Jose, CA","Champaign, IL",10,0,1813.03,1-Stop,17.06,612.0,6120.0,114117.35,30
+"San Jose, CA","Charlotte, NC",10,0,2272.97,Nonstop,14.32,413.22,4132.25,95778.5,30
+"San Jose, CA","Chicago, IL",10,0,1837.91,Nonstop,12.32,357.66,3576.62,82398.5,30
+"San Jose, CA","Cleveland, OH",10,0,2145.38,Nonstop,13.61,406.84,4068.44,91039.75,30
+"San Jose, CA","Columbus, OH",10,0,2089.73,1-Stop,18.29,612.0,6120.0,122344.5,30
+"San Jose, CA","Dallas, TX",10,0,1448.97,Nonstop,10.93,430.74,4307.43,73144.0,30
+"San Jose, CA","Denver, CO",10,0,926.81,Nonstop,8.83,381.95,3819.46,59095.0,30
+"San Jose, CA","Detroit, MI",10,0,2071.0,Nonstop,13.28,335.75,3357.54,88865.5,30
+"San Jose, CA","Fort Lauderdale, FL",10,0,2550.07,Nonstop,15.44,326.07,3260.67,103304.75,30
+"San Jose, CA","Hartford, CT",10,0,2604.18,1-Stop,20.57,612.0,6120.0,137640.96,30
+"San Jose, CA","Houston, TX",10,0,1607.97,Nonstop,11.44,364.33,3643.3,76544.75,30
+"San Jose, CA","Iowa City, IA",10,0,1637.12,1-Stop,16.28,612.0,6120.0,108887.12,30
+"San Jose, CA","Kansas City, MO",10,0,1481.86,1-Stop,15.59,612.0,6120.0,104270.69,30
+"San Jose, CA","Las Vegas, NV",10,0,382.22,Nonstop,6.62,432.0,4320.03,44265.5,30
+"San Jose, CA","Lincoln, NE",10,0,1367.37,1-Stop,15.08,612.0,6120.0,100866.41,30
+"San Jose, CA","Los Angeles, CA",10,0,305.92,Nonstop,6.37,413.24,4132.42,42593.0,30
+"San Jose, CA","Milwaukee, WI",10,0,1823.07,1-Stop,17.1,612.0,6120.0,114416.01,30
+"San Jose, CA","Minneapolis, MN",10,0,1569.76,Nonstop,11.4,381.02,3810.18,76266.0,30
+"San Jose, CA","Nashville, TN",10,0,1934.25,Nonstop,12.97,433.32,4333.2,86747.0,30
+"San Jose, CA","New Bern, NC",10,0,2481.1,1-Stop,20.03,612.0,6120.0,133981.23,30
+"San Jose, CA","New York, NY",10,0,2548.78,Nonstop,15.42,375.67,3756.7,103137.5,30
+"San Jose, CA","Oklahoma City, OK",10,0,1357.58,1-Stop,15.03,612.0,6120.0,100575.3,30
+"San Jose, CA","Omaha, NE",10,0,1408.67,1-Stop,15.26,612.0,6120.0,102094.51,30
+"San Jose, CA","Orlando, FL",10,0,2406.84,Nonstop,15.03,471.13,4711.26,100573.0,30
+"San Jose, CA","Philadelphia, PA",10,0,2498.81,Nonstop,15.22,367.8,3677.98,101855.25,30
+"San Jose, CA","Phoenix, AZ",10,0,614.5,Nonstop,7.37,449.08,4490.76,49283.0,30
+"San Jose, CA","Pittsburgh, PA",10,0,2241.88,Nonstop,14.05,452.89,4528.94,93994.5,30
+"San Jose, CA","Raleigh, NC",10,0,2381.63,Nonstop,14.72,381.11,3811.1,98510.25,30
+"San Jose, CA","San Antonio, TX",10,0,1451.81,Nonstop,11.29,446.56,4465.6,75541.25,30
+"San Jose, CA","San Diego, CA",10,0,416.42,Nonstop,6.62,381.94,3819.38,44265.5,30
+"San Jose, CA","San Francisco, CA",10,0,41.54,Drive,1.81,23.26,232.62,12126.41,30
+"San Jose, CA","San Jose, CA",10,0,0.0,Local,0.0,0.0,0.0,0.0,0
+"San Jose, CA","Seattle, WA",10,0,709.95,Nonstop,8.12,373.71,3737.06,54300.5,30
+"San Jose, CA","St. Louis, MO",10,0,1719.5,1-Stop,16.64,612.0,6120.0,111336.53,30
+"San Jose, CA","St. Petersburg, FL",10,0,2360.96,Nonstop,14.64,434.45,4344.5,97952.75,30
+"San Jose, CA","Washington, DC",10,0,2415.42,Nonstop,14.67,404.72,4047.16,98120.0,30
+"Seattle, WA","Atlanta, GA",79,0,2178.18,Nonstop,13.79,452.95,35782.72,642002.08,237
+"Seattle, WA","Austin, TX",79,0,1769.59,Nonstop,12.32,458.56,36226.3,573340.83,237
+"Seattle, WA","Baltimore, MD",79,0,2328.25,Nonstop,14.58,456.78,36085.52,678854.17,237
+"Seattle, WA","Boston, MA",79,0,2485.36,Nonstop,15.28,401.25,31698.45,711051.25,237
+"Seattle, WA","Cedar Rapids, IA",79,0,1541.76,1-Stop,15.85,612.0,48348.0,737923.21,237
+"Seattle, WA","Champaign, IL",79,0,1759.22,1-Stop,16.82,612.0,48348.0,782912.77,237
+"Seattle, WA","Charlotte, NC",79,0,2280.89,Nonstop,14.42,437.89,34593.15,671095.83,237
+"Seattle, WA","Chicago, IL",79,0,1732.77,Nonstop,12.2,356.85,28191.0,567910.0,237
+"Seattle, WA","Cleveland, OH",79,0,2020.65,1-Stop,17.98,612.0,48348.0,836999.69,237
+"Seattle, WA","Columbus, OH",79,0,2008.29,Nonstop,13.28,458.22,36199.45,617951.25,237
+"Seattle, WA","Dallas, TX",79,0,1679.54,Nonstop,11.88,391.29,30912.12,553169.17,237
+"Seattle, WA","Denver, CO",79,0,1019.52,Nonstop,9.32,394.14,31136.95,433690.83,237
+"Seattle, WA","Detroit, MI",79,0,1932.94,Nonstop,12.73,338.03,26704.65,592736.67,237
+"Seattle, WA","Fort Lauderdale, FL",79,0,2716.55,Nonstop,16.07,420.3,33203.53,747903.33,237
+"Seattle, WA","Hartford, CT",79,0,2430.14,1-Stop,19.8,612.0,48348.0,921718.03,237
+"Seattle, WA","Houston, TX",79,0,1889.36,Nonstop,12.7,492.61,38916.36,591185.0,237
+"Seattle, WA","Iowa City, IA",79,0,1557.77,1-Stop,15.92,612.0,48348.0,741236.02,237
+"Seattle, WA","Kansas City, MO",79,0,1502.72,Nonstop,11.05,460.26,36360.89,514377.5,237
+"Seattle, WA","Las Vegas, NV",79,0,871.74,Nonstop,8.93,422.64,33388.57,415846.67,237
+"Seattle, WA","Lincoln, NE",79,0,1345.95,1-Stop,14.98,612.0,48348.0,697412.18,237
+"Seattle, WA","Los Angeles, CA",79,0,960.64,Nonstop,9.28,382.37,30206.97,432139.17,237
+"Seattle, WA","Milwaukee, WI",79,0,1687.17,Nonstop,11.96,407.96,32229.24,556660.42,237
+"Seattle, WA","Minneapolis, MN",79,0,1390.88,Nonstop,10.73,356.04,28127.49,499636.67,237
+"Seattle, WA","Nashville, TN",79,0,1970.62,Nonstop,13.11,429.55,33934.28,610192.92,237
+"Seattle, WA","New Bern, NC",79,0,2461.9,1-Stop,19.94,612.0,48348.0,928289.74,237
+"Seattle, WA","New York, NY",79,0,2401.73,Nonstop,15.02,374.53,29588.26,699025.83,237
+"Seattle, WA","Oklahoma City, OK",79,0,1522.43,Nonstop,11.3,471.84,37275.36,526015.0,237
+"Seattle, WA","Omaha, NE",79,0,1366.53,Nonstop,10.72,421.71,33315.16,498860.83,237
+"Seattle, WA","Orlando, FL",79,0,2546.27,Nonstop,15.25,454.41,35898.5,709887.5,237
+"Seattle, WA","Philadelphia, PA",79,0,2372.95,Nonstop,14.85,391.33,30914.97,691267.5,237
+"Seattle, WA","Phoenix, AZ",79,0,1114.66,Nonstop,9.74,417.31,32967.12,453474.58,237
+"Seattle, WA","Pittsburgh, PA",79,0,2132.4,Nonstop,13.56,380.16,30032.98,631140.42,237
+"Seattle, WA","Raleigh, NC",79,0,2361.42,Nonstop,14.5,428.21,33828.83,674975.0,237
+"Seattle, WA","San Antonio, TX",79,0,1786.23,Nonstop,12.28,411.71,32524.87,571789.17,237
+"Seattle, WA","San Diego, CA",79,0,1063.78,Nonstop,9.53,417.72,33000.04,443776.67,237
+"Seattle, WA","San Francisco, CA",79,0,679.9,Nonstop,8.12,422.78,33399.4,377830.83,237
+"Seattle, WA","San Jose, CA",79,0,709.95,Nonstop,8.12,373.71,29522.78,377830.83,237
+"Seattle, WA","Seattle, WA",79,0,0.0,Local,0.0,0.0,0.0,0.0,0
+"Seattle, WA","St. Louis, MO",79,0,1720.09,Nonstop,12.12,387.56,30617.17,564030.83,237
+"Seattle, WA","St. Petersburg, FL",79,0,2526.63,Nonstop,15.15,417.44,32977.4,705232.5,237
+"Seattle, WA","Washington, DC",79,0,2321.28,Nonstop,14.45,461.14,36430.37,672647.5,237
+"St. Louis, MO","Atlanta, GA",74,1,467.4,Nonstop,6.98,415.63,30756.66,284745.42,223
+"St. Louis, MO","Austin, TX",74,1,719.26,Nonstop,7.87,434.32,32139.68,320763.33,223
+"St. Louis, MO","Baltimore, MD",74,1,730.88,Nonstop,7.98,358.85,26554.54,325520.42,223
+"St. Louis, MO","Boston, MA",74,1,1035.71,Nonstop,9.38,392.02,29009.59,382605.42,223
+"St. Louis, MO","Cedar Rapids, IA",74,1,244.07,1-Stop,10.08,612.0,45288.0,411205.93,223
+"St. Louis, MO","Champaign, IL",74,1,146.82,Drive,6.41,82.22,6084.11,261227.85,223
+"St. Louis, MO","Charlotte, NC",74,1,567.47,Nonstop,7.65,420.96,31150.82,311928.75,223
+"St. Louis, MO","Chicago, IL",74,1,262.25,Nonstop,5.92,338.86,25075.95,241252.08,223
+"St. Louis, MO","Cleveland, OH",74,1,491.46,Nonstop,6.88,381.63,28240.62,280667.92,223
+"St. Louis, MO","Columbus, OH",74,1,395.69,Nonstop,6.52,467.56,34599.44,266056.88,223
+"St. Louis, MO","Dallas, TX",74,1,547.86,Nonstop,7.13,441.39,32662.96,290861.67,223
+"St. Louis, MO","Denver, CO",74,1,794.88,Nonstop,8.17,432.83,32029.36,332995.83,223
+"St. Louis, MO","Detroit, MI",74,1,454.23,Nonstop,6.93,428.94,31741.24,282706.67,223
+"St. Louis, MO","Fort Lauderdale, FL",74,1,1043.3,Nonstop,9.29,404.28,29916.6,378867.71,223
+"St. Louis, MO","Hartford, CT",74,1,948.31,1-Stop,13.21,612.0,45288.0,538829.69,223
+"St. Louis, MO","Houston, TX",74,1,680.05,Nonstop,7.72,343.51,25419.95,314647.08,223
+"St. Louis, MO","Iowa City, IA",74,1,220.82,1-Stop,9.98,612.0,45288.0,406992.04,223
+"St. Louis, MO","Kansas City, MO",74,1,237.84,Nonstop,5.82,351.82,26034.83,237514.38,223
+"St. Louis, MO","Las Vegas, NV",74,1,1375.16,Nonstop,10.42,418.06,30936.2,424739.58,223
+"St. Louis, MO","Lincoln, NE",74,1,376.73,1-Stop,10.67,612.0,45288.0,435246.59,223
+"St. Louis, MO","Los Angeles, CA",74,1,1585.85,Nonstop,11.41,369.44,27338.57,465174.79,223
+"St. Louis, MO","Milwaukee, WI",74,1,327.34,Nonstop,6.22,395.13,29239.62,253484.58,223
+"St. Louis, MO","Minneapolis, MN",74,1,466.27,Nonstop,6.85,429.45,31779.41,279308.75,223
+"St. Louis, MO","Nashville, TN",74,1,253.67,Nonstop,6.05,430.07,31825.2,246688.75,223
+"St. Louis, MO","New Bern, NC",74,1,766.16,1-Stop,12.41,612.0,45288.0,505820.87,223
+"St. Louis, MO","New York, NY",74,1,871.66,Nonstop,8.96,328.08,24278.14,365276.04,223
+"St. Louis, MO","Oklahoma City, OK",74,1,458.71,Nonstop,6.72,407.11,30126.14,273872.08,223
+"St. Louis, MO","Omaha, NE",74,1,353.65,Nonstop,6.2,348.61,25797.14,252805.0,223
+"St. Louis, MO","Orlando, FL",74,1,861.43,Nonstop,8.62,385.17,28502.75,351344.58,223
+"St. Louis, MO","Philadelphia, PA",74,1,807.92,Nonstop,8.54,460.49,34076.24,348286.46,223
+"St. Louis, MO","Phoenix, AZ",74,1,1269.69,Nonstop,9.12,402.24,29765.77,371732.08,223
+"St. Louis, MO","Pittsburgh, PA",74,1,557.39,Nonstop,7.08,458.7,33943.8,288822.92,223
+"St. Louis, MO","Raleigh, NC",74,1,665.4,Nonstop,7.68,655.54,48509.61,312948.12,223
+"St. Louis, MO","San Antonio, TX",74,1,793.12,Nonstop,8.04,399.04,29528.96,327898.96,223
+"St. Louis, MO","San Diego, CA",74,1,1561.03,Nonstop,11.02,521.01,38554.74,449204.58,223
+"St. Louis, MO","San Francisco, CA",74,1,1741.47,1-Stop,16.74,612.0,45288.0,682568.8,223
+"St. Louis, MO","San Jose, CA",74,1,1719.5,1-Stop,16.64,612.0,45288.0,678587.01,223
+"St. Louis, MO","Seattle, WA",74,1,1720.09,Nonstop,12.12,387.56,28679.37,494057.08,223
+"St. Louis, MO","St. Louis, MO",74,1,0.0,Local,0.0,0.0,0.0,0.0,0
+"St. Louis, MO","St. Petersburg, FL",74,1,867.58,Nonstop,8.37,398.9,29518.81,341150.83,223
+"St. Louis, MO","Washington, DC",74,1,708.58,Nonstop,8.18,380.4,28149.94,333675.42,223
+"St. Petersburg, FL","Atlanta, GA",24,0,426.02,Nonstop,6.77,408.23,9797.52,88203.5,72
+"St. Petersburg, FL","Austin, TX",24,0,927.79,Nonstop,8.67,396.45,9514.84,112970.0,72
+"St. Petersburg, FL","Baltimore, MD",24,0,867.87,Nonstop,8.47,357.35,8576.46,110363.0,72
+"St. Petersburg, FL","Boston, MA",24,0,1199.53,Nonstop,10.18,320.13,7683.17,132739.75,72
+"St. Petersburg, FL","Cedar Rapids, IA",24,0,1105.67,1-Stop,13.91,612.0,14688.0,181369.98,72
+"St. Petersburg, FL","Champaign, IL",24,0,911.15,1-Stop,13.05,612.0,14688.0,170101.24,72
+"St. Petersburg, FL","Charlotte, NC",24,0,526.2,Nonstop,7.32,400.6,9614.4,95372.75,72
+"St. Petersburg, FL","Chicago, IL",24,0,1014.67,Nonstop,9.0,411.19,9868.51,117315.0,72
+"St. Petersburg, FL","Cleveland, OH",24,0,950.18,Nonstop,8.98,406.21,9748.98,117097.75,72
+"St. Petersburg, FL","Columbus, OH",24,0,842.51,Nonstop,8.2,351.14,8427.28,106887.0,72
+"St. Petersburg, FL","Dallas, TX",24,0,912.08,Nonstop,8.6,375.32,9007.74,112101.0,72
+"St. Petersburg, FL","Denver, CO",24,0,1520.49,Nonstop,11.02,379.32,9103.68,143602.25,72
+"St. Petersburg, FL","Detroit, MI",24,0,1006.27,Nonstop,9.1,420.66,10095.74,118618.5,72
+"St. Petersburg, FL","Fort Lauderdale, FL",24,0,191.58,Nonstop,5.88,408.54,9804.95,76689.25,72
+"St. Petersburg, FL","Hartford, CT",24,0,1118.23,Nonstop,9.6,372.05,8929.21,125136.0,72
+"St. Petersburg, FL","Houston, TX",24,0,782.76,Nonstop,8.05,423.8,10171.08,104931.75,72
+"St. Petersburg, FL","Iowa City, IA",24,0,1082.94,1-Stop,13.81,612.0,14688.0,180053.48,72
+"St. Petersburg, FL","Kansas City, MO",24,0,1040.53,Nonstop,9.08,453.7,10888.78,118401.25,72
+"St. Petersburg, FL","Las Vegas, NV",24,0,1980.84,Nonstop,13.0,538.82,12931.6,169455.0,72
+"St. Petersburg, FL","Lincoln, NE",24,0,1203.44,1-Stop,14.35,612.0,14688.0,187034.17,72
+"St. Petersburg, FL","Los Angeles, CA",24,0,2143.36,Nonstop,13.59,373.67,8968.13,177167.38,72
+"St. Petersburg, FL","Milwaukee, WI",24,0,1095.41,Nonstop,9.18,393.21,9436.92,119704.75,72
+"St. Petersburg, FL","Minneapolis, MN",24,0,1325.29,Nonstop,10.35,420.44,10090.5,134912.25,72
+"St. Petersburg, FL","Nashville, TN",24,0,628.26,Nonstop,7.42,338.11,8114.64,96676.25,72
+"St. Petersburg, FL","New Bern, NC",24,0,604.85,1-Stop,11.69,612.0,14688.0,152355.88,72
+"St. Petersburg, FL","New York, NY",24,0,1019.68,Nonstop,9.47,339.94,8158.64,123398.0,72
+"St. Petersburg, FL","Oklahoma City, OK",24,0,1022.68,1-Stop,13.55,612.0,14688.0,176562.21,72
+"St. Petersburg, FL","Omaha, NE",24,0,1197.5,1-Stop,14.32,612.0,14688.0,186690.23,72
+"St. Petersburg, FL","Orlando, FL",24,0,93.39,Drive,4.08,52.3,1255.18,53121.07,72
+"St. Petersburg, FL","Philadelphia, PA",24,0,943.51,Nonstop,9.12,435.91,10461.72,118835.75,72
+"St. Petersburg, FL","Phoenix, AZ",24,0,1787.15,Nonstop,11.87,401.15,9627.71,154682.0,72
+"St. Petersburg, FL","Pittsburgh, PA",24,0,888.23,Nonstop,8.48,348.94,8374.5,110580.25,72
+"St. Petersburg, FL","Raleigh, NC",24,0,601.09,Nonstop,7.53,456.2,10948.82,98197.0,72
+"St. Petersburg, FL","San Antonio, TX",24,0,967.53,Nonstop,8.78,325.25,7806.0,114490.75,72
+"St. Petersburg, FL","San Diego, CA",24,0,2079.36,1-Stop,18.24,612.0,14688.0,237779.22,72
+"St. Petersburg, FL","San Francisco, CA",24,0,2392.35,Nonstop,14.64,434.45,10426.8,190854.12,72
+"St. Petersburg, FL","San Jose, CA",24,0,2360.96,Nonstop,14.64,434.45,10426.8,190854.12,72
+"St. Petersburg, FL","Seattle, WA",24,0,2526.63,Nonstop,15.15,417.44,10018.45,197480.25,72
+"St. Petersburg, FL","St. Louis, MO",24,0,867.58,Nonstop,8.37,398.9,9573.67,109059.5,72
+"St. Petersburg, FL","St. Petersburg, FL",24,0,0.0,Local,0.0,0.0,0.0,0.0,0
+"St. Petersburg, FL","Washington, DC",24,0,834.36,Nonstop,8.43,354.59,8510.14,109928.5,72
+"Washington, DC","Atlanta, GA",69,0,542.33,Nonstop,7.27,409.59,28261.67,406916.98,207
+"Washington, DC","Austin, TX",69,0,1315.84,Nonstop,10.36,390.0,26910.06,580043.36,207
+"Washington, DC","Baltimore, MD",69,0,34.94,Drive,1.52,19.57,1350.17,85383.01,207
+"Washington, DC","Boston, MA",69,0,393.71,Nonstop,6.95,363.03,25049.37,389184.36,207
+"Washington, DC","Cedar Rapids, IA",69,0,796.86,1-Stop,12.54,612.0,42228.0,702301.14,207
+"Washington, DC","Champaign, IL",69,0,602.41,1-Stop,11.68,612.0,42228.0,653905.89,207
+"Washington, DC","Charlotte, NC",69,0,329.38,Nonstop,6.65,366.32,25276.39,372385.04,207
+"Washington, DC","Chicago, IL",69,0,593.35,Nonstop,7.28,376.22,25958.87,407383.63,207
+"Washington, DC","Cleveland, OH",69,0,303.63,Nonstop,6.33,340.7,23508.27,354652.42,207
+"Washington, DC","Columbus, OH",69,0,326.15,Nonstop,6.45,408.8,28207.29,361185.49,207
+"Washington, DC","Dallas, TX",69,0,1181.96,Nonstop,9.72,422.26,29135.69,544111.47,207
+"Washington, DC","Denver, CO",69,0,1488.93,Nonstop,10.86,368.21,25406.44,608042.24,207
+"Washington, DC","Detroit, MI",69,0,393.77,Nonstop,6.8,324.33,22378.82,380784.7,207
+"Washington, DC","Fort Lauderdale, FL",69,0,901.81,Nonstop,8.92,383.95,26492.34,499313.27,207
+"Washington, DC","Hartford, CT",69,0,302.83,Nonstop,6.53,411.51,28393.99,365851.97,207
+"Washington, DC","Houston, TX",69,0,1218.54,Nonstop,10.03,391.29,26998.73,561844.09,207
+"Washington, DC","Iowa City, IA",69,0,785.96,1-Stop,12.49,612.0,42228.0,699588.78,207
+"Washington, DC","Kansas City, MO",69,0,940.39,Nonstop,8.98,359.64,24815.12,502579.81,207
+"Washington, DC","Las Vegas, NV",69,0,2080.79,Nonstop,13.28,391.89,27040.08,743836.78,207
+"Washington, DC","Lincoln, NE",69,0,1048.7,1-Stop,13.66,612.0,42228.0,764980.06,207
+"Washington, DC","Los Angeles, CA",69,0,2293.8,Nonstop,14.17,416.59,28744.92,793301.46,207
+"Washington, DC","Milwaukee, WI",69,0,634.11,Nonstop,7.62,378.04,26084.96,426516.2,207
+"Washington, DC","Minneapolis, MN",69,0,931.28,Nonstop,8.92,337.39,23279.83,499313.27,207
+"Washington, DC","Nashville, TN",69,0,566.12,Nonstop,7.33,363.49,25080.47,410650.17,207
+"Washington, DC","New Bern, NC",69,0,262.56,1-Stop,10.17,612.0,42228.0,569324.78,207
+"Washington, DC","New York, NY",69,0,203.28,Nonstop,6.42,320.83,22137.0,359318.9,207
+"Washington, DC","Oklahoma City, OK",69,0,1149.45,Nonstop,9.88,421.67,29094.9,553444.43,207
+"Washington, DC","Omaha, NE",69,0,1009.62,Nonstop,9.23,445.85,30763.75,517045.89,207
+"Washington, DC","Orlando, FL",69,0,758.4,Nonstop,8.27,339.09,23397.21,462914.73,207
+"Washington, DC","Philadelphia, PA",69,0,122.97,Drive,5.37,68.86,4751.65,300487.37,207
+"Washington, DC","Phoenix, AZ",69,0,1977.17,Nonstop,12.67,416.9,28765.8,709304.83,207
+"Washington, DC","Pittsburgh, PA",69,0,189.6,Nonstop,5.92,392.64,27092.11,331786.67,207
+"Washington, DC","Raleigh, NC",69,0,233.43,Nonstop,6.08,419.4,28938.27,340652.98,207
+"Washington, DC","San Antonio, TX",69,0,1385.62,Nonstop,10.63,384.46,26527.42,595442.74,207
+"Washington, DC","San Diego, CA",69,0,2269.51,Nonstop,14.12,444.29,30656.2,790501.57,207
+"Washington, DC","San Francisco, CA",69,0,2434.82,Nonstop,14.67,404.72,27925.4,821300.33,207
+"Washington, DC","San Jose, CA",69,0,2415.42,Nonstop,14.67,404.72,27925.4,821300.33,207
+"Washington, DC","Seattle, WA",69,0,2321.28,Nonstop,14.45,461.14,31818.93,809167.49,207
+"Washington, DC","St. Louis, MO",69,0,708.58,Nonstop,8.18,380.4,26247.92,458248.25,207
+"Washington, DC","St. Petersburg, FL",69,0,834.36,Nonstop,8.43,354.59,24466.64,472247.69,207
+"Washington, DC","Washington, DC",69,0,0.0,Local,0.0,0.0,0.0,0.0,0
